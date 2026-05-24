@@ -14,7 +14,7 @@
     }
 
     .container {
-      max-width: 980px;
+      max-width: 1040px;
       margin: 0 auto;
       padding: 48px 24px;
     }
@@ -27,9 +27,25 @@
       box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
     }
 
+    .hero {
+      display: grid;
+      grid-template-columns: 1fr 190px;
+      gap: 32px;
+      align-items: center;
+    }
+
+    .profile-photo {
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 24px;
+      background: #eef1f5;
+      display: block;
+    }
+
     h1 {
       margin: 0 0 12px;
-      font-size: 38px;
+      font-size: 40px;
       line-height: 1.2;
     }
 
@@ -61,6 +77,16 @@
     .subtitle {
       font-size: 18px;
       color: #555;
+    }
+
+    .education {
+      margin-top: 16px;
+      color: #444;
+      font-size: 16px;
+    }
+
+    .education div {
+      margin-bottom: 4px;
     }
 
     .links {
@@ -105,6 +131,24 @@
       font-size: 13px;
     }
 
+    .publication-card {
+      display: grid;
+      grid-template-columns: 220px 1fr;
+      gap: 22px;
+      align-items: start;
+      margin-bottom: 28px;
+    }
+
+    .publication-cover {
+      width: 220px;
+      height: 130px;
+      object-fit: cover;
+      border-radius: 14px;
+      background: linear-gradient(135deg, #edf1f7, #dfe6f0);
+      border: 1px solid #edf0f4;
+      display: block;
+    }
+
     .post-list {
       margin: 0;
       padding-left: 20px;
@@ -120,11 +164,47 @@
       margin-bottom: 14px;
     }
 
+    details {
+      margin-top: 12px;
+    }
+
+    summary {
+      cursor: pointer;
+      color: #1769e0;
+      font-size: 15px;
+      user-select: none;
+    }
+
+    summary:hover {
+      text-decoration: underline;
+    }
+
     .footer {
       text-align: center;
       color: #777;
       font-size: 14px;
       padding: 16px 0 32px;
+    }
+
+    @media (max-width: 760px) {
+      .hero {
+        grid-template-columns: 1fr;
+      }
+
+      .profile-photo {
+        width: 150px;
+        height: 150px;
+      }
+
+      .publication-card {
+        grid-template-columns: 1fr;
+      }
+
+      .publication-cover {
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9;
+      }
     }
 
     @media (max-width: 640px) {
@@ -146,80 +226,101 @@
 
 <body>
   <main class="container">
-    <section class="card">
-      <h1>辛嘉琪</h1>
-      <p class="subtitle">
-        北京交通大学物理系研究生<br>
-        研究方向：二维材料、堆垛铁电、非线性光学响应、计算凝聚态物理
-      </p>
+    <section class="card hero">
+      <div>
+        <h1>辛嘉琪</h1>
+        <p class="subtitle">
+          北京交通大学物理系研究生<br>
+          研究方向：堆叠/滑移铁电、非线性光学响应、晶体对称性与群论
+        </p>
 
-      <div class="links">
-        <a href="mailto:jiaqixin2@bjtu.edu.cn">Email</a>
-        <a href="https://github.com/Xin-Jiaqi" target="_blank">GitHub</a>
-        <a href="https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=AIqSsVvCFGQzPha7yiGAIyeyQjuiP4H5delEt3pk_wblecLufZHVndmH4HnBvRqe-IfngWnvU_wasC31Xu5daG3NkGc&user=sYpTrzkAAAAJ" target="_blank">Google Scholar</a>
-        <a href="https://orcid.org/0009-0008-3876-7828" target="_blank">ORCID</a>
-        <a href="https://www.researchgate.net/profile/Xin-Jiaqi" target="_blank">ResearchGate</a>
+        <div class="education">
+          <div>2019–2023　北京交通大学基础学科试点班，本科</div>
+          <div>2023–2026　北京交通大学物理系研究生，导师：郭亚光</div>
+        </div>
+
+        <div class="links">
+          <a href="mailto:jiaqixin2@bjtu.edu.cn">Email</a>
+          <a href="https://github.com/Xin-Jiaqi" target="_blank">GitHub</a>
+          <a href="https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=AIqSsVvCFGQzPha7yiGAIyeyQjuiP4H5delEt3pk_wblecLufZHVndmH4HnBvRqe-IfngWnvU_wasC31Xu5daG3NkGc&user=sYpTrzkAAAAJ" target="_blank">Google Scholar</a>
+          <a href="https://orcid.org/0009-0008-3876-7828" target="_blank">ORCID</a>
+          <a href="https://www.researchgate.net/profile/Xin-Jiaqi" target="_blank">ResearchGate</a>
+        </div>
       </div>
+
+      <img src="assets/profile.jpg" alt="Xinjiaqi Xin" class="profile-photo">
     </section>
 
     <section class="card">
       <h2>Selected Publications</h2>
 
-      <div class="item">
-        <div class="item-title">
-          Multilayer stacking ferroelectricity in two-dimensional materials with Bravais lattice symmetry: Theory and applications
-        </div>
-        <div class="muted">Phys. Rev. B 113, 075310 (2026)</div>
-        <div class="muted">DOI: 10.1103/9tt5-qm26</div>
+      <div class="publication-card">
+        <img src="assets/pub-msf.jpg" alt="Multilayer stacking ferroelectricity cover" class="publication-cover">
         <div>
-          <a href="https://link.aps.org/doi/10.1103/9tt5-qm26" target="_blank">Journal</a> /
-          <a href="https://zhuanlan.zhihu.com/p/2040503723403768417" target="_blank">Zhihu Article</a>
+          <div class="item-title">
+            Multilayer stacking ferroelectricity in two-dimensional materials with Bravais lattice symmetry: Theory and applications
+          </div>
+          <div class="muted">Phys. Rev. B 113, 075310 (2026)</div>
+          <div class="muted">DOI: 10.1103/9tt5-qm26</div>
+          <div>
+            <a href="https://link.aps.org/doi/10.1103/9tt5-qm26" target="_blank">Journal</a> /
+            <a href="https://zhuanlan.zhihu.com/p/2040503723403768417" target="_blank">Zhihu Article</a>
+          </div>
+          <span class="tag">Stacking ferroelectricity</span>
+          <span class="tag">2D materials</span>
+          <span class="tag">Symmetry</span>
         </div>
-        <span class="tag">Stacking ferroelectricity</span>
-        <span class="tag">2D materials</span>
-        <span class="tag">Symmetry</span>
       </div>
 
-      <div class="item">
-        <div class="item-title">
-          Enhanced theoretical framework for bilayer stacking ferroelectricity
-        </div>
-        <div class="muted">Phys. Rev. B 111, 224102 (2025)</div>
-        <div class="muted">DOI: 10.1103/PhysRevB.111.224102</div>
+      <div class="publication-card">
+        <img src="assets/pub-bsf.jpg" alt="Bilayer stacking ferroelectricity cover" class="publication-cover">
         <div>
-          <a href="https://link.aps.org/doi/10.1103/PhysRevB.111.224102" target="_blank">Journal</a> /
-          <a href="https://zhuanlan.zhihu.com/p/1940904670697615387" target="_blank">Zhihu Article</a>
+          <div class="item-title">
+            Enhanced theoretical framework for bilayer stacking ferroelectricity
+          </div>
+          <div class="muted">Phys. Rev. B 111, 224102 (2025)</div>
+          <div class="muted">DOI: 10.1103/PhysRevB.111.224102</div>
+          <div>
+            <a href="https://link.aps.org/doi/10.1103/PhysRevB.111.224102" target="_blank">Journal</a> /
+            <a href="https://zhuanlan.zhihu.com/p/1940904670697615387" target="_blank">Zhihu Article</a>
+          </div>
+          <span class="tag">Bilayer stacking ferroelectricity</span>
+          <span class="tag">Ferroelectric reversal</span>
         </div>
-        <span class="tag">Bilayer stacking ferroelectricity</span>
-        <span class="tag">Ferroelectric reversal</span>
       </div>
 
-      <div class="item">
-        <div class="item-title">
-          Bulk Photovoltaic Effect in the Elemental Blue Phosphorus-Based Polar Homojunction and Heterojunction
-        </div>
-        <div class="muted">J. Phys. Chem. C 128, 9705 (2024)</div>
-        <div class="muted">DOI: 10.1021/acs.jpcc.4c01207</div>
+      <div class="publication-card">
+        <img src="assets/pub-bluep-bpve.jpg" alt="Blue phosphorus BPVE cover" class="publication-cover">
         <div>
-          <a href="https://doi.org/10.1021/acs.jpcc.4c01207" target="_blank">Journal</a>
+          <div class="item-title">
+            Bulk Photovoltaic Effect in the Elemental Blue Phosphorus-Based Polar Homojunction and Heterojunction
+          </div>
+          <div class="muted">J. Phys. Chem. C 128, 9705 (2024)</div>
+          <div class="muted">DOI: 10.1021/acs.jpcc.4c01207</div>
+          <div>
+            <a href="https://doi.org/10.1021/acs.jpcc.4c01207" target="_blank">Journal</a>
+          </div>
+          <span class="tag">Bulk photovoltaic effect</span>
+          <span class="tag">Blue phosphorus</span>
         </div>
-        <span class="tag">Bulk photovoltaic effect</span>
-        <span class="tag">Blue phosphorus</span>
       </div>
 
-      <div class="item">
-        <div class="item-title">
-          Screening two-dimensional pyroelectric materials based on pentagonal chains with large shift current
-        </div>
-        <div class="muted">Phys. Rev. Mater. 7, 074001 (2023)</div>
-        <div class="muted">DOI: 10.1103/PhysRevMaterials.7.074001</div>
+      <div class="publication-card">
+        <img src="assets/pub-pyroelectric-shift-current.jpg" alt="Pyroelectric shift current cover" class="publication-cover">
         <div>
-          <a href="https://link.aps.org/doi/10.1103/PhysRevMaterials.7.074001" target="_blank">Journal</a> /
-          <a href="https://zhuanlan.zhihu.com/p/656334259" target="_blank">Zhihu Article</a>
+          <div class="item-title">
+            Screening two-dimensional pyroelectric materials based on pentagonal chains with large shift current
+          </div>
+          <div class="muted">Phys. Rev. Mater. 7, 074001 (2023)</div>
+          <div class="muted">DOI: 10.1103/PhysRevMaterials.7.074001</div>
+          <div>
+            <a href="https://link.aps.org/doi/10.1103/PhysRevMaterials.7.074001" target="_blank">Journal</a> /
+            <a href="https://zhuanlan.zhihu.com/p/656334259" target="_blank">Zhihu Article</a>
+          </div>
+          <span class="tag">Pyroelectric materials</span>
+          <span class="tag">Shift current</span>
+          <span class="tag">High-throughput screening</span>
         </div>
-        <span class="tag">Pyroelectric materials</span>
-        <span class="tag">Shift current</span>
-        <span class="tag">High-throughput screening</span>
       </div>
     </section>
 
@@ -258,35 +359,39 @@
         </div>
       </div>
 
-      <div class="item">
-        <div class="item-title">ICSD-to-Materials-Project mapper</div>
-        <div class="muted">
-          将 ICSD ID 映射到 Materials Project ID，用于批量获取材料结构并衔接后续计算流程。
-        </div>
-        <div>
-          <a href="https://zhuanlan.zhihu.com/p/12104818456" target="_blank">Zhihu Article</a>
-        </div>
-      </div>
+      <details>
+        <summary>See more projects</summary>
 
-      <div class="item">
-        <div class="item-title">cif-to-POSCAR converter</div>
-        <div class="muted">
-          使用 Python 和 ASE 库批量将 CIF 文件转换为 VASP POSCAR 文件。
+        <div class="item">
+          <div class="item-title">ICSD-to-Materials-Project mapper</div>
+          <div class="muted">
+            将 ICSD ID 映射到 Materials Project ID，用于批量获取材料结构并衔接后续计算流程。
+          </div>
+          <div>
+            <a href="https://zhuanlan.zhihu.com/p/12104818456" target="_blank">Zhihu Article</a>
+          </div>
         </div>
-        <div>
-          <a href="https://zhuanlan.zhihu.com/p/11206188677" target="_blank">Zhihu Article</a>
-        </div>
-      </div>
 
-      <div class="item">
-        <div class="item-title">POSCAR Cartesian-to-Direct converter</div>
-        <div class="muted">
-          将 VASP POSCAR 文件中的笛卡尔坐标转换为分数坐标的 MatLab 脚本。
+        <div class="item">
+          <div class="item-title">cif-to-POSCAR converter</div>
+          <div class="muted">
+            使用 Python 和 ASE 库批量将 CIF 文件转换为 VASP POSCAR 文件。
+          </div>
+          <div>
+            <a href="https://zhuanlan.zhihu.com/p/11206188677" target="_blank">Zhihu Article</a>
+          </div>
         </div>
-        <div>
-          <a href="https://zhuanlan.zhihu.com/p/711541234" target="_blank">Zhihu Article</a>
+
+        <div class="item">
+          <div class="item-title">POSCAR Cartesian-to-Direct converter</div>
+          <div class="muted">
+            将 VASP POSCAR 文件中的笛卡尔坐标转换为分数坐标的 MatLab 脚本。
+          </div>
+          <div>
+            <a href="https://zhuanlan.zhihu.com/p/711541234" target="_blank">Zhihu Article</a>
+          </div>
         </div>
-      </div>
+      </details>
     </section>
 
     <section class="card">
@@ -298,14 +403,19 @@
         <li><a href="https://zhuanlan.zhihu.com/p/669854436" target="_blank">物理学中的群论：群的结构特征、群表示理论</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/1936543848932303720" target="_blank">群论 chapter 1：群的结构特征</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/1937175368894257117" target="_blank">群论 chapter 2：群的表示理论</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1939742654679212377" target="_blank">群论 chapter 2：群表示理论完整解题手稿</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/678923831" target="_blank">层群 the 80 Layer Groups：概念、特征及其与点群、平移群、空间群和平面群的关系</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1935800922589631729" target="_blank">Kagome 晶格相关：van Hove 奇点、对称性保护平带、Dirac 点</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1934011952285353132" target="_blank">自旋-轨道耦合：基本概念，以及重原子中 SOC 增强的原因</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/668044775" target="_blank">原子单位 Atomic units 和分子动力学单位 MD units：推导、计算及量纲验证</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1937619754945873146" target="_blank">衡量向量的“长度”：1、2、无穷以及 p-范数</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1938255563571041404" target="_blank">线性代数中的“奇异矩阵”与《三体 III》中的“二向箔”</a></li>
       </ul>
+      <details>
+        <summary>See more theory notes</summary>
+        <ul class="post-list">
+          <li><a href="https://zhuanlan.zhihu.com/p/1939742654679212377" target="_blank">群论 chapter 2：群表示理论完整解题手稿</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/678923831" target="_blank">层群 the 80 Layer Groups：概念、特征及其与点群、平移群、空间群和平面群的关系</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/1935800922589631729" target="_blank">Kagome 晶格相关：van Hove 奇点、对称性保护平带、Dirac 点</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/1934011952285353132" target="_blank">自旋-轨道耦合：基本概念，以及重原子中 SOC 增强的原因</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/668044775" target="_blank">原子单位 Atomic units 和分子动力学单位 MD units：推导、计算及量纲验证</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/1937619754945873146" target="_blank">衡量向量的“长度”：1、2、无穷以及 p-范数</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/1938255563571041404" target="_blank">线性代数中的“奇异矩阵”与《三体 III》中的“二向箔”</a></li>
+        </ul>
+      </details>
 
       <h3>Research Workflow</h3>
       <p class="section-note">科研绘图、文献阅读、论文写作和 AI 辅助科研工具。</p>
@@ -313,12 +423,17 @@
         <li><a href="https://zhuanlan.zhihu.com/p/670058757" target="_blank">科研绘图之热图 heatmap：MatLab、Python、Excel 和 Origin 绘制方法全总结及横向比较</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/676932485" target="_blank">科研绘图之 MatLab 双纵轴曲线图：绘制场景、应用举例、相关代码及技巧</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/683973403" target="_blank">科研绘图之 MatLab .fig 文件的存储、处理及利用</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/711243587" target="_blank">论文阅读 Zotero & GPT：配置、资源分享及避坑心得</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/13168716240" target="_blank">PDFMathTranslate：能够保留英文文献排版的翻译工具</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/684716524" target="_blank">科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/711699575" target="_blank">GitHub Copilot：学生认证、Visual Studio Code 拓展安装，以及额外资料</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1935816800332915578" target="_blank">借助大语言模型快速了解陌生科研领域的个人体会：以 Kagome 晶格与交错磁性为例</a></li>
       </ul>
+      <details>
+        <summary>See more workflow notes</summary>
+        <ul class="post-list">
+          <li><a href="https://zhuanlan.zhihu.com/p/711243587" target="_blank">论文阅读 Zotero & GPT：配置、资源分享及避坑心得</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/13168716240" target="_blank">PDFMathTranslate：能够保留英文文献排版的翻译工具</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/684716524" target="_blank">科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/711699575" target="_blank">GitHub Copilot：学生认证、Visual Studio Code 拓展安装，以及额外资料</a></li>
+          <li><a href="https://zhuanlan.zhihu.com/p/1935816800332915578" target="_blank">借助大语言模型快速了解陌生科研领域的个人体会：以 Kagome 晶格与交错磁性为例</a></li>
+        </ul>
+      </details>
 
       <h3>Literature Notes</h3>
       <p class="section-note">围绕二维材料、堆叠结构、高通量筛选和对称性理论的文献阅读笔记。</p>
@@ -326,8 +441,13 @@
         <li><a href="https://zhuanlan.zhihu.com/p/681969934" target="_blank">范德华双层同质结堆叠的高通量设计、筛选及计算（从 C2DB 到 BiDB）</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/682072052" target="_blank">范德华双层同质结嵌入同种金属原子的高通量计算及能带特性（ic-2D 材料）</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/681268408" target="_blank">晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用</a></li>
-        <li><a href="https://zhuanlan.zhihu.com/p/1887896719074763164" target="_blank">如何写作英文学术论文：a step-by-step guide for beginners</a></li>
       </ul>
+      <details>
+        <summary>See more literature notes</summary>
+        <ul class="post-list">
+          <li><a href="https://zhuanlan.zhihu.com/p/1887896719074763164" target="_blank">如何写作英文学术论文：a step-by-step guide for beginners</a></li>
+        </ul>
+      </details>
 
       <h3>Computational Methods</h3>
       <p class="section-note">计算材料学概念、能带分析和常用计算方法整理。</p>
@@ -335,16 +455,12 @@
         <li><a href="https://zhuanlan.zhihu.com/p/12898835960" target="_blank">何为 energy above convex hull？以及如何绘制 phase diagrams？</a></li>
         <li><a href="https://zhuanlan.zhihu.com/p/657229195" target="_blank">engwin.py：能带分析、Wannier90 解纠缠</a></li>
       </ul>
-    </section>
-
-    <section class="card">
-      <h2>About</h2>
-      <p>
-        我目前主要关注二维范德华材料中的堆垛铁电性、对称性分析以及非线性光学响应。这个主页用于整理论文、开源项目、科研笔记和公开文章。
-      </p>
-      <p>
-        Email: <a href="mailto:jiaqixin2@bjtu.edu.cn">jiaqixin2@bjtu.edu.cn</a>
-      </p>
+      <details>
+        <summary>See more computational notes</summary>
+        <ul class="post-list">
+          <li>More notes will be added later.</li>
+        </ul>
+      </details>
     </section>
   </main>
 
