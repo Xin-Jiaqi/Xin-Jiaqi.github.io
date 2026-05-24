@@ -133,20 +133,23 @@
 
     .publication-card {
       display: grid;
-      grid-template-columns: 220px 1fr;
+      grid-template-columns: 260px 1fr;
       gap: 22px;
       align-items: start;
       margin-bottom: 28px;
     }
 
     .publication-cover {
-      width: 220px;
-      height: 130px;
-      object-fit: cover;
+      width: 260px;
+      height: 160px;
+      object-fit: contain;
+      object-position: center;
       border-radius: 14px;
-      background: linear-gradient(135deg, #edf1f7, #dfe6f0);
+      background: #f3f5f8;
       border: 1px solid #edf0f4;
       display: block;
+      padding: 8px;
+      box-sizing: border-box;
     }
 
     .post-list {
@@ -202,8 +205,8 @@
 
       .publication-cover {
         width: 100%;
-        height: auto;
-        aspect-ratio: 16 / 9;
+        height: 220px;
+        object-fit: contain;
       }
     }
 
@@ -248,14 +251,14 @@
         </div>
       </div>
 
-      <img src="assets/profile.jpg" alt="Xinjiaqi Xin" class="profile-photo">
+      <img src="profile.jpg" alt="Xinjiaqi Xin" class="profile-photo">
     </section>
 
     <section class="card">
       <h2>Selected Publications</h2>
 
       <div class="publication-card">
-        <img src="assets/pub-msf.jpg" alt="Multilayer stacking ferroelectricity cover" class="publication-cover">
+        <img src="pub-msf.jpg" alt="Multilayer stacking ferroelectricity cover" class="publication-cover">
         <div>
           <div class="item-title">
             Multilayer stacking ferroelectricity in two-dimensional materials with Bravais lattice symmetry: Theory and applications
@@ -273,7 +276,7 @@
       </div>
 
       <div class="publication-card">
-        <img src="assets/pub-bsf.jpg" alt="Bilayer stacking ferroelectricity cover" class="publication-cover">
+        <img src="pub-bsf.jpg" alt="Bilayer stacking ferroelectricity cover" class="publication-cover">
         <div>
           <div class="item-title">
             Enhanced theoretical framework for bilayer stacking ferroelectricity
@@ -290,7 +293,7 @@
       </div>
 
       <div class="publication-card">
-        <img src="assets/pub-bluep-bpve.jpg" alt="Blue phosphorus BPVE cover" class="publication-cover">
+        <img src="pub-bluep-bpve.jpg" alt="Blue phosphorus BPVE cover" class="publication-cover">
         <div>
           <div class="item-title">
             Bulk Photovoltaic Effect in the Elemental Blue Phosphorus-Based Polar Homojunction and Heterojunction
@@ -306,7 +309,7 @@
       </div>
 
       <div class="publication-card">
-        <img src="assets/pub-pyroelectric-shift-current.jpg" alt="Pyroelectric shift current cover" class="publication-cover">
+        <img src="pub-pyroelectric-shift-current.jpg" alt="Pyroelectric shift current cover" class="publication-cover">
         <div>
           <div class="item-title">
             Screening two-dimensional pyroelectric materials based on pentagonal chains with large shift current
