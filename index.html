@@ -97,6 +97,8 @@
       display: inline-flex;
       align-items: center;
       justify-content: center;
+      justify-self: end;
+      width: fit-content;
       border-radius: 24px;
       overflow: hidden;
       background: #fff;
@@ -521,10 +523,16 @@
 
       .hero {
         grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      .profile-photo-wrap {
+        justify-self: center;
+        width: fit-content;
       }
 
       .profile-photo {
-        height: 150px;
+        height: 155px;
       }
 
       .publication-card {
