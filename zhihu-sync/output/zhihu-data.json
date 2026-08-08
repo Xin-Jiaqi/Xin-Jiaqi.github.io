@@ -1,0 +1,1548 @@
+{
+  "generated_at": "2026-08-08T11:12:30.923112+00:00",
+  "source": "zhihu-cli me contents",
+  "total": 91,
+  "summary": {
+    "total": 91,
+    "by_type": {
+      "pin": 6,
+      "answer": 40,
+      "article": 45
+    },
+    "likes": 1011,
+    "favorites": 2332,
+    "comments": 97
+  },
+  "categories": [
+    {
+      "id": "ferroelectrics",
+      "label": "铁电与极化",
+      "label_en": "Ferroelectricity & Polarization",
+      "count": 12
+    },
+    {
+      "id": "skyrmions",
+      "label": "磁性斯格明子",
+      "label_en": "Skyrmions & Magnetic Textures",
+      "count": 2
+    },
+    {
+      "id": "excitons",
+      "label": "激子与位移电流",
+      "label_en": "Excitons & Shift Current",
+      "count": 2
+    },
+    {
+      "id": "twod",
+      "label": "二维材料与范德华",
+      "label_en": "2D Materials & van der Waals",
+      "count": 4
+    },
+    {
+      "id": "computational",
+      "label": "计算方法与软件",
+      "label_en": "Computational Methods",
+      "count": 12
+    },
+    {
+      "id": "symmetry",
+      "label": "群论与对称性",
+      "label_en": "Group Theory & Symmetry",
+      "count": 13
+    },
+    {
+      "id": "theory",
+      "label": "数学与理论笔记",
+      "label_en": "Mathematics & Theory Notes",
+      "count": 5
+    },
+    {
+      "id": "tools",
+      "label": "科研工具与工作流",
+      "label_en": "Research Tools & Workflow",
+      "count": 19
+    },
+    {
+      "id": "ai",
+      "label": "AI 与编程实践",
+      "label_en": "AI & Programming",
+      "count": 7
+    },
+    {
+      "id": "condensed",
+      "label": "凝聚态基础",
+      "label_en": "Condensed Matter Basics",
+      "count": 3
+    },
+    {
+      "id": "opensource",
+      "label": "开源与个人项目",
+      "label_en": "Open Source & Projects",
+      "count": 3
+    },
+    {
+      "id": "essays",
+      "label": "阅读与随笔",
+      "label_en": "Reading & Essays",
+      "count": 3
+    }
+  ],
+  "items": [
+    {
+      "title": "OpenCode 接入 DeepSeek V4 Flash 配置指南",
+      "url": "https://www.zhihu.com/pin/2069426613775754762",
+      "content_type": "pin",
+      "created_at": 1786169767,
+      "created_date": "2026-08-08",
+      "likes": 0,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "OpenCode 是一款终端里的 AI 编程助手，DeepSeek V4 Flash 速度快、价格便宜，两者搭配非常适合日常写代码。 本指南 macOS / Linux / Windows 通用，核心只有三步——拿 Key → 写配置文件 → 设置 API Key。 配置文件路径和登录方式三平台完全一致，只有「环境变量」写法按系统略有不同。 OpenCode 接入 DeepSeek V4 Flas"
+    },
+    {
+      "title": "铁电统一定义（预印本 Unified definition of ferroelectricity）",
+      "url": "https://www.zhihu.com/pin/2069426282429932364",
+      "content_type": "pin",
+      "created_at": 1786169733,
+      "created_date": "2026-08-08",
+      "likes": 0,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "铁电性的统一判据围绕“等价状态对”和“可切换路径”建立：材料需具有两个或多个能量等价的绝缘态，这些状态之间存在非零极化差，并能在外电场作用下可逆转换。这套定义将传统铁电、分数量子铁电和整数量子铁电放进同一套语言，也把铁电材料的搜索范围从十个极性点群扩展到非极性甚至中心对称结构。例如，CsPdC是新型整数量子铁电的例子，其点群本身具有反演中心，两个Cs的位移合成为一个完整晶格周期。因此，极性空间群不"
+    },
+    {
+      "title": "什么是 skyrmion？",
+      "url": "https://www.zhihu.com/answer/2069027849219184331",
+      "content_type": "answer",
+      "created_at": 1786074679,
+      "created_date": "2026-08-07",
+      "likes": 2,
+      "favorites": 9,
+      "comments": 0,
+      "category": {
+        "id": "skyrmions",
+        "label": "磁性斯格明子",
+        "label_en": "Skyrmions & Magnetic Textures"
+      },
+      "summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond sk"
+    },
+    {
+      "title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
+      "url": "https://zhuanlan.zhihu.com/p/2069027257536999823",
+      "content_type": "article",
+      "created_at": 1786074679,
+      "created_date": "2026-08-07",
+      "likes": 7,
+      "favorites": 15,
+      "comments": 0,
+      "category": {
+        "id": "skyrmions",
+        "label": "磁性斯格明子",
+        "label_en": "Skyrmions & Magnetic Textures"
+      },
+      "summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond sk"
+    },
+    {
+      "title": "铁电材料这一定义的由来？",
+      "url": "https://www.zhihu.com/answer/2068678110955024439",
+      "content_type": "answer",
+      "created_at": 1785991295,
+      "created_date": "2026-08-06",
+      "likes": 1,
+      "favorites": 5,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "铁电性在教科书中的定义很直接：材料具有自发极化，而且极化可以被外电场翻转。沿着这套思路，铁电相通常应当属于极性点群，极化方向也要服从 Neumann 原理。 现代极化理论让这个问题变得更微妙。周期晶体中的绝对极化具有多值性： [公式] 其中 [公式] 是沿晶格矢量 [公式] 的极化量子。一个绝缘态…"
+    },
+    {
+      "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
+      "url": "https://zhuanlan.zhihu.com/p/2068673956043821125",
+      "content_type": "article",
+      "created_at": 1785991295,
+      "created_date": "2026-08-06",
+      "likes": 12,
+      "favorites": 29,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "铁电性在教科书中的定义很直接：材料具有自发极化，而且极化可以被外电场翻转。沿着这套思路，铁电相通常应当属于极性点群，极化方向也要服从 Neumann 原理。 现代极化理论让这个问题变得更微妙。周期晶体中的绝对极化具有多值性： [公式] 其中 [公式] 是沿晶格矢量 [公式] 的极化量子。一个绝缘态…"
+    },
+    {
+      "title": "如何评价DeepSeek-V4 Flash 正式版，有哪些亮点？",
+      "url": "https://www.zhihu.com/answer/2068368461303132163",
+      "content_type": "answer",
+      "created_at": 1785917469,
+      "created_date": "2026-08-05",
+      "likes": 1,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "OpenCode 是一款终端里的 AI 编程助手，DeepSeek V4 Flash 速度快、价格便宜，两者搭配非常适合日常写代码。本指南 macOS / Linux / Windows 通用。 [图片] 1. 准备工作（5 分钟）注册 DeepSeek 开放平台：https://platform.deepseek.com 充值：https://platform.deepseek.com/top_"
+    },
+    {
+      "title": "OpenCode 接入 DeepSeek V4 Flash 配置指南",
+      "url": "https://zhuanlan.zhihu.com/p/2068368163092291981",
+      "content_type": "article",
+      "created_at": 1785917468,
+      "created_date": "2026-08-05",
+      "likes": 0,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "OpenCode 是一款终端里的 AI 编程助手，DeepSeek V4 Flash 速度快、价格便宜，两者搭配非常适合日常写代码。本指南 macOS / Linux / Windows 通用。 [图片] 1. 准备工作（5 分钟）注册 DeepSeek 开放平台：https://platform.deepseek.com 充值：https://platform.deepseek.com/top_"
+    },
+    {
+      "title": "如何看待2026年7月31日发布的deepseek v4-flash更新？",
+      "url": "https://www.zhihu.com/answer/2068364475351163843",
+      "content_type": "answer",
+      "created_at": 1785916519,
+      "created_date": "2026-08-05",
+      "likes": 11,
+      "favorites": 32,
+      "comments": 0,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "个人的 Zotero + DeepSeek-V4-Flash 配置过程记录及总结,全程只需 10 分钟。三个组件,各司其职 组件 作用 成本 Zotero 文献管理,PDF 阅读器 免费开源 DeepSeek API 大模型大脑,负责理解、总结 按量计费,极便宜 llm-for-zotero 插件 桥梁,让 AI 长在 Zotero 里 免费开源 为什么选 DeepSeek 而不是 ChatGPT"
+    },
+    {
+      "title": "给 Zotero 装上 DeepSeek-V4-Flash",
+      "url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
+      "content_type": "article",
+      "created_at": 1785916518,
+      "created_date": "2026-08-05",
+      "likes": 6,
+      "favorites": 45,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "个人的 Zotero + DeepSeek-V4-Flash 配置过程记录及总结,全程只需 10 分钟。三个组件,各司其职 组件 作用 成本 Zotero 文献管理,PDF 阅读器 免费开源 DeepSeek API 大模型大脑,负责理解、总结 按量计费,极便宜 llm-for-zotero 插件 桥梁,让 AI 长在 Zotero 里 免费开源 为什么选 DeepSeek 而不是 ChatGPT"
+    },
+    {
+      "title": "算滑移铁电翻转怎么找顺电相和铁电相?",
+      "url": "https://www.zhihu.com/answer/2066974795988832695",
+      "content_type": "answer",
+      "created_at": 1785585193,
+      "created_date": "2026-08-01",
+      "likes": 7,
+      "favorites": 17,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "读 Bennett 等人发表于 Physical Review Letters 的工作：Stacking-Engineered Ferroelectricity and Multiferroic Order in van der Waals Magnets文献信息：D. Bennett, G. Martínez-Carracedo, X. He, J. Ferrer, P. Ghosez, R. "
+    },
+    {
+      "title": "NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合",
+      "url": "https://zhuanlan.zhihu.com/p/2066974338855843093",
+      "content_type": "article",
+      "created_at": 1785585193,
+      "created_date": "2026-08-01",
+      "likes": 0,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "读 Bennett 等人发表于 Physical Review Letters 的工作：Stacking-Engineered Ferroelectricity and Multiferroic Order in van der Waals Magnets文献信息：D. Bennett, G. Martínez-Carracedo, X. He, J. Ferrer, P. Ghosez, R. "
+    },
+    {
+      "title": "为什么人们如此关心激子（exciton）？",
+      "url": "https://www.zhihu.com/answer/2066855083103590254",
+      "content_type": "answer",
+      "created_at": 1785556652,
+      "created_date": "2026-08-01",
+      "likes": 28,
+      "favorites": 46,
+      "comments": 0,
+      "category": {
+        "id": "excitons",
+        "label": "激子与位移电流",
+        "label_en": "Excitons & Shift Current"
+      },
+      "summary": "最近读到一篇发表在 ACS Nano 的工作：Excitonic Shift Current in Monolayer MoS₂。文章研究的是单层 MoS₂ 中的激子位移电流，也就是 excitonic shift current。主要表明：一些在线性吸收光谱中很弱的高阶激子，反而可以在非线性的直流光电流谱中形成明显的峰、谷，甚至引起电流方向反转。这意味着，光学跃迁容不容易发生并不能完全决定它在 "
+    },
+    {
+      "title": "暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2",
+      "url": "https://zhuanlan.zhihu.com/p/2066854344708855533",
+      "content_type": "article",
+      "created_at": 1785556651,
+      "created_date": "2026-08-01",
+      "likes": 0,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "excitons",
+        "label": "激子与位移电流",
+        "label_en": "Excitons & Shift Current"
+      },
+      "summary": "最近读到一篇发表在 ACS Nano 的工作：Excitonic Shift Current in Monolayer MoS₂。文章研究的是单层 MoS₂ 中的激子位移电流，也就是 excitonic shift current。主要表明：一些在线性吸收光谱中很弱的高阶激子，反而可以在非线性的直流光电流谱中形成明显的峰、谷，甚至引起电流方向反转。这意味着，光学跃迁容不容易发生并不能完全决定它在 "
+    },
+    {
+      "title": "如何评价列夫托尔斯泰的长篇小说《复活》？",
+      "url": "https://www.zhihu.com/answer/2066608477359837230",
+      "content_type": "answer",
+      "created_at": 1785497856,
+      "created_date": "2026-07-31",
+      "likes": 0,
+      "favorites": 0,
+      "comments": 1,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "我读完《复活》的时候，心里并没有出现“读完了”的感觉。 更像是走完了一段很长的路，回到房间，脱掉鞋，发现裤脚上还沾着路上的泥。你知道旅程结束了，但有些东西仍然跟着你。 第一遍读俄国小说，人物的名字总是一件麻烦事。同一个人有姓、有名、有父称，还有几种不同的叫法。有时我读了几十页，才忽然意识到，刚刚出现的那个人，原来就是前面出现过的那个人。 《复活》的后半部分尤其如此。犯人、政治犯、官员、看守不断出现"
+    },
+    {
+      "title": "信仰有许多种，灵魂却只有一种",
+      "url": "https://zhuanlan.zhihu.com/p/2066608175764263933",
+      "content_type": "article",
+      "created_at": 1785497856,
+      "created_date": "2026-07-31",
+      "likes": 0,
+      "favorites": 0,
+      "comments": 1,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "我读完《复活》的时候，心里并没有出现“读完了”的感觉。 更像是走完了一段很长的路，回到房间，脱掉鞋，发现裤脚上还沾着路上的泥。你知道旅程结束了，但有些东西仍然跟着你。 第一遍读俄国小说，人物的名字总是一件麻烦事。同一个人有姓、有名、有父称，还有几种不同的叫法。有时我读了几十页，才忽然意识到，刚刚出现的那个人，原来就是前面出现过的那个人。 《复活》的后半部分尤其如此。犯人、政治犯、官员、看守不断出现"
+    },
+    {
+      "title": "Research Note：单层 SnS 的紧束缚模型 arXiv",
+      "url": "https://zhuanlan.zhihu.com/p/2065777386583487695",
+      "content_type": "article",
+      "created_at": 1785301531,
+      "created_date": "2026-07-29",
+      "likes": 5,
+      "favorites": 13,
+      "comments": 0,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "读到 Yuki Kusunoki、Tomoaki Kameda 和 Katsunori Wakabayashi 在 2026 年的一篇预印本中，以单层 SnS 为例，对比了短程和长程两套 Wannier 紧束缚模型。他们得到一个很值得注意的结果： 只保留最近邻 hopping 的最小模型可以保留能带的主要结构，却会明显改变位移电流的峰位和峰值。这篇工作的材料对象并不陌生。单层 SnS 具有起伏的 "
+    },
+    {
+      "title": "macOS有哪些有趣或者高效的命令行工具？",
+      "url": "https://www.zhihu.com/answer/2050970563569623666",
+      "content_type": "answer",
+      "created_at": 1781769487,
+      "created_date": "2026-06-18",
+      "likes": 9,
+      "favorites": 11,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "我以前不太敢用命令行清理 Mac。原因很简单：不熟 Unix，看到 sudo、Library、.cache 这些东西就怕误删文件。这次试了一下 Mole。它是一个 macOS 终端维护工具，命令行版本免费开源，可以清理缓存、查看系统状态、分析磁盘空间，也可以辅助卸载 App 残留。我的体验是：只要先用 --dry-run 预览，它对新手还算友好。一、这个工具是干什么的？Mole 的命令入口是： m"
+    },
+    {
+      "title": "用 Mole 清理 Mac：命令行新手也能上手的一次记录",
+      "url": "https://zhuanlan.zhihu.com/p/2050966522710046261",
+      "content_type": "article",
+      "created_at": 1781769486,
+      "created_date": "2026-06-18",
+      "likes": 1,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "我以前不太敢用命令行清理 Mac。原因很简单：不熟 Unix，看到 sudo、Library、.cache 这些东西就怕误删文件。这次试了一下 Mole。它是一个 macOS 终端维护工具，命令行版本免费开源，可以清理缓存、查看系统状态、分析磁盘空间，也可以辅助卸载 App 残留。我的体验是：只要先用 --dry-run 预览，它对新手还算友好。一、这个工具是干什么的？Mole 的命令入口是： m"
+    },
+    {
+      "title": "WannSymm 安装与使用教程",
+      "url": "https://zhuanlan.zhihu.com/p/2043081520005505959",
+      "content_type": "article",
+      "created_at": 1779890721,
+      "created_date": "2026-05-27",
+      "likes": 16,
+      "favorites": 45,
+      "comments": 0,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "作者：辛嘉琪 单位：北京交通大学物理系 邮箱：jiaqixin2@bjtu.edu.cnWannSymm 信息WannSymm 是一个用于 Wannier 轨道对称性分析和 Wannier 哈密顿量对称化的程序。它可以读取 Wannier90 输出的实空间哈密顿量 *_hr.dat，结合晶体结构的对称性操作，对 tight-binding 哈密顿量进行对称化，输出新的 *_symmed_hr.da"
+    },
+    {
+      "title": "怎么建立学术风格的个人主页？",
+      "url": "https://www.zhihu.com/answer/2042281641125622396",
+      "content_type": "answer",
+      "created_at": 1779697887,
+      "created_date": "2026-05-25",
+      "likes": 4,
+      "favorites": 7,
+      "comments": 0,
+      "category": {
+        "id": "opensource",
+        "label": "开源与个人项目",
+        "label_en": "Open Source & Projects"
+      },
+      "summary": "最近给自己做了一个个人学术主页，用来集中展示论文、GitHub 项目、科研笔记和一些公开文章。 我的主页效果在这里： https://xin-jiaqi.github.io/ 做完之后，我把其中的个人信息删掉，整理成了一个可以复用的通用模板： https://github.com/Xin-Jiaqi/minimal-academic-homepage 这个模板的目标很简单：不用复杂框架，不用配置环"
+    },
+    {
+      "title": "我开源了一个极简个人学术主页模板",
+      "url": "https://zhuanlan.zhihu.com/p/2042279577020527281",
+      "content_type": "article",
+      "created_at": 1779697885,
+      "created_date": "2026-05-25",
+      "likes": 23,
+      "favorites": 28,
+      "comments": 0,
+      "category": {
+        "id": "opensource",
+        "label": "开源与个人项目",
+        "label_en": "Open Source & Projects"
+      },
+      "summary": "最近给自己做了一个个人学术主页，用来集中展示论文、GitHub 项目、科研笔记和一些公开文章。 我的主页效果在这里： https://xin-jiaqi.github.io/ 做完之后，我把其中的个人信息删掉，整理成了一个可以复用的通用模板： https://github.com/Xin-Jiaqi/minimal-academic-homepage 这个模板的目标很简单：不用复杂框架，不用配置环"
+    },
+    {
+      "title": "为什么微信读书这么良心？",
+      "url": "https://www.zhihu.com/answer/2041511535806342798",
+      "content_type": "answer",
+      "created_at": 1779514279,
+      "created_date": "2026-05-23",
+      "likes": 9,
+      "favorites": 11,
+      "comments": 3,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "很多人每天都会用微信读书，但真正到月底、年底复盘时，常常会遇到一个问题：平台里能看到阅读时长、书籍进度，却不太方便把这些记录整理成一个清晰、可保存、可分享的“阅读日历”。 比如： 今天读了多久？ 这个月哪几天读书比较多？ 一本书是集中几天读完的，还是断断续续读完的？ 多本书在同一天的阅读情况能不能放到一个视图里？ 基于这个需求，我做了一个小工具：weread-calendar 微信读书阅读月历生成"
+    },
+    {
+      "title": "weread-calendar：本地运行的阅读复盘工具",
+      "url": "https://zhuanlan.zhihu.com/p/2041271815473975993",
+      "content_type": "article",
+      "created_at": 1779514278,
+      "created_date": "2026-05-23",
+      "likes": 3,
+      "favorites": 6,
+      "comments": 4,
+      "category": {
+        "id": "opensource",
+        "label": "开源与个人项目",
+        "label_en": "Open Source & Projects"
+      },
+      "summary": "很多人每天都会用微信读书，但真正到月底、年底复盘时，常常会遇到一个问题：平台里能看到阅读时长、书籍进度，却不太方便把这些记录整理成一个清晰、可保存、可分享的“阅读日历”。 比如： 今天读了多久？ 这个月哪几天读书比较多？ 一本书是集中几天读完的，还是断断续续读完的？ 多本书在同一天的阅读情况能不能放到一个视图里？ 基于这个需求，我做了一个小工具：weread-calendar 微信读书阅读月历生成"
+    },
+    {
+      "title": "为什么二维铁电材料很稀少？",
+      "url": "https://www.zhihu.com/answer/2040770231963017741",
+      "content_type": "answer",
+      "created_at": 1779337538,
+      "created_date": "2026-05-21",
+      "likes": 5,
+      "favorites": 8,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "作者：辛嘉琪，北京交通大学物理系郭亚光老师课题组 题目：Multilayer stacking ferroelectricity in two-dimensional materials with Bravais lattice symmetry: Theory and applications Jiaqi Xin, Yaguang Guo, Qian Wang, Physical Review "
+    },
+    {
+      "title": "多层堆叠铁电：当“层数”也成为二维材料的设计自由度",
+      "url": "https://zhuanlan.zhihu.com/p/2040503723403768417",
+      "content_type": "article",
+      "created_at": 1779337538,
+      "created_date": "2026-05-21",
+      "likes": 10,
+      "favorites": 10,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "作者：辛嘉琪，北京交通大学物理系郭亚光老师课题组 题目：Multilayer stacking ferroelectricity in two-dimensional materials with Bravais lattice symmetry: Theory and applications Jiaqi Xin, Yaguang Guo, Qian Wang, Physical Review "
+    },
+    {
+      "title": "为什么晶体具有对称性？",
+      "url": "https://www.zhihu.com/answer/2039097566952936422",
+      "content_type": "answer",
+      "created_at": 1778938744,
+      "created_date": "2026-05-16",
+      "likes": 3,
+      "favorites": 18,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "用 Python 批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系 项目地址： https://github.com/Xin-Jiaqi/batch-symmetry-checker 作者：辛嘉琪 Email：jiaqixin2@bjtu.edu.cn 仅作学习交流，有任何问题欢迎联系我，请勿用于商业用途。转给他人时请保留作者信息，并告知所属机构以便统计。 一、为什么"
+    },
+    {
+      "title": "批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系",
+      "url": "https://zhuanlan.zhihu.com/p/2039095412498359945",
+      "content_type": "article",
+      "created_at": 1778938743,
+      "created_date": "2026-05-16",
+      "likes": 0,
+      "favorites": 4,
+      "comments": 1,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "用 Python 批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系 项目地址： https://github.com/Xin-Jiaqi/batch-symmetry-checker 作者：辛嘉琪 Email：jiaqixin2@bjtu.edu.cn 仅作学习交流，有任何问题欢迎联系我，请勿用于商业用途。转给他人时请保留作者信息，并告知所属机构以便统计。 一、为什么"
+    },
+    {
+      "title": "怎样通俗的解释极化？",
+      "url": "https://www.zhihu.com/answer/1974959276238857645",
+      "content_type": "answer",
+      "created_at": 1763646984,
+      "created_date": "2025-11-20",
+      "likes": 12,
+      "favorites": 28,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "现代极化理论（Modern Theory of Polarization, MTP）基于 Berry 相位为周期性固体中的电荷极化提供了严格普适的定义。MTP 的一个核心结论是：晶体的电荷极化并不是单值的，而是一个具有极化量子（polarization quantum）的多值量（multi-valued quantity）。这种多值结构源自 Berry 相位的模 [公式] 不确定性，体现了电荷极化"
+    },
+    {
+      "title": "理论笔记 晶体极化与极化量子：基本概念，Qvalue.py脚本及文献数据复现",
+      "url": "https://zhuanlan.zhihu.com/p/1974849644753331274",
+      "content_type": "article",
+      "created_at": 1763646983,
+      "created_date": "2025-11-20",
+      "likes": 11,
+      "favorites": 20,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "现代极化理论（Modern Theory of Polarization, MTP）基于 Berry 相位为周期性固体中的电荷极化提供了严格普适的定义。MTP 的一个核心结论是：晶体的电荷极化并不是单值的，而是一个具有极化量子（polarization quantum）的多值量（multi-valued quantity）。这种多值结构源自 Berry 相位的模 [公式] 不确定性，体现了电荷极化"
+    },
+    {
+      "title": "二维材料的应用前景？",
+      "url": "https://www.zhihu.com/answer/1940905944943944747",
+      "content_type": "answer",
+      "created_at": 1755528037,
+      "created_date": "2025-08-18",
+      "likes": 26,
+      "favorites": 42,
+      "comments": 0,
+      "category": {
+        "id": "twod",
+        "label": "二维材料与范德华",
+        "label_en": "2D Materials & van der Waals"
+      },
+      "summary": "我们的长文理论工作“Enhanced theoretical framework for bilayer stacking ferroelectricity”于今年5月底在 physical review B 发表了： J. Xin, Y. Guo, and Q. Wang, Enhanced theoretical framework for bilayer stacking ferroelec"
+    },
+    {
+      "title": "文献精析 双层堆叠铁电理论的两方面扩展",
+      "url": "https://zhuanlan.zhihu.com/p/1940904670697615387",
+      "content_type": "article",
+      "created_at": 1755528036,
+      "created_date": "2025-08-18",
+      "likes": 6,
+      "favorites": 4,
+      "comments": 4,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "我们的长文理论工作“Enhanced theoretical framework for bilayer stacking ferroelectricity”于今年5月底在 physical review B 发表了： J. Xin, Y. Guo, and Q. Wang, Enhanced theoretical framework for bilayer stacking ferroelec"
+    },
+    {
+      "title": "半年的书与半年的自己",
+      "url": "https://www.zhihu.com/pin/1940174068843259079",
+      "content_type": "pin",
+      "created_at": 1755353544,
+      "created_date": "2025-08-16",
+      "likes": 2,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "过去半年，同样把从办公室到宿舍之间骑行的清晨与夜晚交给了微信读书和有声书。 文字在耳机里响起，把我带去莫斯科阴暗的地铁、东京堵着车的高速公路、圣彼得堡的雨幕，或是非洲晴朗天空的高处。 阅读没有什么刻意的安排，往往读完一本随便挑一本就继续下去了，但确实奇妙地交织出不同的气息： 轻盈的自嘲、锋利的自剖、正念带来的片刻宁静。 留下的，只是那些在当时触动心弦的句子，它们像半年的剪影，或许比任何总结都更贴近"
+    },
+    {
+      "title": "群表示论有什么重要定理？",
+      "url": "https://www.zhihu.com/answer/1940080082422047177",
+      "content_type": "answer",
+      "created_at": 1755331136,
+      "created_date": "2025-08-16",
+      "likes": 7,
+      "favorites": 20,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "这篇文章整理自我学习马中骐老师的《物理学中的群论（第二版）》与李新征老师《群论一讲义》时的笔记，重点围绕 群论第二章的六个基础模块，旨在便于学习和快速查阅：线性代数与群表示的基本概念：从向量空间、线性变换到群表示的定义与性质。等价表示、不可约表示与幺正表示：群表示如何分解为最基本的不可约单元。群代数与正则表示：抽象群与线性空间结合的自然结构。有限群表示理论：舒尔引理一 / 二，不等价不可约表示的正"
+    },
+    {
+      "title": "理论笔记 群论chapter 2. 群的表示理论：概念总结",
+      "url": "https://zhuanlan.zhihu.com/p/1937175368894257117",
+      "content_type": "article",
+      "created_at": 1755331135,
+      "created_date": "2025-08-16",
+      "likes": 10,
+      "favorites": 16,
+      "comments": 1,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "这篇文章整理自我学习马中骐老师的《物理学中的群论（第二版）》与李新征老师《群论一讲义》时的笔记，重点围绕 群论第二章的六个基础模块，旨在便于学习和快速查阅：线性代数与群表示的基本概念：从向量空间、线性变换到群表示的定义与性质。等价表示、不可约表示与幺正表示：群表示如何分解为最基本的不可约单元。群代数与正则表示：抽象群与线性空间结合的自然结构。有限群表示理论：舒尔引理一 / 二，不等价不可约表示的正"
+    },
+    {
+      "title": "学习群表示论有什么教材可以推荐？",
+      "url": "https://www.zhihu.com/answer/1939782723398006321",
+      "content_type": "answer",
+      "created_at": 1755260240,
+      "created_date": "2025-08-15",
+      "likes": 3,
+      "favorites": 7,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "这个暑假，我利用一些空闲时间自学北京大学李新征老师的《群论一》课程讲义。相比第一章“群的结构特征”，第二章“群表示论”的难度感觉有一个陡然的升级：群表示、正则表示、等价 / 不等价的可约 / 不可约表示、特征标理论、直积与诱导表示等，这些概念都比较抽象，推导过程中也涉及密集的公式（尤其是涉及矩阵元的计算，推导过程中往往有求和符号相互嵌套，比较难懂）。 在快速通读一遍内容后，我觉得还是先换一个切入方"
+    },
+    {
+      "title": "理论笔记 群论chapter 2: 群表示理论完整解题手稿",
+      "url": "https://zhuanlan.zhihu.com/p/1939742654679212377",
+      "content_type": "article",
+      "created_at": 1755260239,
+      "created_date": "2025-08-15",
+      "likes": 15,
+      "favorites": 39,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "这个暑假，我利用一些空闲时间自学北京大学李新征老师的《群论一》课程讲义。相比第一章“群的结构特征”，第二章“群表示论”的难度感觉有一个陡然的升级：群表示、正则表示、等价 / 不等价的可约 / 不可约表示、特征标理论、直积与诱导表示等，这些概念都比较抽象，推导过程中也涉及密集的公式（尤其是涉及矩阵元的计算，推导过程中往往有求和符号相互嵌套，比较难懂）。 在快速通读一遍内容后，我觉得还是先换一个切入方"
+    },
+    {
+      "title": "为什么称可逆矩阵为『非奇异』？",
+      "url": "https://www.zhihu.com/answer/1938256445809357104",
+      "content_type": "answer",
+      "created_at": 1754896347,
+      "created_date": "2025-08-11",
+      "likes": 6,
+      "favorites": 12,
+      "comments": 0,
+      "category": {
+        "id": "theory",
+        "label": "数学与理论笔记",
+        "label_en": "Mathematics & Theory Notes"
+      },
+      "summary": "这周非常巧：一方面，我在回顾 2023 年秋季修过的《群论》，正好复习到第 2 章“群表示理论”，并重新温习了“奇异矩阵”的概念；另一方面，我也在重读大刘的《三体Ⅱ》和《三体Ⅲ》。虽然尚未读到“二向箔”登场的情节，但依然记得书中将被二维化的太阳系比作梵高的《星月夜》这一画面。忽然意识到，奇异矩阵与二向箔的作用原理是完全相似的，借助后者来理解前者是一种很好的记忆方法。 在群论中，“线性变换群”是指在"
+    },
+    {
+      "title": "理论笔记 线性代数中的\"奇异矩阵\"与《三体III》中的\"二向箔\"",
+      "url": "https://zhuanlan.zhihu.com/p/1938255563571041404",
+      "content_type": "article",
+      "created_at": 1754896346,
+      "created_date": "2025-08-11",
+      "likes": 2,
+      "favorites": 11,
+      "comments": 0,
+      "category": {
+        "id": "theory",
+        "label": "数学与理论笔记",
+        "label_en": "Mathematics & Theory Notes"
+      },
+      "summary": "这周非常巧：一方面，我在回顾 2023 年秋季修过的《群论》，正好复习到第 2 章“群表示理论”，并重新温习了“奇异矩阵”的概念；另一方面，我也在重读大刘的《三体Ⅱ》和《三体Ⅲ》。虽然尚未读到“二向箔”登场的情节，但依然记得书中将被二维化的太阳系比作梵高的《星月夜》这一画面。忽然意识到，奇异矩阵与二向箔的作用原理是完全相似的，借助后者来理解前者是一种很好的记忆方法。 在群论中，“线性变换群”是指在"
+    },
+    {
+      "title": "理论笔记 衡量向量的“长度”：1，2，无穷以及p-范数",
+      "url": "https://zhuanlan.zhihu.com/p/1937619754945873146",
+      "content_type": "article",
+      "created_at": 1754745308,
+      "created_date": "2025-08-09",
+      "likes": 1,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "theory",
+        "label": "数学与理论笔记",
+        "label_en": "Mathematics & Theory Notes"
+      },
+      "summary": "在向量空间中， 范数（Norm）是衡量向量的“长度”或“大小”的基本工具。 通过定义不同形式的范数，我们可以从不同角度刻画向量的尺度特性。 常见的范数包括 1 范数（Manhattan norm）、2 范数（Euclidean norm）以及无穷范数（Infinity norm），它们分别对应不同的几何意义与应用场景。 更一般地， [公式] -范数将这一思想推广到任意实数 [公式] ，在统一公式下"
+    },
+    {
+      "title": "如何理解群论以及群论有什么比较典型易懂的应用？",
+      "url": "https://www.zhihu.com/answer/1936549988835497280",
+      "content_type": "answer",
+      "created_at": 1754489496,
+      "created_date": "2025-08-06",
+      "likes": 14,
+      "favorites": 41,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "主要参考：马中骐老师《物理学中的群论（第二版）》，李新征老师 《群论一讲义》 1. 群自身的结构特征（群，子群与陪集，类与不变子群）群：群是元素的集合，且在规定元素间“乘法”法则后需满足 4 个条件：封闭性：任意两元素乘积仍属于此集合；结合律：乘法结合律，这里的乘法是是广义的，表示元素间特定的相互作用 [公式] ；单位元：单位元左乘任意元素后仍为这个元素 [公式] ；每个元素唯一逆元：元素的逆左乘"
+    },
+    {
+      "title": "理论笔记 群论chapter 1. 群的结构特征：概念总结",
+      "url": "https://zhuanlan.zhihu.com/p/1936543848932303720",
+      "content_type": "article",
+      "created_at": 1754489495,
+      "created_date": "2025-08-06",
+      "likes": 9,
+      "favorites": 12,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "主要参考：马中骐老师《物理学中的群论（第二版）》，李新征老师 《群论一讲义》 1. 群自身的结构特征（群，子群与陪集，类与不变子群）群：群是元素的集合，且在规定元素间“乘法”法则后需满足 4 个条件：封闭性：任意两元素乘积仍属于此集合；结合律：乘法结合律，这里的乘法是是广义的，表示元素间特定的相互作用 [公式] ；单位元：单位元左乘任意元素后仍为这个元素 [公式] ；每个元素唯一逆元：元素的逆左乘"
+    },
+    {
+      "title": "初学者怎么入门大语言模型（LLM）？",
+      "url": "https://www.zhihu.com/answer/1936110727275459553",
+      "content_type": "answer",
+      "created_at": 1754384768,
+      "created_date": "2025-08-05",
+      "likes": 4,
+      "favorites": 4,
+      "comments": 0,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "引言回到2022 年，我还是大学四年级学生，刚刚进入老师的课题组（计算材料方向），参与的第一个课题是“五边形链状结构的高通量筛选以及体光伏效应的模拟”，这篇工作后来于研究生入学前发表在 PRM上： Jiaqi Xin, Yaguang Guo and Qian Wang, PRM 2023 ）。当时大语言模型尚未普及，我对课题的初步接触主要靠读文献来完成。为了理解体光伏效应的微观机制、晶体结构与光"
+    },
+    {
+      "title": "借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例",
+      "url": "https://zhuanlan.zhihu.com/p/1935816800332915578",
+      "content_type": "article",
+      "created_at": 1754384766,
+      "created_date": "2025-08-05",
+      "likes": 6,
+      "favorites": 11,
+      "comments": 5,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "引言回到2022 年，我还是大学四年级学生，刚刚进入老师的课题组（计算材料方向），参与的第一个课题是“五边形链状结构的高通量筛选以及体光伏效应的模拟”，这篇工作后来于研究生入学前发表在 PRM上： Jiaqi Xin, Yaguang Guo and Qian Wang, PRM 2023 ）。当时大语言模型尚未普及，我对课题的初步接触主要靠读文献来完成。为了理解体光伏效应的微观机制、晶体结构与光"
+    },
+    {
+      "title": "如何理解Kagome格子中的flat band？",
+      "url": "https://www.zhihu.com/answer/1935806686838367493",
+      "content_type": "answer",
+      "created_at": 1754312279,
+      "created_date": "2025-08-04",
+      "likes": 34,
+      "favorites": 62,
+      "comments": 0,
+      "category": {
+        "id": "condensed",
+        "label": "凝聚态基础",
+        "label_en": "Condensed Matter Basics"
+      },
+      "summary": "Kagome 晶格因其独特的几何结构与能带特性，成为近年来凝聚态物理与材料科学研究的热点之一。该类结构不仅展现出 受对称性保护的平带（flat band）和平面内的狄拉克点（Dirac point），还在其能带分布中天然地引入了鞍点（saddle point），从而导致范霍夫奇点（van Hove singularities, vHS）的出现。这些术语对我而言常见却略显陌生。我尝试通过自学来对它们"
+    },
+    {
+      "title": "理论笔记 kagome晶格相关：van Hove奇点，对称性保护平带，Dirac点",
+      "url": "https://zhuanlan.zhihu.com/p/1935800922589631729",
+      "content_type": "article",
+      "created_at": 1754312278,
+      "created_date": "2025-08-04",
+      "likes": 5,
+      "favorites": 8,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "Kagome 晶格因其独特的几何结构与能带特性，成为近年来凝聚态物理与材料科学研究的热点之一。该类结构不仅展现出 受对称性保护的平带（flat band）和平面内的狄拉克点（Dirac point），还在其能带分布中天然地引入了鞍点（saddle point），从而导致范霍夫奇点（van Hove singularities, vHS）的出现。这些术语对我而言常见却略显陌生。我尝试通过自学来对它们"
+    },
+    {
+      "title": "晶体里的自旋轨道耦合强度与哪些因素有关？",
+      "url": "https://www.zhihu.com/answer/1934018431184791242",
+      "content_type": "answer",
+      "created_at": 1753885926,
+      "created_date": "2025-07-30",
+      "likes": 8,
+      "favorites": 12,
+      "comments": 0,
+      "category": {
+        "id": "condensed",
+        "label": "凝聚态基础",
+        "label_en": "Condensed Matter Basics"
+      },
+      "summary": "我对自旋轨道耦合（spin-orbital coupling, SOC）的了解只停留在 VASP 第一性原理计算以及非线性光学模拟方面，对其基本概念一直存在误解，试图以行星“自转”和“公转”的经典图像类比其机制。深入探究后明确其本质为： 电子的内禀自旋磁矩与相对论效应诱导的磁场间的量子相互作用。核心澄清如下：自旋：电子的内禀属性，就像它的电荷和质量一样； 电子并没有经典意义上的“自转”，因为如果有"
+    },
+    {
+      "title": "理论笔记 自旋-轨道耦合：基本概念，以及重原子中SOC增强的原因",
+      "url": "https://zhuanlan.zhihu.com/p/1934011952285353132",
+      "content_type": "article",
+      "created_at": 1753885924,
+      "created_date": "2025-07-30",
+      "likes": 4,
+      "favorites": 14,
+      "comments": 1,
+      "category": {
+        "id": "condensed",
+        "label": "凝聚态基础",
+        "label_en": "Condensed Matter Basics"
+      },
+      "summary": "我对自旋轨道耦合（spin-orbital coupling, SOC）的了解只停留在 VASP 第一性原理计算以及非线性光学模拟方面，对其基本概念一直存在误解，试图以行星“自转”和“公转”的经典图像类比其机制。深入探究后明确其本质为： 电子的内禀自旋磁矩与相对论效应诱导的磁场间的量子相互作用。核心澄清如下：自旋：电子的内禀属性，就像它的电荷和质量一样； 电子并没有经典意义上的“自转”，因为如果有"
+    },
+    {
+      "title": "英文学术论文写作有哪些经验心得？",
+      "url": "https://www.zhihu.com/answer/1887898255729354737",
+      "content_type": "answer",
+      "created_at": 1742890019,
+      "created_date": "2025-03-25",
+      "likes": 3,
+      "favorites": 7,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "原文： European Geriatric Medicine 6 (2015) 573–579https://www.sciencedirect.com/science/article/pii/S1878764915001606 [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片]"
+    },
+    {
+      "title": "理论笔记 如何写作英文学术论文：a step-by-step guide for beginners",
+      "url": "https://zhuanlan.zhihu.com/p/1887896719074763164",
+      "content_type": "article",
+      "created_at": 1742890018,
+      "created_date": "2025-03-25",
+      "likes": 2,
+      "favorites": 5,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "原文： European Geriatric Medicine 6 (2015) 573–579https://www.sciencedirect.com/science/article/pii/S1878764915001606 [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片] [图片]"
+    },
+    {
+      "title": "如何高效地阅读文献？",
+      "url": "https://www.zhihu.com/answer/57666768593",
+      "content_type": "answer",
+      "created_at": 1734440024,
+      "created_date": "2024-12-17",
+      "likes": 5,
+      "favorites": 14,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "我在 @HelloGitHub 今日的分享（双语对照的 PDF 翻译工具「GitHub 热点速览」 ）看到了一个开源 PDF 翻译项目 PDFMathTranslate。我很感兴趣，想试试看是否对我阅读文献能提供一些帮助。PDFMathTranslate 的 GitHub 仓库位于 GitHub - Byaidu/PDFMathTranslate: PDF scientific paper tra"
+    },
+    {
+      "title": "计算工具 PDFMathTranslate：能够保留英文文献排版的翻译工具",
+      "url": "https://zhuanlan.zhihu.com/p/13168716240",
+      "content_type": "article",
+      "created_at": 1734440023,
+      "created_date": "2024-12-17",
+      "likes": 9,
+      "favorites": 30,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "我在 @HelloGitHub 今日的分享（双语对照的 PDF 翻译工具「GitHub 热点速览」 ）看到了一个开源 PDF 翻译项目 PDFMathTranslate。我很感兴趣，想试试看是否对我阅读文献能提供一些帮助。PDFMathTranslate 的 GitHub 仓库位于 GitHub - Byaidu/PDFMathTranslate: PDF scientific paper tra"
+    },
+    {
+      "title": "开源的在线白噪音网站Moodist",
+      "url": "https://www.zhihu.com/pin/1852402517620711424",
+      "content_type": "pin",
+      "created_at": 1734427176,
+      "created_date": "2024-12-17",
+      "likes": 0,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "opensource",
+        "label": "开源与个人项目",
+        "label_en": "Open Source & Projects"
+      },
+      "summary": "Moodist 这个开源白噪音网站是我在 HelloGithub 第104期月刊上看到的，感谢 HelloGithub 的分享！这里是网址——链接 我看到目前提供了78种白噪音，除了常规的风雨海潮外，还有机场✈️，教堂⛪️，键盘⌨️，猫头鹰 等。除去单独的声音外，也可以根据我自己的喜好组合。内置了番茄时钟。此外，MacOS 可以用 Safari 浏览器将这个网站导出为网页 app。因为是开源项目，"
+    },
+    {
+      "title": "理论笔记|计算工具 何为energy above convex hull ？以及如何绘制 phase diagrams？",
+      "url": "https://zhuanlan.zhihu.com/p/12898835960",
+      "content_type": "article",
+      "created_at": 1734405066,
+      "created_date": "2024-12-17",
+      "likes": 10,
+      "favorites": 32,
+      "comments": 2,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "1. 基本概念1.1 formation energy v.s. energy above convex hull 这个回答 解释清楚了“formation energy”，以及这一概念和“energy above convex hull”的不同： 1.1.1 形成能（formation energy）: formation energy is the energy with respect to"
+    },
+    {
+      "title": "写论文常用的看起来逼格满满的词汇、句式都有哪些？",
+      "url": "https://www.zhihu.com/answer/56727562151",
+      "content_type": "answer",
+      "created_at": 1734341536,
+      "created_date": "2024-12-16",
+      "likes": 6,
+      "favorites": 25,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "本文是我自己在阅读英文文献的过程中，对于好词好句的摘录和积累。按论文的行文逻辑分为 # INTRODUCTION, # RESULTS AND DISCUSSION, # DISCUSSION AND CONCLUSIONS 三大部分，每个大部分那会有分类出一些小侧重点。另外，指路一个项目Academic phrase bank，是曼彻斯特大学的工作 。因为是我自己读文献在语言方面做积累的笔记，因"
+    },
+    {
+      "title": "英文论文写作句式积累（长期更新）",
+      "url": "https://zhuanlan.zhihu.com/p/12890957064",
+      "content_type": "article",
+      "created_at": 1734341535,
+      "created_date": "2024-12-16",
+      "likes": 5,
+      "favorites": 18,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "本文是我自己在阅读英文文献的过程中，对于好词好句的摘录和积累。按论文的行文逻辑分为 # INTRODUCTION, # RESULTS AND DISCUSSION, # DISCUSSION AND CONCLUSIONS 三大部分，每个大部分那会有分类出一些小侧重点。另外，指路一个项目Academic phrase bank，是曼彻斯特大学的工作 。因为是我自己读文献在语言方面做积累的笔记，因"
+    },
+    {
+      "title": "copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？",
+      "url": "https://www.zhihu.com/answer/56401636365",
+      "content_type": "answer",
+      "created_at": 1734317829,
+      "created_date": "2024-12-16",
+      "likes": 3,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "前言：目前（24年）M芯片的Macbook可以直接下载chatGPT桌面应用，在写code和学术论文翻译等各方面都强大得惊人。前段时间好兄弟跟我说，GitHub的收费项目Copilot在学生认证之后可以免费使用，推荐我试试。他给我发了相关参考网站： 从0开始的github学生认证并使用copilot教程（超详细！）_copilot学生认证-CSDN博客 Github/Copilot 学生认证详细步"
+    },
+    {
+      "title": "计算工具 GitHub Copilot：学生认证， Visual Studio Code 拓展安装，以及额外资料",
+      "url": "https://zhuanlan.zhihu.com/p/711699575",
+      "content_type": "article",
+      "created_at": 1734317828,
+      "created_date": "2024-12-16",
+      "likes": 5,
+      "favorites": 9,
+      "comments": 1,
+      "category": {
+        "id": "ai",
+        "label": "AI 与编程实践",
+        "label_en": "AI & Programming"
+      },
+      "summary": "前言：目前（24年）M芯片的Macbook可以直接下载chatGPT桌面应用，在写code和学术论文翻译等各方面都强大得惊人。前段时间好兄弟跟我说，GitHub的收费项目Copilot在学生认证之后可以免费使用，推荐我试试。他给我发了相关参考网站： 从0开始的github学生认证并使用copilot教程（超详细！）_copilot学生认证-CSDN博客 Github/Copilot 学生认证详细步"
+    },
+    {
+      "title": "怎么样批量获取Materials Project的数据？",
+      "url": "https://www.zhihu.com/answer/53175564036",
+      "content_type": "answer",
+      "created_at": 1733922460,
+      "created_date": "2024-12-11",
+      "likes": 5,
+      "favorites": 5,
+      "comments": 1,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "ICSD（Inorganic Crystal Structure Database）是一个收费的数据库，包含了大量无机晶体结构的数据。由于其收费性质，访问和使用 ICSD 数据库需要订阅和支付费用。此外，ICSD 数据库的批量数据获取也存在一定的限制和困难。 Materials Project（MP）数据库是一个免费的数据库，提供了丰富的材料数据和计算结果，用户可以通过 API 免费访问和下载这些"
+    },
+    {
+      "title": "计算工具 将 ICSD ID 映射到 Materials Project ID 以获取材料结构",
+      "url": "https://zhuanlan.zhihu.com/p/12104818456",
+      "content_type": "article",
+      "created_at": 1733922459,
+      "created_date": "2024-12-11",
+      "likes": 1,
+      "favorites": 2,
+      "comments": 2,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "ICSD（Inorganic Crystal Structure Database）是一个收费的数据库，包含了大量无机晶体结构的数据。由于其收费性质，访问和使用 ICSD 数据库需要订阅和支付费用。此外，ICSD 数据库的批量数据获取也存在一定的限制和困难。 Materials Project（MP）数据库是一个免费的数据库，提供了丰富的材料数据和计算结果，用户可以通过 API 免费访问和下载这些"
+    },
+    {
+      "title": "计算工具 cif文件到POSCAR的批量转换（使用Python的ASE库）",
+      "url": "https://zhuanlan.zhihu.com/p/11206188677",
+      "content_type": "article",
+      "created_at": 1733490481,
+      "created_date": "2024-12-06",
+      "likes": 9,
+      "favorites": 5,
+      "comments": 1,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "在材料科学领域，CIF（Crystallographic Information File）和 POSCAR 是两种常见的文件格式。CIF 文件通常用于存储晶体结构信息，而 POSCAR 文件是 VASP（Vienna Ab initio Simulation Package）软件使用的输入文件格式。 Materials Studio 和 VESTA 等软件可以用于可视化和编辑 CIF 文件，并将"
+    },
+    {
+      "title": "iPhone在MacBook上镜像",
+      "url": "https://www.zhihu.com/pin/1805355769014673409",
+      "content_type": "pin",
+      "created_at": 1723210357,
+      "created_date": "2024-08-09",
+      "likes": 21,
+      "favorites": 6,
+      "comments": 6,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "iOS和macOS都升级到18 beta版本后，手机的内容（以及通知）可以在电脑上显示，并由电脑键鼠操控。试了一下，初步感受是：设计一体化，看着很舒服；但不太好用，体现在： 1. 比较吃网络质量，下午在办公室用校园网试了试，体验差（diss办公室的网络质量）。 2. 如果你的MacBook分辨率高，那iPhone镜像会显得很小，比手机上看到的要小；同时（暂时）无法调节窗口大小。 3. 无法始终置顶"
+    },
+    {
+      "title": "Microsoft Edge: drop",
+      "url": "https://www.zhihu.com/pin/1801930083235147777",
+      "content_type": "pin",
+      "created_at": 1722393610,
+      "created_date": "2024-07-31",
+      "likes": 4,
+      "favorites": 2,
+      "comments": 2,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "吐槽一下微软的细节。想在macbook和windows上互传文件，打开微软 edge 浏览器里的“drop”功能，发现同一个页面竟然能既出现英文原文\"drop\"，又出现中文翻译\"拖放\"，还能出现机器翻译\"掉落\"。 印象中edge有drop功能很久了，打开的页面还能这么散装，怎么搞的。 #Microsoft Edge 浏览器 [图片]"
+    },
+    {
+      "title": "用MS编辑POSCAR是不是主流？",
+      "url": "https://www.zhihu.com/answer/3577247855",
+      "content_type": "answer",
+      "created_at": 1722239169,
+      "created_date": "2024-07-29",
+      "likes": 2,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "前言：在进行材料计算和模拟的过程中，尤其是使用VASP（Vienna Ab-initio Simulation Package）进行密度泛函理论（DFT）计算时，我可能需要处理不同形式的晶体结构输入文件（POSCAR）。VASP中，原子坐标可以用笛卡尔坐标（Cartesian）或分数坐标（Direct）表示。通常二者的转换要通过VESTA软件进行相对繁琐的转换。本工具旨在提供个简单的MatLab "
+    },
+    {
+      "title": "计算工具 VASP POSCAR文件从笛卡尔坐标（Cartesian）转换为分数坐标（Direct）的MatLab脚本",
+      "url": "https://zhuanlan.zhihu.com/p/711541234",
+      "content_type": "article",
+      "created_at": 1722238155,
+      "created_date": "2024-07-29",
+      "likes": 2,
+      "favorites": 4,
+      "comments": 0,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "前言：在进行材料计算和模拟的过程中，尤其是使用VASP（Vienna Ab-initio Simulation Package）进行密度泛函理论（DFT）计算时，我可能需要处理不同形式的晶体结构输入文件（POSCAR）。VASP中，原子坐标可以用笛卡尔坐标（Cartesian）或分数坐标（Direct）表示。通常二者的转换要通过VESTA软件进行相对繁琐的转换。本工具旨在提供个简单的MatLab "
+    },
+    {
+      "title": "有哪些好用的zotero插件?",
+      "url": "https://www.zhihu.com/answer/3575313981",
+      "content_type": "answer",
+      "created_at": 1722067165,
+      "created_date": "2024-07-27",
+      "likes": 151,
+      "favorites": 519,
+      "comments": 15,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "[图片] 前言：一直以来，我不论是管理文献抑或是做笔记，都是用 Notion，因为自定义程度高。但是在前几天，好兄弟跟我安利说，zotero 的内置了 GPT，读文章可以试试，直接输入pdf随便问。因此空闲时间我就在网上找了找资料，边配置边记录了过程以及踩的坑。 网站资源：Awesome GPT for Zotero 的项目主页：https://github.com/MuiseDestiny/zo"
+    },
+    {
+      "title": "计算工具 论文阅读 Zotero & GPT：配置、资源分享及避坑心得",
+      "url": "https://zhuanlan.zhihu.com/p/711243587",
+      "content_type": "article",
+      "created_at": 1722067014,
+      "created_date": "2024-07-27",
+      "likes": 23,
+      "favorites": 39,
+      "comments": 6,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "前言：一直以来，我不论是管理文献抑或是做笔记，都是用 Notion，因为自定义程度高。但是在前几天，好兄弟跟我安利说，zotero 的内置了 GPT，读文章可以试试，直接输入pdf随便问。因此空闲时间我就在网上找了找资料，边配置边记录了过程以及踩的坑。 网站资源：Awesome GPT for Zotero 的项目主页：https://github.com/MuiseDestiny/zotero-"
+    },
+    {
+      "title": "有什么好用的学术论文写作辅助工具?",
+      "url": "https://www.zhihu.com/answer/3415249955",
+      "content_type": "answer",
+      "created_at": 1709297686,
+      "created_date": "2024-03-01",
+      "likes": 2,
+      "favorites": 5,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "当我打算将本周阅读的文献整理到 PPT 用作组会汇报时，面对其中海量的公式却犯了难：截图终究没法使我心里舒坦，但一个一个敲到 PPT 上又耗时过多。但是 pix2tex 这个项目出现解决了我的烦恼，这是一个可以将数学公式图片以相当高的精度转换为相应 LaTeX 代码的 python 项目；其工作流程如下： [图片] 感谢 @HelloGitHub 在23年年度热门开源项目（来了！HelloGitH"
+    },
+    {
+      "title": "计算工具 科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码",
+      "url": "https://zhuanlan.zhihu.com/p/684716524",
+      "content_type": "article",
+      "created_at": 1709297583,
+      "created_date": "2024-03-01",
+      "likes": 23,
+      "favorites": 87,
+      "comments": 3,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "当我打算将本周阅读的文献整理到 PPT 用作组会汇报时，面对其中海量的公式却犯了难：截图终究没法使我心里舒坦，但一个一个敲到 PPT 上又耗时过多。但是 pix2tex 这个项目出现解决了我的烦恼，这是一个可以将数学公式图片以相当高的精度转换为相应 LaTeX 代码的 python 项目；其工作流程如下： [图片] 感谢 @HelloGitHub 在23年年度热门开源项目（来了！HelloGitH"
+    },
+    {
+      "title": "matlab如何提取自己想要的数据？",
+      "url": "https://www.zhihu.com/answer/3411436025",
+      "content_type": "answer",
+      "created_at": 1709036735,
+      "created_date": "2024-02-27",
+      "likes": 14,
+      "favorites": 44,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "当我写好了一个 MatLab code 并进行了数小时的计算后，发现程序给出的曲线相当符合物理直觉。但我还没来得及高兴就突然意识到： 程序给出的这个曲线图没加横纵坐标，线形和颜色也不好看，没有办法直接放在论文里。 如果计算是在本地的计算机进行的，就还有挽救的余地，我可以从 MatLab 工作区拿出数据重新绘制；但如果计算不是在本地，而用的是超算服务器没办法提取工作区变量呢？没关系，只要图片存了下来"
+    },
+    {
+      "title": "计算工具 科研绘图之 MatLab .fig 文件的存储、处理及利用",
+      "url": "https://zhuanlan.zhihu.com/p/683973403",
+      "content_type": "article",
+      "created_at": 1709036479,
+      "created_date": "2024-02-27",
+      "likes": 28,
+      "favorites": 53,
+      "comments": 3,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "当我写好了一个 MatLab code 并进行了数小时的计算后，发现程序给出的曲线相当符合物理直觉。但我还没来得及高兴就突然意识到： 程序给出的这个曲线图没加横纵坐标，线形和颜色也不好看，没有办法直接放在论文里。 如果计算是在本地的计算机进行的，就还有挽救的余地，我可以从 MatLab 工作区拿出数据重新绘制；但如果计算不是在本地，而用的是超算服务器没办法提取工作区变量呢？没关系，只要图片存了下来"
+    },
+    {
+      "title": "二维半导体材料的研究前景？",
+      "url": "https://www.zhihu.com/answer/3406767338",
+      "content_type": "answer",
+      "created_at": 1708685260,
+      "created_date": "2024-02-23",
+      "likes": 8,
+      "favorites": 12,
+      "comments": 0,
+      "category": {
+        "id": "twod",
+        "label": "二维材料与范德华",
+        "label_en": "2D Materials & van der Waals"
+      },
+      "summary": "前言：在 范德华双层同质结的层间参杂金属原子并改变参杂浓度是一种较易实现的调控材料性质的方法。本文解读的这篇 ACS Nano 发表于 2024 年 1 月，题目为\"Enhancing Metallicity and Basal Plane Reactivity of 2D Materials via Self-Intercalation\"。作者借助密度泛函理论的计算方法，研究了那些组分中天然具有"
+    },
+    {
+      "title": "文献精析 ACS Nano：范德华双层同质结嵌入同种金属原子的高通量计算及能带特性（ic-2D 材料）",
+      "url": "https://zhuanlan.zhihu.com/p/682072052",
+      "content_type": "article",
+      "created_at": 1708674933,
+      "created_date": "2024-02-23",
+      "likes": 4,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "twod",
+        "label": "二维材料与范德华",
+        "label_en": "2D Materials & van der Waals"
+      },
+      "summary": "前言：在 范德华双层同质结的层间参杂金属原子并改变参杂浓度是一种较易实现的调控材料性质的方法。本文解读的这篇 ACS Nano 发表于 2024 年 1 月，题目为\"Enhancing Metallicity and Basal Plane Reactivity of 2D Materials via Self-Intercalation\"。作者借助密度泛函理论的计算方法，研究了那些组分中天然具有"
+    },
+    {
+      "title": "想学习一下铁电、铁磁、超导方面的内容，求推荐？",
+      "url": "https://www.zhihu.com/answer/3393364801",
+      "content_type": "answer",
+      "created_at": 1707633628,
+      "created_date": "2024-02-11",
+      "likes": 4,
+      "favorites": 8,
+      "comments": 1,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "Introduction & Abstract：这篇 nature communications 发表于 2024 年 1 月31日，题目为\" High-throughput computational stacking reveals emergent properties in natural van der Waals bilayers\"。作者用密度泛函理论（DFT）的 workflow，将"
+    },
+    {
+      "title": "文献精析 nature communications：范德华双层同质结堆叠的高通量设计、筛选及计算（从C2DB到BiDB）",
+      "url": "https://zhuanlan.zhihu.com/p/681969934",
+      "content_type": "article",
+      "created_at": 1707633488,
+      "created_date": "2024-02-11",
+      "likes": 7,
+      "favorites": 11,
+      "comments": 0,
+      "category": {
+        "id": "twod",
+        "label": "二维材料与范德华",
+        "label_en": "2D Materials & van der Waals"
+      },
+      "summary": "Introduction & Abstract：这篇 nature communications 发表于 2024 年 1 月31日，题目为\" High-throughput computational stacking reveals emergent properties in natural van der Waals bilayers\"。作者用密度泛函理论（DFT）的 workflow，将"
+    },
+    {
+      "title": "能不能通俗地讲解一下晶体、点阵、点群、空间群之间的关系？它们的区别与联系？",
+      "url": "https://www.zhihu.com/answer/3386982109",
+      "content_type": "answer",
+      "created_at": 1707034001,
+      "created_date": "2024-02-04",
+      "likes": 36,
+      "favorites": 60,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "前沿：在群论中， 商群（factor group 或 quotient group）是由不变子群和其所有陪集作为复元素形成的新集合[1]。在晶体学中，基于商群方法的分析常被应用在分辨原胞内具有等价对称性的分子或复合物的耦合中，以及固态拉曼和红外光谱学等领域。本文内容是我学习 Lars J. Norrby 的文章“ Factor groups, point groups, space groups:"
+    },
+    {
+      "title": "文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用",
+      "url": "https://zhuanlan.zhihu.com/p/681268408",
+      "content_type": "article",
+      "created_at": 1707033334,
+      "created_date": "2024-02-04",
+      "likes": 6,
+      "favorites": 9,
+      "comments": 0,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "前沿：在群论中， 商群（factor group 或 quotient group）是由不变子群和其所有陪集作为复元素形成的新集合[1]。在晶体学中，基于商群方法的分析常被应用在分辨原胞内具有等价对称性的分子或复合物的耦合中，以及固态拉曼和红外光谱学等领域。本文内容是我学习 Lars J. Norrby 的文章“ Factor groups, point groups, space groups:"
+    },
+    {
+      "title": "群论解决问题的实例有哪些？",
+      "url": "https://www.zhihu.com/answer/3370884834",
+      "content_type": "answer",
+      "created_at": 1705834436,
+      "created_date": "2024-01-21",
+      "likes": 12,
+      "favorites": 44,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "前言层群（layer groups）是 在三维空间上具有二维平移晶格的群，在描述二维材料（包括 layered 和 multilayerd materials）的对称性时必不可少。 本文内容主要是我学习 Daniel B. Litvin 与 Thomas R. Wike 的文章“Character Tables and Compatibility Relations of The Eighty L"
+    },
+    {
+      "title": "文献精析|理论笔记 层群 the 80 Layer Groups：概念，特征及其与点群、平移群、空间群和平面群的关系",
+      "url": "https://zhuanlan.zhihu.com/p/678923831",
+      "content_type": "article",
+      "created_at": 1705834127,
+      "created_date": "2024-01-21",
+      "likes": 36,
+      "favorites": 92,
+      "comments": 10,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "前言层群（layer groups）是 在三维空间上具有二维平移晶格的群，在描述二维材料（包括 layered 和 multilayerd materials）的对称性时必不可少。 本文内容主要是我学习 Daniel B. Litvin 与 Thomas R. Wike 的文章“Character Tables and Compatibility Relations of The Eighty L"
+    },
+    {
+      "title": "针对绘图方面的需求，matlab、python和R哪个更加强大？",
+      "url": "https://www.zhihu.com/answer/3356622375",
+      "content_type": "answer",
+      "created_at": 1704852222,
+      "created_date": "2024-01-10",
+      "likes": 6,
+      "favorites": 12,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "科研绘图中 双纵轴曲线图（chart with two y-axes）主要用于将纵坐标范围不同的曲线绘制在同一幅图中，同时又保持曲线各自的形状特性。您可以通过下面的例子找到 MatLab 绘制双纵轴曲线图的代码以及看到基于我个人经验的小的 tricks。这个例子是我对某材料光响应曲线数据的可视化。该材料 xxx、xyy 和 xzz 三条依赖于横坐标（入射光能量）的曲线在纵轴为【-800, 600】"
+    },
+    {
+      "title": "计算工具 科研绘图之 MatLab 双纵轴曲线图：绘制场景、应用举例、相关代码及技巧",
+      "url": "https://zhuanlan.zhihu.com/p/676932485",
+      "content_type": "article",
+      "created_at": 1704850973,
+      "created_date": "2024-01-10",
+      "likes": 21,
+      "favorites": 52,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "科研绘图中 双纵轴曲线图（chart with two y-axes）主要用于将纵坐标范围不同的曲线绘制在同一幅图中，同时又保持曲线各自的形状特性。您可以通过下面的例子找到 MatLab 绘制双纵轴曲线图的代码以及看到基于我个人经验的小的 tricks。这个例子是我对某材料光响应曲线数据的可视化。该材料 xxx、xyy 和 xzz 三条依赖于横坐标（入射光能量）的曲线在纵轴为【-800, 600】"
+    },
+    {
+      "title": "如何学习固体物理和凝聚态物理中的群论？",
+      "url": "https://www.zhihu.com/answer/3315168682",
+      "content_type": "answer",
+      "created_at": 1701831437,
+      "created_date": "2023-12-06",
+      "likes": 4,
+      "favorites": 8,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "群：群是元素的集合，且在规定元素间“乘法”法则后需满足 4 个条件：封闭性：任意两元素乘积仍属于此集合；结合律：乘法结合律，这里的乘法是是广义的，表示元素间特定的相互作用 [公式] ；单位元：单位元左乘任意元素后仍为这个元素 [公式] ；逆元：元素的逆左乘该元素得到单位元 [公式] ；有限群：群中元素数目是有限多的。 （无限群群中元素数目无穷多个。）群的阶数：群中元素的数目。连续群：无限群中的元素"
+    },
+    {
+      "title": "相对原子质量为什么可以有单位？",
+      "url": "https://www.zhihu.com/answer/3315165952",
+      "content_type": "answer",
+      "created_at": 1701831340,
+      "created_date": "2023-12-06",
+      "likes": 3,
+      "favorites": 4,
+      "comments": 0,
+      "category": {
+        "id": "theory",
+        "label": "数学与理论笔记",
+        "label_en": "Mathematics & Theory Notes"
+      },
+      "summary": "在使用计算机编程计算时，一般将原子相关量（如电子质量、普朗克常数等）直接设为1。 这样做是为了避免数值计算过程中出现太小的数，或者取倒数后出现太大的数，导致结果发散。1. 原子单位总结：Atomic Units (a.u.)对应常用单位及数值物理含义1 a.u. of mass9.10956e-31 kg电子质量1 a.u. of charge-1.602176634e-19 C电子电荷1 a.u"
+    },
+    {
+      "title": "能带计算有哪些必读的文献或教程？",
+      "url": "https://www.zhihu.com/answer/3315160554",
+      "content_type": "answer",
+      "created_at": 1701831158,
+      "created_date": "2023-12-06",
+      "likes": 6,
+      "favorites": 10,
+      "comments": 0,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "回答参见原文章： 计算工具 engwin.py：能带分析、wannier90解纠缠 - 知乎 (zhihu.com) 在使用 Wannier90 对 DFT 能带进行 wannier 紧束缚拟合时，需要对选取的能带解纠缠。例如一个体系的 POSCAR 内含 4 个原子，我们想投影其所有的 s 和 p 轨道，就需要拟合第 1 条到第 16 条能带。如果第16条能带和其它能带互相纠缠，要想光靠肉眼来区"
+    },
+    {
+      "title": "铁电材料体光伏效应的shift current应该怎么理解？",
+      "url": "https://www.zhihu.com/answer/3315158231",
+      "content_type": "answer",
+      "created_at": 1701831080,
+      "created_date": "2023-12-06",
+      "likes": 25,
+      "favorites": 51,
+      "comments": 10,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "2023年7月，Phys. Rev. Materials 在线发表了北京交通大学郭亚光副教授课题组的研究论文：《Screening two-dimensional pyroelectric materials based on pentagonal chains with large shift current》。 摘要：本文作者在二维材料数据库 C2DB 中，采用高通量搜索算法，筛选出了一系列含"
+    },
+    {
+      "title": "Origin、MATLAB、Python 用于科研作图，哪个最好？",
+      "url": "https://www.zhihu.com/answer/3312520211",
+      "content_type": "answer",
+      "created_at": 1701658589,
+      "created_date": "2023-12-04",
+      "likes": 19,
+      "favorites": 68,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "热图（heatmap）可将离散的二维平面数据直观地可视化，由宏观上地区的GDP、房价、人口密度、气温，到日常的某单元楼用户耗电量、笔记本电脑发热情况，再到微观上材料的光吸收强度等，这些数据都可以用 heatmap 展现。在这篇《Screening two-dimensional pyroelectric materials based on pentagonal chains with large"
+    },
+    {
+      "title": "计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较",
+      "url": "https://zhuanlan.zhihu.com/p/670058757",
+      "content_type": "article",
+      "created_at": 1701658589,
+      "created_date": "2023-12-04",
+      "likes": 61,
+      "favorites": 106,
+      "comments": 6,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "热图（heatmap）可将离散的二维平面数据直观地可视化，由宏观上地区的GDP、房价、人口密度、气温，到日常的某单元楼用户耗电量、笔记本电脑发热情况，再到微观上材料的光吸收强度等，这些数据都可以用 heatmap 展现。在这篇《Screening two-dimensional pyroelectric materials based on pentagonal chains with large"
+    },
+    {
+      "title": "理论笔记 物理学中的群论：群的结构特征、群表示理论",
+      "url": "https://zhuanlan.zhihu.com/p/669854436",
+      "content_type": "article",
+      "created_at": 1701517270,
+      "created_date": "2023-12-02",
+      "likes": 12,
+      "favorites": 27,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "群：群是元素的集合，且在规定元素间“乘法”法则后需满足 4 个条件：封闭性：任意两元素乘积仍属于此集合；结合律：乘法结合律，这里的乘法是是广义的，表示元素间特定的相互作用 [公式] ；单位元：单位元左乘任意元素后仍为这个元素 [公式] ；逆元：元素的逆左乘该元素得到单位元 [公式] ；有限群：群中元素数目是有限多的。 （无限群群中元素数目无穷多个。）群的阶数：群中元素的数目。连续群：无限群中的元素"
+    },
+    {
+      "title": "理论笔记 原子单位 Atomic units 和分子动力学单位 MD units：推导，计算及量纲验证",
+      "url": "https://zhuanlan.zhihu.com/p/668044775",
+      "content_type": "article",
+      "created_at": 1700708881,
+      "created_date": "2023-11-23",
+      "likes": 6,
+      "favorites": 27,
+      "comments": 1,
+      "category": {
+        "id": "theory",
+        "label": "数学与理论笔记",
+        "label_en": "Mathematics & Theory Notes"
+      },
+      "summary": "在使用计算机编程计算时，一般将原子相关量（如电子质量、普朗克常数等）直接设为1。 这样做是为了避免数值计算过程中出现太小的数，或者取倒数后出现太大的数，导致结果发散。1. 原子单位总结：Atomic Units (a.u.)对应常用单位及数值物理含义1 a.u. of mass9.10956e-31 kg电子质量1 a.u. of charge-1.602176634e-19 C电子电荷1 a.u"
+    },
+    {
+      "title": "计算工具 engwin.py：能带分析、wannier90解纠缠",
+      "url": "https://zhuanlan.zhihu.com/p/657229195",
+      "content_type": "article",
+      "created_at": 1695606236,
+      "created_date": "2023-09-25",
+      "likes": 23,
+      "favorites": 41,
+      "comments": 3,
+      "category": {
+        "id": "computational",
+        "label": "计算方法与软件",
+        "label_en": "Computational Methods"
+      },
+      "summary": "在使用 Wannier90 对 DFT 能带进行 wannier 紧束缚拟合时，需要对选取的能带解纠缠。例如一个双层蓝磷体系的 POSCAR 内含 4 个原子，我们想投影其所有的 s 和 p 轨道，经过 fatband 分析发现应该拟合第 1 条到第 16 条能带（感谢 @郭麒麟 的提醒）。如果第16条能带和其它能带互相纠缠，要想光靠肉眼来区分第16条能带的最大值和第17条能带最小值以找到解纠缠窗"
+    },
+    {
+      "title": "文献精析 体光伏效应：含五边形链状结构的二维热释电材料CuXX'Y",
+      "url": "https://zhuanlan.zhihu.com/p/656334259",
+      "content_type": "article",
+      "created_at": 1695027948,
+      "created_date": "2023-09-18",
+      "likes": 31,
+      "favorites": 36,
+      "comments": 3,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "2023年7月，Phys. Rev. Materials 在线发表了北京交通大学郭亚光副教授课题组的研究论文：《Screening two-dimensional pyroelectric materials based on pentagonal chains with large shift current》。 摘要：本文作者在二维材料数据库 C2DB 中，采用高通量搜索算法，筛选出了一系列含"
+    }
+  ]
+}
