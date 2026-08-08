@@ -1,6 +1,6 @@
 {
   "fetched_at": {
-    "fetched_at": "2026-08-08T11:29:08.292336",
+    "fetched_at": "2026-08-08",
     "total": 91,
     "count": 91
   },
@@ -556,7 +556,7 @@
       "fav": 46,
       "cat": "概念科普",
       "series": null,
-      "fav_day": 6.57
+      "fav_day": 7.67
     },
     {
       "title": "给 Zotero 装上 DeepSeek-V4-Flash",
@@ -566,7 +566,7 @@
       "fav": 45,
       "cat": "工具教程",
       "series": "Zotero 系列",
-      "fav_day": 15.0
+      "fav_day": 22.5
     },
     {
       "title": "WannSymm 安装与使用教程",
@@ -586,7 +586,7 @@
       "fav": 32,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 10.67
+      "fav_day": 16.0
     },
     {
       "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
@@ -596,7 +596,7 @@
       "fav": 29,
       "cat": "论文解读",
       "series": "铁电系列",
-      "fav_day": 14.5
+      "fav_day": 29.0
     },
     {
       "title": "我开源了一个极简个人学术主页模板",
@@ -606,7 +606,7 @@
       "fav": 28,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.37
+      "fav_day": 0.38
     },
     {
       "title": "为什么晶体具有对称性？",
@@ -646,7 +646,7 @@
       "fav": 13,
       "cat": "论文解读",
       "series": "文献精读系列",
-      "fav_day": 1.3
+      "fav_day": 1.44
     },
     {
       "title": "macOS有哪些有趣或者高效的命令行工具？",
@@ -726,7 +726,7 @@
       "fav": 5,
       "cat": "概念科普",
       "series": "铁电系列",
-      "fav_day": 2.5
+      "fav_day": 5.0
     },
     {
       "title": "批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系",
@@ -756,7 +756,7 @@
       "fav": 2,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.67
+      "fav_day": 1.0
     },
     {
       "title": "NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合",
@@ -776,7 +776,7 @@
       "fav": 1,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.33
+      "fav_day": 0.5
     },
     {
       "title": "暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2",
@@ -786,7 +786,7 @@
       "fav": 1,
       "cat": "论文解读",
       "series": "铁电系列",
-      "fav_day": 0.14
+      "fav_day": 0.17
     },
     {
       "title": "用 Mole 清理 Mac：命令行新手也能上手的一次记录",
@@ -844,7 +844,7 @@
       "fav_like_ratio": 3.35,
       "first": "2024-07",
       "last": "2026-08",
-      "days_since_last": 3,
+      "days_since_last": 2,
       "top": "有哪些好用的zotero插件?"
     },
     {
@@ -912,7 +912,7 @@
       "fav_like_ratio": 1.76,
       "first": "2023-09",
       "last": "2026-07",
-      "days_since_last": 10,
+      "days_since_last": 9,
       "top": "文献精析|理论笔记 层群 the 80 Layer Groups：概念，特征及其与点群、平移群、空间群和平面群的关系"
     },
     {
@@ -946,7 +946,7 @@
       "fav_like_ratio": 3.55,
       "first": "2024-03",
       "last": "2025-03",
-      "days_since_last": 501,
+      "days_since_last": 500,
       "top": "计算工具 科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码"
     },
     {
@@ -963,7 +963,7 @@
       "fav_like_ratio": 1.82,
       "first": "2025-08",
       "last": "2025-08",
-      "days_since_last": 368,
+      "days_since_last": 367,
       "top": "如何理解Kagome格子中的flat band？"
     },
     {
@@ -980,7 +980,7 @@
       "fav_like_ratio": 2.67,
       "first": "2026-08",
       "last": "2026-08",
-      "days_since_last": 1,
+      "days_since_last": 0,
       "top": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion"
     }
   ],
@@ -1003,12 +1003,12 @@
   },
   "rising": [
     {
-      "title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
+      "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
       "type": "文章",
-      "date": "2026-08-07",
-      "like": 7,
-      "fav": 15,
-      "fav_day": 15.0,
+      "date": "2026-08-06",
+      "like": 12,
+      "fav": 29,
+      "fav_day": 29.0,
       "age_days": 1
     },
     {
@@ -1017,16 +1017,7 @@
       "date": "2026-08-05",
       "like": 6,
       "fav": 45,
-      "fav_day": 15.0,
-      "age_days": 3
-    },
-    {
-      "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
-      "type": "文章",
-      "date": "2026-08-06",
-      "like": 12,
-      "fav": 29,
-      "fav_day": 14.5,
+      "fav_day": 22.5,
       "age_days": 2
     },
     {
@@ -1035,8 +1026,17 @@
       "date": "2026-08-05",
       "like": 11,
       "fav": 32,
-      "fav_day": 10.67,
-      "age_days": 3
+      "fav_day": 16.0,
+      "age_days": 2
+    },
+    {
+      "title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
+      "type": "文章",
+      "date": "2026-08-07",
+      "like": 7,
+      "fav": 15,
+      "fav_day": 15.0,
+      "age_days": 0
     },
     {
       "title": "什么是 skyrmion？",
@@ -1045,7 +1045,7 @@
       "like": 2,
       "fav": 9,
       "fav_day": 9.0,
-      "age_days": 1
+      "age_days": 0
     },
     {
       "title": "为什么人们如此关心激子（exciton）？",
@@ -1053,8 +1053,17 @@
       "date": "2026-08-01",
       "like": 28,
       "fav": 46,
-      "fav_day": 6.57,
-      "age_days": 7
+      "fav_day": 7.67,
+      "age_days": 6
+    },
+    {
+      "title": "铁电材料这一定义的由来？",
+      "type": "回答",
+      "date": "2026-08-06",
+      "like": 1,
+      "fav": 5,
+      "fav_day": 5.0,
+      "age_days": 1
     },
     {
       "title": "铁电统一定义（预印本 Unified definition of ferroelectricity）",
@@ -1064,15 +1073,6 @@
       "fav": 3,
       "fav_day": 3.0,
       "age_days": 0
-    },
-    {
-      "title": "算滑移铁电翻转怎么找顺电相和铁电相?",
-      "type": "回答",
-      "date": "2026-08-01",
-      "like": 7,
-      "fav": 17,
-      "fav_day": 2.83,
-      "age_days": 6
     }
   ],
   "weekday": [
@@ -1268,7 +1268,7 @@
       "date": "2024-07",
       "like": 151,
       "fav": 519,
-      "age_days": 742,
+      "age_days": 741,
       "series": "Zotero 系列",
       "cat": "工具教程"
     },
@@ -1278,7 +1278,7 @@
       "date": "2023-12",
       "like": 61,
       "fav": 106,
-      "age_days": 978,
+      "age_days": 977,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1288,7 +1288,7 @@
       "date": "2024-01",
       "like": 36,
       "fav": 92,
-      "age_days": 930,
+      "age_days": 929,
       "series": "文献精读系列",
       "cat": "概念科普"
     },
@@ -1308,7 +1308,7 @@
       "date": "2023-12",
       "like": 19,
       "fav": 68,
-      "age_days": 978,
+      "age_days": 977,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1328,7 +1328,7 @@
       "date": "2024-02",
       "like": 36,
       "fav": 60,
-      "age_days": 916,
+      "age_days": 915,
       "series": "群论系列",
       "cat": "概念科普"
     },
@@ -1348,7 +1348,7 @@
       "date": "2024-01",
       "like": 21,
       "fav": 52,
-      "age_days": 941,
+      "age_days": 940,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1358,7 +1358,7 @@
       "date": "2023-12",
       "like": 25,
       "fav": 51,
-      "age_days": 976,
+      "age_days": 975,
       "series": "铁电系列",
       "cat": "概念科普"
     },
@@ -1378,7 +1378,7 @@
       "date": "2024-01",
       "like": 12,
       "fav": 44,
-      "age_days": 930,
+      "age_days": 929,
       "series": "群论系列",
       "cat": "概念科普"
     },
@@ -1398,7 +1398,7 @@
       "date": "2023-09",
       "like": 23,
       "fav": 41,
-      "age_days": 1048,
+      "age_days": 1047,
       "series": null,
       "cat": "工具教程"
     },
@@ -1408,7 +1408,7 @@
       "date": "2024-07",
       "like": 23,
       "fav": 39,
-      "age_days": 742,
+      "age_days": 741,
       "series": "Zotero 系列",
       "cat": "工具教程"
     },
@@ -1418,7 +1418,7 @@
       "date": "2023-09",
       "like": 31,
       "fav": 36,
-      "age_days": 1055,
+      "age_days": 1054,
       "series": "文献精读系列",
       "cat": "论文解读"
     },
@@ -1428,7 +1428,7 @@
       "date": "2024-12",
       "like": 10,
       "fav": 32,
-      "age_days": 599,
+      "age_days": 598,
       "series": "理论笔记系列",
       "cat": "概念科普"
     },
