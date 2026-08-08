@@ -1,11 +1,11 @@
 ## Zhihu Creations · 知乎创作
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 91 条创作 · 累计 1011 赞 / 2332 藏 · 更新于 2026-08-08
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 91 条创作 · 累计 1017 赞 / 2343 藏 · 更新于 2026-08-08
 
 ### 铁电与极化 Ferroelectricity & Polarization（12 条）
 
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
-- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 12 · 藏 29
+- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 14 · 藏 30
 - [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 17
 - [NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合](https://zhuanlan.zhihu.com/p/2066974338855843093) · 文章 · 2026-08-01 · 赞 0 · 藏 2
 - [为什么二维铁电材料很稀少？](https://www.zhihu.com/answer/2040770231963017741) · 回答 · 2026-05-21 · 赞 5 · 藏 8
@@ -19,7 +19,7 @@
 
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（2 条）
 
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 2 · 藏 9
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 4 · 藏 11
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 7 · 藏 15
 
 ### 激子与位移电流 Excitons & Shift Current（2 条）
@@ -29,7 +29,7 @@
 
 ### 二维材料与范德华 2D Materials & van der Waals（4 条）
 
-- [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 26 · 藏 42
+- [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 27 · 藏 43
 - [二维半导体材料的研究前景？](https://www.zhihu.com/answer/3406767338) · 回答 · 2024-02-23 · 赞 8 · 藏 12
 - [文献精析 ACS Nano：范德华双层同质结嵌入同种金属原子的高通量计算及能带特性（ic-2D 材料）](https://zhuanlan.zhihu.com/p/682072052) · 文章 · 2024-02-23 · 赞 4 · 藏 2
 - [文献精析 nature communications：范德华双层同质结堆叠的高通量设计、筛选及计算（从C2DB到BiDB）](https://zhuanlan.zhihu.com/p/681969934) · 文章 · 2024-02-11 · 赞 7 · 藏 11
@@ -45,7 +45,7 @@
 - [计算工具 cif文件到POSCAR的批量转换（使用Python的ASE库）](https://zhuanlan.zhihu.com/p/11206188677) · 文章 · 2024-12-06 · 赞 9 · 藏 5
 - [用MS编辑POSCAR是不是主流？](https://www.zhihu.com/answer/3577247855) · 回答 · 2024-07-29 · 赞 2 · 藏 3
 - [计算工具 VASP POSCAR文件从笛卡尔坐标（Cartesian）转换为分数坐标（Direct）的MatLab脚本](https://zhuanlan.zhihu.com/p/711541234) · 文章 · 2024-07-29 · 赞 2 · 藏 4
-- [文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用](https://zhuanlan.zhihu.com/p/681268408) · 文章 · 2024-02-04 · 赞 6 · 藏 9
+- [文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用](https://zhuanlan.zhihu.com/p/681268408) · 文章 · 2024-02-04 · 赞 7 · 藏 10
 - [能带计算有哪些必读的文献或教程？](https://www.zhihu.com/answer/3315160554) · 回答 · 2023-12-06 · 赞 6 · 藏 10
 - [计算工具 engwin.py：能带分析、wannier90解纠缠](https://zhuanlan.zhihu.com/p/657229195) · 文章 · 2023-09-25 · 赞 23 · 藏 41
 
@@ -59,7 +59,7 @@
 - [如何理解群论以及群论有什么比较典型易懂的应用？](https://www.zhihu.com/answer/1936549988835497280) · 回答 · 2025-08-06 · 赞 14 · 藏 41
 - [理论笔记 群论chapter 1. 群的结构特征：概念总结](https://zhuanlan.zhihu.com/p/1936543848932303720) · 文章 · 2025-08-06 · 赞 9 · 藏 12
 - [理论笔记 kagome晶格相关：van Hove奇点，对称性保护平带，Dirac点](https://zhuanlan.zhihu.com/p/1935800922589631729) · 文章 · 2025-08-04 · 赞 5 · 藏 8
-- [能不能通俗地讲解一下晶体、点阵、点群、空间群之间的关系？它们的区别与联系？](https://www.zhihu.com/answer/3386982109) · 回答 · 2024-02-04 · 赞 36 · 藏 60
+- [能不能通俗地讲解一下晶体、点阵、点群、空间群之间的关系？它们的区别与联系？](https://www.zhihu.com/answer/3386982109) · 回答 · 2024-02-04 · 赞 36 · 藏 61
 - [群论解决问题的实例有哪些？](https://www.zhihu.com/answer/3370884834) · 回答 · 2024-01-21 · 赞 12 · 藏 44
 - [文献精析|理论笔记 层群 the 80 Layer Groups：概念，特征及其与点群、平移群、空间群和平面群的关系](https://zhuanlan.zhihu.com/p/678923831) · 文章 · 2024-01-21 · 赞 36 · 藏 92
 - [如何学习固体物理和凝聚态物理中的群论？](https://www.zhihu.com/answer/3315168682) · 回答 · 2023-12-06 · 赞 4 · 藏 8
@@ -75,7 +75,7 @@
 
 ### 科研工具与工作流 Research Tools & Workflow（19 条）
 
-- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 6 · 藏 45
+- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 6 · 藏 48
 - [macOS有哪些有趣或者高效的命令行工具？](https://www.zhihu.com/answer/2050970563569623666) · 回答 · 2026-06-18 · 赞 9 · 藏 11
 - [用 Mole 清理 Mac：命令行新手也能上手的一次记录](https://zhuanlan.zhihu.com/p/2050966522710046261) · 文章 · 2026-06-18 · 赞 1 · 藏 1
 - [英文学术论文写作有哪些经验心得？](https://www.zhihu.com/answer/1887898255729354737) · 回答 · 2025-03-25 · 赞 3 · 藏 7
@@ -99,7 +99,7 @@
 
 - [如何评价DeepSeek-V4 Flash 正式版，有哪些亮点？](https://www.zhihu.com/answer/2068368461303132163) · 回答 · 2026-08-05 · 赞 1 · 藏 1
 - [OpenCode 接入 DeepSeek V4 Flash 配置指南](https://zhuanlan.zhihu.com/p/2068368163092291981) · 文章 · 2026-08-05 · 赞 0 · 藏 2
-- [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 32
+- [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 33
 - [初学者怎么入门大语言模型（LLM）？](https://www.zhihu.com/answer/1936110727275459553) · 回答 · 2025-08-05 · 赞 4 · 藏 4
 - [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 6 · 藏 11
 - [copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？](https://www.zhihu.com/answer/56401636365) · 回答 · 2024-12-16 · 赞 3 · 藏 2
