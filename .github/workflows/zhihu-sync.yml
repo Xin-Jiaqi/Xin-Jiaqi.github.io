@@ -4,7 +4,8 @@
 #   1. 每天 06:00 / 18:00（北京时间）自动运行
 #   2. 官方 manifest 安装 zhihu-cli（大小 + SHA-256 校验）→ Secret 登录
 #   3. 抓取创作 → 自动分类 → 生成片段/JSON → 校验
-#   4. 数据有任何变化（新文章/赞藏变化）→ 自动注入 index.html 并提交，
+#   4. 数据有任何变化（新文章/赞藏变化）→ 自动注入 index.html，
+#      提交临时分支并自动开 PR 合并（符合仓库 protect-main 规则），
 #      GitHub Pages 自动发布，线上板块自动更新
 #   5. 出现「其他」未分类内容 → 自动创建 Issue 提醒人工补关键词
 #   6. 运行失败 → 自动创建 Issue 附日志链接
@@ -110,16 +111,27 @@ jobs:
             --fragment zhihu-sync/output/zhihu-section.html --write
           python3 tests/validate_site.py
 
-      - name: 提交并推送（仅实质变化或强制注入时）
+      - name: 提交并自动 PR 合并（符合仓库 PR 规则）
         if: steps.changed.outputs.changed == 'true' || inputs.update_index == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add zhihu-sync/output index.html
-          git diff --cached --quiet || {
-            git commit -m "chore(zhihu): 自动同步知乎创作（$(date +%F)）"
-            git push
-          }
+          if git diff --cached --quiet; then
+            echo "无内容变化，跳过提交"
+            exit 0
+          fi
+          BRANCH="zhihu-sync/auto-$(date +%Y%m%d-%H%M%S)"
+          git checkout -b "$BRANCH"
+          git commit -m "chore(zhihu): 自动同步知乎创作（$(date +%F)）"
+          git push -u origin "$BRANCH"
+          gh pr create --base main --head "$BRANCH" --title "chore(zhihu): 自动同步知乎创作（$(date +%F)）" \
+            --body "由 zhihu-sync 自动化生成：知乎创作数据 / 网站板块更新。validate 通过后自动合并。" >/dev/null
+          gh pr merge "$BRANCH" --merge --delete-branch 2>/dev/null \
+            || gh pr merge "$BRANCH" --merge --auto --delete-branch 2>/dev/null \
+            || { echo "::error::自动合并失败，PR 已创建待人工处理"; exit 1; }
 
       - name: 未分类内容自动提醒（补关键词）
         if: success()
