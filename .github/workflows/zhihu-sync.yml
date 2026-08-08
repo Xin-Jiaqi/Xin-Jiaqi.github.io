@@ -1,0 +1,149 @@
+# 知乎创作 -> 个人网站全自动同步
+#
+# 自动化设计（机器全自动，异常才人工）：
+#   1. 每天 06:00 / 18:00（北京时间）自动运行
+#   2. 官方 manifest 安装 zhihu-cli（大小 + SHA-256 校验）→ Secret 登录
+#   3. 抓取创作 → 自动分类 → 生成片段/JSON → 校验
+#   4. 数据有任何变化（新文章/赞藏变化）→ 自动注入 index.html 并提交，
+#      GitHub Pages 自动发布，线上板块自动更新
+#   5. 出现「其他」未分类内容 → 自动创建 Issue 提醒人工补关键词
+#   6. 运行失败 → 自动创建 Issue 附日志链接
+#
+# 部署前准备（在网站仓库 Xin-Jiaqi.github.io 上）：
+#   1. 把 src/、tests/、zhihu-categories.json 放在仓库 zhihu-sync/ 目录
+#   2. 把本文件放到 .github/workflows/zhihu-sync.yml
+#   3. Settings -> Secrets and variables -> Actions 添加：
+#      ZHIHU_ACCESS_SECRET = 知乎开放平台 Access Secret
+#   4. 手动触发一次验证：Actions -> zhihu-sync -> Run workflow
+#
+# 手动触发时勾选 update_index = 强制重新注入 index.html（即使数据未变化）。
+# 不想自动上线时，把下方 env.ZHIHU_AUTO_UPDATE 改为 "false"（数据仍会同步到
+# zhihu-sync/output/，板块更新改为手动勾选 update_index）。
+
+name: zhihu-sync
+
+on:
+  schedule:
+    - cron: "0 22 * * *"          # 22:00 UTC = 06:00 Asia/Shanghai
+    - cron: "0 10 * * *"          # 10:00 UTC = 18:00 Asia/Shanghai
+  workflow_dispatch:
+    inputs:
+      update_index:
+        description: "强制重新注入 index.html（即使数据未变化）"
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  sync:
+    runs-on: macos-latest
+    env:
+      ZHIHU_AUTO_UPDATE: "true"
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: 安装 zhihu-cli（官方 manifest + 大小/SHA-256 校验）
+        id: install
+        env:
+          ZHIHU_ACCESS_SECRET: ${{ secrets.ZHIHU_ACCESS_SECRET }}
+        run: |
+          set -euo pipefail
+          if [ -z "$ZHIHU_ACCESS_SECRET" ]; then
+            echo "::error::缺少 Secret ZHIHU_ACCESS_SECRET，请在仓库 Settings -> Secrets and variables 添加"
+            exit 1
+          fi
+          MANIFEST="$(curl -fsSL --max-time 30 https://developer-cdn.zhihu.com/zhihu-cli/releases/stable/manifest.json)"
+          ARCH="$(uname -m)"
+          case "$ARCH" in
+            arm64) PLATFORM="darwin-arm64" ;;
+            x86_64) PLATFORM="darwin-amd64" ;;
+            *) echo "不支持的架构：$ARCH"; exit 1 ;;
+          esac
+          URL="$(printf '%s' "$MANIFEST" | python3 -c "import json,sys; print(json.load(sys.stdin)['cli']['artifacts']['$PLATFORM']['url'])")"
+          SHA="$(printf '%s' "$MANIFEST" | python3 -c "import json,sys; print(json.load(sys.stdin)['cli']['artifacts']['$PLATFORM']['sha256'])")"
+          SIZE="$(printf '%s' "$MANIFEST" | python3 -c "import json,sys; print(json.load(sys.stdin)['cli']['artifacts']['$PLATFORM']['size'])")"
+          curl -fsSL --max-time 60 -o "$RUNNER_TEMP/zhihu-cli.tar.gz" "$URL"
+          ACTUAL_SIZE="$(wc -c < "$RUNNER_TEMP/zhihu-cli.tar.gz" | tr -d ' ')"
+          [ "$ACTUAL_SIZE" = "$SIZE" ] || { echo "大小不匹配：$ACTUAL_SIZE != $SIZE"; exit 1; }
+          ACTUAL_SHA="$(shasum -a 256 "$RUNNER_TEMP/zhihu-cli.tar.gz" | awk '{print $1}')"
+          [ "$ACTUAL_SHA" = "$SHA" ] || { echo "SHA-256 不匹配"; exit 1; }
+          tar -xOf "$RUNNER_TEMP/zhihu-cli.tar.gz" zhihu-cli > "$RUNNER_TEMP/zhihu-cli"
+          chmod 755 "$RUNNER_TEMP/zhihu-cli"
+          echo "CLI_PATH=$RUNNER_TEMP/zhihu-cli" >> "$GITHUB_ENV"
+          printf '%s' "$ZHIHU_ACCESS_SECRET" | "$RUNNER_TEMP/zhihu-cli" auth set --secret-stdin
+
+      - name: 同步知乎创作并生成网站片段
+        run: |
+          python3 zhihu-sync/src/sync_zhihu.py --cli "$CLI_PATH" --no-cache \
+            --output-dir zhihu-sync/output --limit 3 \
+            --cache-dir "$RUNNER_TEMP/zhihu-cache" \
+            --categories zhihu-sync/zhihu-categories.json
+          python3 zhihu-sync/tests/validate_zhihu.py \
+            zhihu-sync/output/zhihu-section.html zhihu-sync/output/zhihu-data.json
+
+      - name: 检查数据是否有实质变化（排除纯时间戳差异）
+        id: changed
+        run: |
+          if git cat-file -e HEAD:zhihu-sync/output/zhihu-data.json 2>/dev/null; then
+            git show HEAD:zhihu-sync/output/zhihu-data.json > /tmp/zhihu-old.json
+            if python3 zhihu-sync/src/has_data_changed.py /tmp/zhihu-old.json zhihu-sync/output/zhihu-data.json; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+            else
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 数据变化时自动注入 index.html（全自动上线）
+        if: (steps.changed.outputs.changed == 'true' && env.ZHIHU_AUTO_UPDATE == 'true') || inputs.update_index == 'true'
+        run: |
+          python3 zhihu-sync/src/inject_site.py --site index.html \
+            --fragment zhihu-sync/output/zhihu-section.html --write
+          python3 tests/validate_site.py
+
+      - name: 提交并推送（仅实质变化或强制注入时）
+        if: steps.changed.outputs.changed == 'true' || inputs.update_index == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add zhihu-sync/output index.html
+          git diff --cached --quiet || {
+            git commit -m "chore(zhihu): 自动同步知乎创作（$(date +%F)）"
+            git push
+          }
+
+      - name: 未分类内容自动提醒（补关键词）
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          OUTPUT="$(python3 zhihu-sync/src/check_uncategorized.py zhihu-sync/output/zhihu-data.json)"
+          COUNT="$(printf '%s' "$OUTPUT" | head -1)"
+          if [ -n "$COUNT" ] && [ "$COUNT" -gt 0 ]; then
+            BODY="本次同步发现 $COUNT 条未分类创作，请在 zhihu-categories.json 中补充关键词：$(printf '%s' "$OUTPUT" | tail -n +2)"
+            EXISTS="$(gh issue list --state open --search "知乎创作未分类" --json number --jq 'length')"
+            if [ "$EXISTS" = "0" ]; then
+              gh issue create --title "zhihu-sync：有 $COUNT 条创作未分类" --body "$BODY"
+            fi
+          fi
+
+      - name: 运行失败自动开 Issue（异常才人工）
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TITLE="zhihu-sync 自动同步失败（$(date +%Y-%m-%d)）"
+          EXISTS="$(gh issue list --state open --search "zhihu-sync 自动同步失败" --json number --jq 'length')"
+          if [ "$EXISTS" = "0" ]; then
+            gh issue create --title "$TITLE" \
+              --body "本次自动同步失败，请查看运行日志：https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
