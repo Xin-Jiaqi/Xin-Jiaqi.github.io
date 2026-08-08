@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:12:30.923112+00:00",
+  "generated_at": "2026-08-08T22:22:22.070095+00:00",
   "source": "zhihu-cli me contents",
   "total": 91,
   "summary": {
@@ -9,8 +9,8 @@
       "answer": 40,
       "article": 45
     },
-    "likes": 1011,
-    "favorites": 2332,
+    "likes": 1017,
+    "favorites": 2343,
     "comments": 97
   },
   "categories": [
@@ -111,7 +111,7 @@
       "created_at": 1786169733,
       "created_date": "2026-08-08",
       "likes": 0,
-      "favorites": 3,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -126,8 +126,8 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 2,
-      "favorites": 9,
+      "likes": 4,
+      "favorites": 11,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -174,8 +174,8 @@
       "content_type": "article",
       "created_at": 1785991295,
       "created_date": "2026-08-06",
-      "likes": 12,
-      "favorites": 29,
+      "likes": 14,
+      "favorites": 30,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -223,7 +223,7 @@
       "created_at": 1785916519,
       "created_date": "2026-08-05",
       "likes": 11,
-      "favorites": 32,
+      "favorites": 33,
       "comments": 0,
       "category": {
         "id": "ai",
@@ -239,7 +239,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 6,
-      "favorites": 45,
+      "favorites": 48,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -574,8 +574,8 @@
       "content_type": "answer",
       "created_at": 1755528037,
       "created_date": "2025-08-18",
-      "likes": 26,
-      "favorites": 42,
+      "likes": 27,
+      "favorites": 43,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -1295,7 +1295,7 @@
       "created_at": 1707034001,
       "created_date": "2024-02-04",
       "likes": 36,
-      "favorites": 60,
+      "favorites": 61,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -1310,8 +1310,8 @@
       "content_type": "article",
       "created_at": 1707033334,
       "created_date": "2024-02-04",
-      "likes": 6,
-      "favorites": 9,
+      "likes": 7,
+      "favorites": 10,
       "comments": 0,
       "category": {
         "id": "computational",
