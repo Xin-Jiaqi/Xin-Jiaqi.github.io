@@ -15,6 +15,9 @@
 #   2. 把本文件放到 .github/workflows/zhihu-sync.yml
 #   3. Settings -> Secrets and variables -> Actions 添加：
 #      ZHIHU_ACCESS_SECRET = 知乎开放平台 Access Secret
+#      ZHIHU_BOT_PAT = fine-grained PAT（Contents/Pull requests 读写）。
+#      必须用个人 PAT 而非默认 GITHUB_TOKEN 创建 PR，否则 bot 创建的 PR
+#      会触发平台审批门禁（action_required），无法无人值守自动合并。
 #   4. 手动触发一次验证：Actions -> zhihu-sync -> Run workflow
 #
 # 手动触发时勾选 update_index = 强制重新注入 index.html（即使数据未变化）。
@@ -115,7 +118,7 @@ jobs:
       - name: 提交并自动 PR 合并（符合仓库 PR 规则）
         if: steps.changed.outputs.changed == 'true' || inputs.update_index == 'true'
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.ZHIHU_BOT_PAT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
