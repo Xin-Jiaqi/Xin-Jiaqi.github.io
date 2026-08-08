@@ -1,0 +1,200 @@
+{
+  "_comment": "知乎创作自动分类规则。分类按顺序匹配：内容标题/摘要命中任一关键词即归入该分类（优先级从上到下）；都不命中则进入 other。新研究方向出现时，新增分类或补充关键词即可，无需改 HTML。",
+  "exclude_types": [
+    "pin"
+  ],
+  "per_category": 3,
+  "categories": [
+    {
+      "id": "ferroelectrics",
+      "label": "铁电与极化",
+      "label_en": "Ferroelectricity & Polarization",
+      "keywords": [
+        "铁电",
+        "极化",
+        "顺电",
+        "体光伏",
+        "热释电",
+        "磁电"
+      ]
+    },
+    {
+      "id": "skyrmions",
+      "label": "磁性斯格明子",
+      "label_en": "Skyrmions & Magnetic Textures",
+      "keywords": [
+        "skyrmion",
+        "斯格明子",
+        "磁纹理"
+      ]
+    },
+    {
+      "id": "excitons",
+      "label": "激子与位移电流",
+      "label_en": "Excitons & Shift Current",
+      "keywords": [
+        "激子",
+        "exciton",
+        "位移电流"
+      ]
+    },
+    {
+      "id": "twod",
+      "label": "二维材料与范德华",
+      "label_en": "2D Materials & van der Waals",
+      "keywords": [
+        "二维材料",
+        "二维半导体",
+        "范德华",
+        "双层",
+        "monolayer",
+        "bilayer",
+        "mos2",
+        "异质结",
+        "堆叠",
+        "c2db",
+        "ic-2d"
+      ]
+    },
+    {
+      "id": "computational",
+      "label": "计算方法与软件",
+      "label_en": "Computational Methods",
+      "keywords": [
+        "vasp",
+        "poscar",
+        "wannier",
+        "wannsymm",
+        "dft",
+        "materials project",
+        "icsd",
+        "ase",
+        "convex hull",
+        "能带",
+        "紧束缚",
+        "第一性原理",
+        "pymatgen",
+        "spglib",
+        "cif"
+      ]
+    },
+    {
+      "id": "symmetry",
+      "label": "群论与对称性",
+      "label_en": "Group Theory & Symmetry",
+      "keywords": [
+        "群论",
+        "群表示",
+        "表示论",
+        "点群",
+        "空间群",
+        "层群",
+        "对称性",
+        "商群"
+      ]
+    },
+    {
+      "id": "theory",
+      "label": "数学与理论笔记",
+      "label_en": "Mathematics & Theory Notes",
+      "keywords": [
+        "奇异矩阵",
+        "线性代数",
+        "范数",
+        "向量",
+        "原子单位",
+        "原子质量",
+        "三体",
+        "奇异"
+      ]
+    },
+    {
+      "id": "tools",
+      "label": "科研工具与工作流",
+      "label_en": "Research Tools & Workflow",
+      "keywords": [
+        "zotero",
+        "绘图",
+        "matlab",
+        "origin",
+        "pix2tex",
+        "pdfmathtranslate",
+        "论文写作",
+        "写作",
+        "文献",
+        "mole",
+        "翻译",
+        "命令行",
+        "macos",
+        "heatmap",
+        "论文"
+      ]
+    },
+    {
+      "id": "ai",
+      "label": "AI 与编程实践",
+      "label_en": "AI & Programming",
+      "keywords": [
+        "deepseek",
+        "opencode",
+        "llm",
+        "大语言模型",
+        "copilot",
+        "ai 代码",
+        "代码辅助"
+      ]
+    },
+    {
+      "id": "condensed",
+      "label": "凝聚态基础",
+      "label_en": "Condensed Matter Basics",
+      "keywords": [
+        "kagome",
+        "flat band",
+        "平带",
+        "自旋轨道耦合",
+        "磁体",
+        "交错磁性",
+        "轨道耦合"
+      ]
+    },
+    {
+      "id": "opensource",
+      "label": "开源与个人项目",
+      "label_en": "Open Source & Projects",
+      "keywords": [
+        "个人主页",
+        "开源",
+        "模板",
+        "weread-calendar",
+        "moodist"
+      ]
+    },
+    {
+      "id": "essays",
+      "label": "阅读与随笔",
+      "label_en": "Reading & Essays",
+      "keywords": [
+        "复活",
+        "托尔斯泰",
+        "信仰",
+        "灵魂",
+        "读书",
+        "书",
+        "微信读书",
+        "白噪音",
+        "iphone",
+        "edge"
+      ]
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "label_en": "Others",
+      "keywords": []
+    }
+  ],
+  "match_fields": [
+    "title"
+  ]
+}
