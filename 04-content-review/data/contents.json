@@ -25,7 +25,7 @@
     "CreatedAt": 1786074679,
     "LikeCount": 2,
     "CommentCount": 0,
-    "FavoriteCount": 8,
+    "FavoriteCount": 9,
     "Title": "什么是 skyrmion？",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -35,7 +35,7 @@
     "CreatedAt": 1786074679,
     "LikeCount": 7,
     "CommentCount": 0,
-    "FavoriteCount": 14,
+    "FavoriteCount": 15,
     "Title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -45,7 +45,7 @@
     "CreatedAt": 1785991295,
     "LikeCount": 1,
     "CommentCount": 0,
-    "FavoriteCount": 4,
+    "FavoriteCount": 5,
     "Title": "铁电材料这一定义的由来？",
     "Summary": "铁电性在教科书中的定义很直接：材料具有自发极化，而且极化可以被外电场翻转。沿着这套思路，铁电相通常应当属于极性点群，极化方向也要服从 Neumann 原理。 现代极化理论让这个问题变得更微妙。周期晶体中的绝对极化具有多值性： [公式] 其中 [公式] 是沿晶格矢量 [公式] 的极化量子。一个绝缘态…"
   },
