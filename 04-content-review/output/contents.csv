@@ -1,0 +1,92 @@
+﻿标题,类型,发布时间,赞,藏,评论,主题,系列,URL
+文献精析 体光伏效应：含五边形链状结构的二维热释电材料CuXX'Y,文章,2023-09-18,31,36,3,论文解读,文献精读系列,https://zhuanlan.zhihu.com/p/656334259
+计算工具 engwin.py：能带分析、wannier90解纠缠,文章,2023-09-25,23,41,3,工具教程,,https://zhuanlan.zhihu.com/p/657229195
+理论笔记 原子单位 Atomic units 和分子动力学单位 MD units：推导，计算及量纲验证,文章,2023-11-23,6,27,1,工具教程,理论笔记系列,https://zhuanlan.zhihu.com/p/668044775
+理论笔记 物理学中的群论：群的结构特征、群表示理论,文章,2023-12-02,12,27,0,其他/随笔,理论笔记系列,https://zhuanlan.zhihu.com/p/669854436
+Origin、MATLAB、Python 用于科研作图，哪个最好？,回答,2023-12-04,19,68,0,工具教程,科研绘图系列,https://www.zhihu.com/answer/3312520211
+计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较,文章,2023-12-04,61,106,6,工具教程,科研绘图系列,https://zhuanlan.zhihu.com/p/670058757
+铁电材料体光伏效应的shift current应该怎么理解？,回答,2023-12-06,25,51,10,概念科普,铁电系列,https://www.zhihu.com/answer/3315158231
+能带计算有哪些必读的文献或教程？,回答,2023-12-06,6,10,0,工具教程,,https://www.zhihu.com/answer/3315160554
+相对原子质量为什么可以有单位？,回答,2023-12-06,3,4,0,概念科普,,https://www.zhihu.com/answer/3315165952
+如何学习固体物理和凝聚态物理中的群论？,回答,2023-12-06,4,8,0,概念科普,群论系列,https://www.zhihu.com/answer/3315168682
+计算工具 科研绘图之 MatLab 双纵轴曲线图：绘制场景、应用举例、相关代码及技巧,文章,2024-01-10,21,52,0,工具教程,科研绘图系列,https://zhuanlan.zhihu.com/p/676932485
+针对绘图方面的需求，matlab、python和R哪个更加强大？,回答,2024-01-10,6,12,0,工具教程,,https://www.zhihu.com/answer/3356622375
+文献精析|理论笔记 层群 the 80 Layer Groups：概念，特征及其与点群、平移群、空间群和平面群的关系,文章,2024-01-21,36,92,10,概念科普,文献精读系列,https://zhuanlan.zhihu.com/p/678923831
+群论解决问题的实例有哪些？,回答,2024-01-21,12,44,0,概念科普,群论系列,https://www.zhihu.com/answer/3370884834
+文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用,文章,2024-02-04,6,9,0,概念科普,文献精读系列,https://zhuanlan.zhihu.com/p/681268408
+能不能通俗地讲解一下晶体、点阵、点群、空间群之间的关系？它们的区别与联系？,回答,2024-02-04,36,60,0,概念科普,群论系列,https://www.zhihu.com/answer/3386982109
+文献精析 nature communications：范德华双层同质结堆叠的高通量设计、筛选及计算（从C2DB到BiDB）,文章,2024-02-11,7,11,0,论文解读,文献精读系列,https://zhuanlan.zhihu.com/p/681969934
+想学习一下铁电、铁磁、超导方面的内容，求推荐？,回答,2024-02-11,4,8,1,概念科普,铁电系列,https://www.zhihu.com/answer/3393364801
+文献精析 ACS Nano：范德华双层同质结嵌入同种金属原子的高通量计算及能带特性（ic-2D 材料）,文章,2024-02-23,4,2,0,论文解读,文献精读系列,https://zhuanlan.zhihu.com/p/682072052
+二维半导体材料的研究前景？,回答,2024-02-23,8,12,0,论文解读,,https://www.zhihu.com/answer/3406767338
+计算工具 科研绘图之 MatLab .fig 文件的存储、处理及利用,文章,2024-02-27,28,53,3,工具教程,科研绘图系列,https://zhuanlan.zhihu.com/p/683973403
+matlab如何提取自己想要的数据？,回答,2024-02-27,14,44,0,工具教程,,https://www.zhihu.com/answer/3411436025
+计算工具 科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码,文章,2024-03-01,23,87,3,工具教程,论文写作系列,https://zhuanlan.zhihu.com/p/684716524
+有什么好用的学术论文写作辅助工具?,回答,2024-03-01,2,5,0,工具教程,论文写作系列,https://www.zhihu.com/answer/3415249955
+计算工具 论文阅读 Zotero & GPT：配置、资源分享及避坑心得,文章,2024-07-27,23,39,6,工具教程,Zotero 系列,https://zhuanlan.zhihu.com/p/711243587
+有哪些好用的zotero插件?,回答,2024-07-27,151,519,15,工具教程,Zotero 系列,https://www.zhihu.com/answer/3575313981
+计算工具 VASP POSCAR文件从笛卡尔坐标（Cartesian）转换为分数坐标（Direct）的MatLab脚本,文章,2024-07-29,2,4,0,工具教程,,https://zhuanlan.zhihu.com/p/711541234
+用MS编辑POSCAR是不是主流？,回答,2024-07-29,2,3,0,工具教程,,https://www.zhihu.com/answer/3577247855
+Microsoft Edge: drop,想法,2024-07-31,4,2,2,工具教程,,https://www.zhihu.com/pin/1801930083235147777
+iPhone在MacBook上镜像,想法,2024-08-09,21,6,6,工具教程,,https://www.zhihu.com/pin/1805355769014673409
+计算工具 cif文件到POSCAR的批量转换（使用Python的ASE库）,文章,2024-12-06,9,5,1,工具教程,,https://zhuanlan.zhihu.com/p/11206188677
+计算工具 将 ICSD ID 映射到 Materials Project ID 以获取材料结构,文章,2024-12-11,1,2,2,工具教程,,https://zhuanlan.zhihu.com/p/12104818456
+怎么样批量获取Materials Project的数据？,回答,2024-12-11,5,5,1,工具教程,,https://www.zhihu.com/answer/53175564036
+计算工具 GitHub Copilot：学生认证， Visual Studio Code 拓展安装，以及额外资料,文章,2024-12-16,5,9,1,工具教程,,https://zhuanlan.zhihu.com/p/711699575
+copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？,回答,2024-12-16,3,2,0,工具教程,,https://www.zhihu.com/answer/56401636365
+英文论文写作句式积累（长期更新）,文章,2024-12-16,5,18,0,工具教程,论文写作系列,https://zhuanlan.zhihu.com/p/12890957064
+写论文常用的看起来逼格满满的词汇、句式都有哪些？,回答,2024-12-16,6,25,0,论文解读,,https://www.zhihu.com/answer/56727562151
+理论笔记|计算工具 何为energy above convex hull ？以及如何绘制 phase diagrams？,文章,2024-12-17,10,32,2,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/12898835960
+开源的在线白噪音网站Moodist,想法,2024-12-17,0,1,0,工具教程,,https://www.zhihu.com/pin/1852402517620711424
+计算工具 PDFMathTranslate：能够保留英文文献排版的翻译工具,文章,2024-12-17,9,30,0,工具教程,,https://zhuanlan.zhihu.com/p/13168716240
+如何高效地阅读文献？,回答,2024-12-17,5,14,0,工具教程,,https://www.zhihu.com/answer/57666768593
+理论笔记 如何写作英文学术论文：a step-by-step guide for beginners,文章,2025-03-25,2,5,0,工具教程,理论笔记系列,https://zhuanlan.zhihu.com/p/1887896719074763164
+英文学术论文写作有哪些经验心得？,回答,2025-03-25,3,7,0,工具教程,论文写作系列,https://www.zhihu.com/answer/1887898255729354737
+理论笔记 自旋-轨道耦合：基本概念，以及重原子中SOC增强的原因,文章,2025-07-30,4,14,1,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1934011952285353132
+晶体里的自旋轨道耦合强度与哪些因素有关？,回答,2025-07-30,8,12,0,概念科普,,https://www.zhihu.com/answer/1934018431184791242
+理论笔记 kagome晶格相关：van Hove奇点，对称性保护平带，Dirac点,文章,2025-08-04,5,8,0,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1935800922589631729
+如何理解Kagome格子中的flat band？,回答,2025-08-04,34,62,0,概念科普,Kagome 系列,https://www.zhihu.com/answer/1935806686838367493
+借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例,文章,2025-08-05,6,11,5,概念科普,Kagome 系列,https://zhuanlan.zhihu.com/p/1935816800332915578
+初学者怎么入门大语言模型（LLM）？,回答,2025-08-05,4,4,0,概念科普,,https://www.zhihu.com/answer/1936110727275459553
+理论笔记 群论chapter 1. 群的结构特征：概念总结,文章,2025-08-06,9,12,0,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1936543848932303720
+如何理解群论以及群论有什么比较典型易懂的应用？,回答,2025-08-06,14,41,0,概念科普,群论系列,https://www.zhihu.com/answer/1936549988835497280
+理论笔记 衡量向量的“长度”：1，2，无穷以及p-范数,文章,2025-08-09,1,3,0,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1937619754945873146
+"理论笔记 线性代数中的""奇异矩阵""与《三体III》中的""二向箔""",文章,2025-08-11,2,11,0,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1938255563571041404
+为什么称可逆矩阵为『非奇异』？,回答,2025-08-11,6,12,0,概念科普,,https://www.zhihu.com/answer/1938256445809357104
+理论笔记 群论chapter 2: 群表示理论完整解题手稿,文章,2025-08-15,15,39,0,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1939742654679212377
+学习群表示论有什么教材可以推荐？,回答,2025-08-15,3,7,0,概念科普,群论系列,https://www.zhihu.com/answer/1939782723398006321
+理论笔记 群论chapter 2. 群的表示理论：概念总结,文章,2025-08-16,10,16,1,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1937175368894257117
+群表示论有什么重要定理？,回答,2025-08-16,7,20,0,概念科普,群论系列,https://www.zhihu.com/answer/1940080082422047177
+半年的书与半年的自己,想法,2025-08-16,2,0,0,论文解读,,https://www.zhihu.com/pin/1940174068843259079
+文献精析 双层堆叠铁电理论的两方面扩展,文章,2025-08-18,6,4,4,论文解读,文献精读系列,https://zhuanlan.zhihu.com/p/1940904670697615387
+二维材料的应用前景？,回答,2025-08-18,26,42,0,其他/随笔,,https://www.zhihu.com/answer/1940905944943944747
+理论笔记 晶体极化与极化量子：基本概念，Qvalue.py脚本及文献数据复现,文章,2025-11-20,11,20,0,概念科普,理论笔记系列,https://zhuanlan.zhihu.com/p/1974849644753331274
+怎样通俗的解释极化？,回答,2025-11-20,12,28,0,概念科普,,https://www.zhihu.com/answer/1974959276238857645
+批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系,文章,2026-05-16,0,4,1,概念科普,群论系列,https://zhuanlan.zhihu.com/p/2039095412498359945
+为什么晶体具有对称性？,回答,2026-05-16,3,18,0,概念科普,,https://www.zhihu.com/answer/2039097566952936422
+为什么二维铁电材料很稀少？,回答,2026-05-21,5,8,0,概念科普,铁电系列,https://www.zhihu.com/answer/2040770231963017741
+多层堆叠铁电：当“层数”也成为二维材料的设计自由度,文章,2026-05-21,10,10,0,其他/随笔,铁电系列,https://zhuanlan.zhihu.com/p/2040503723403768417
+weread-calendar：本地运行的阅读复盘工具,文章,2026-05-23,3,6,4,工具教程,,https://zhuanlan.zhihu.com/p/2041271815473975993
+为什么微信读书这么良心？,回答,2026-05-23,9,11,3,概念科普,,https://www.zhihu.com/answer/2041511535806342798
+我开源了一个极简个人学术主页模板,文章,2026-05-25,23,28,0,工具教程,,https://zhuanlan.zhihu.com/p/2042279577020527281
+怎么建立学术风格的个人主页？,回答,2026-05-25,4,7,0,工具教程,,https://www.zhihu.com/answer/2042281641125622396
+WannSymm 安装与使用教程,文章,2026-05-27,16,45,0,工具教程,,https://zhuanlan.zhihu.com/p/2043081520005505959
+用 Mole 清理 Mac：命令行新手也能上手的一次记录,文章,2026-06-18,1,1,0,工具教程,,https://zhuanlan.zhihu.com/p/2050966522710046261
+macOS有哪些有趣或者高效的命令行工具？,回答,2026-06-18,9,11,0,工具教程,,https://www.zhihu.com/answer/2050970563569623666
+Research Note：单层 SnS 的紧束缚模型 arXiv,文章,2026-07-29,5,13,0,论文解读,文献精读系列,https://zhuanlan.zhihu.com/p/2065777386583487695
+如何评价列夫托尔斯泰的长篇小说《复活》？,回答,2026-07-31,0,0,1,其他/随笔,,https://www.zhihu.com/answer/2066608477359837230
+信仰有许多种，灵魂却只有一种,文章,2026-07-31,0,0,1,其他/随笔,,https://zhuanlan.zhihu.com/p/2066608175764263933
+暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2,文章,2026-08-01,0,1,0,论文解读,铁电系列,https://zhuanlan.zhihu.com/p/2066854344708855533
+为什么人们如此关心激子（exciton）？,回答,2026-08-01,28,46,0,概念科普,,https://www.zhihu.com/answer/2066855083103590254
+算滑移铁电翻转怎么找顺电相和铁电相?,回答,2026-08-01,7,17,0,其他/随笔,铁电系列,https://www.zhihu.com/answer/2066974795988832695
+NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合,文章,2026-08-01,0,2,0,其他/随笔,铁电系列,https://zhuanlan.zhihu.com/p/2066974338855843093
+给 Zotero 装上 DeepSeek-V4-Flash,文章,2026-08-05,6,45,0,工具教程,Zotero 系列,https://zhuanlan.zhihu.com/p/2068364136807927941
+如何看待2026年7月31日发布的deepseek v4-flash更新？,回答,2026-08-05,11,32,0,工具教程,,https://www.zhihu.com/answer/2068364475351163843
+OpenCode 接入 DeepSeek V4 Flash 配置指南,文章,2026-08-05,0,2,0,工具教程,,https://zhuanlan.zhihu.com/p/2068368163092291981
+如何评价DeepSeek-V4 Flash 正式版，有哪些亮点？,回答,2026-08-05,1,1,0,工具教程,,https://www.zhihu.com/answer/2068368461303132163
+铁电材料这一定义的由来？,回答,2026-08-06,1,4,0,概念科普,铁电系列,https://www.zhihu.com/answer/2068678110955024439
+铁电性的统一定义（预印本 Unified definition of ferroelectricity）,文章,2026-08-06,12,29,0,论文解读,铁电系列,https://zhuanlan.zhihu.com/p/2068673956043821125
+什么是 skyrmion？,回答,2026-08-07,2,8,0,论文解读,Skyrmion 系列,https://www.zhihu.com/answer/2069027849219184331
+磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion,文章,2026-08-07,7,14,0,论文解读,Skyrmion 系列,https://zhuanlan.zhihu.com/p/2069027257536999823
+铁电统一定义（预印本 Unified definition of ferroelectricity）,想法,2026-08-08,0,3,0,论文解读,铁电系列,https://www.zhihu.com/pin/2069426282429932364
+OpenCode 接入 DeepSeek V4 Flash 配置指南,想法,2026-08-08,0,0,0,工具教程,,https://www.zhihu.com/pin/2069426613775754762

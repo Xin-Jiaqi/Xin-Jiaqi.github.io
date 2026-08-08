@@ -1,0 +1,554 @@
+[
+  {
+    "date": "2026-08-08",
+    "total": 91,
+    "snapshot": {
+      "https://www.zhihu.com/pin/2069426613775754762": {
+        "fav": 0,
+        "like": 0,
+        "comment": 0,
+        "created": 1786169767
+      },
+      "https://www.zhihu.com/pin/2069426282429932364": {
+        "fav": 3,
+        "like": 0,
+        "comment": 0,
+        "created": 1786169733
+      },
+      "https://www.zhihu.com/answer/2069027849219184331": {
+        "fav": 8,
+        "like": 2,
+        "comment": 0,
+        "created": 1786074679
+      },
+      "https://zhuanlan.zhihu.com/p/2069027257536999823": {
+        "fav": 14,
+        "like": 7,
+        "comment": 0,
+        "created": 1786074679
+      },
+      "https://www.zhihu.com/answer/2068678110955024439": {
+        "fav": 4,
+        "like": 1,
+        "comment": 0,
+        "created": 1785991295
+      },
+      "https://zhuanlan.zhihu.com/p/2068673956043821125": {
+        "fav": 29,
+        "like": 12,
+        "comment": 0,
+        "created": 1785991295
+      },
+      "https://www.zhihu.com/answer/2068368461303132163": {
+        "fav": 1,
+        "like": 1,
+        "comment": 0,
+        "created": 1785917469
+      },
+      "https://zhuanlan.zhihu.com/p/2068368163092291981": {
+        "fav": 2,
+        "like": 0,
+        "comment": 0,
+        "created": 1785917468
+      },
+      "https://www.zhihu.com/answer/2068364475351163843": {
+        "fav": 32,
+        "like": 11,
+        "comment": 0,
+        "created": 1785916519
+      },
+      "https://zhuanlan.zhihu.com/p/2068364136807927941": {
+        "fav": 45,
+        "like": 6,
+        "comment": 0,
+        "created": 1785916518
+      },
+      "https://www.zhihu.com/answer/2066974795988832695": {
+        "fav": 17,
+        "like": 7,
+        "comment": 0,
+        "created": 1785585193
+      },
+      "https://zhuanlan.zhihu.com/p/2066974338855843093": {
+        "fav": 2,
+        "like": 0,
+        "comment": 0,
+        "created": 1785585193
+      },
+      "https://www.zhihu.com/answer/2066855083103590254": {
+        "fav": 46,
+        "like": 28,
+        "comment": 0,
+        "created": 1785556652
+      },
+      "https://zhuanlan.zhihu.com/p/2066854344708855533": {
+        "fav": 1,
+        "like": 0,
+        "comment": 0,
+        "created": 1785556651
+      },
+      "https://www.zhihu.com/answer/2066608477359837230": {
+        "fav": 0,
+        "like": 0,
+        "comment": 1,
+        "created": 1785497856
+      },
+      "https://zhuanlan.zhihu.com/p/2066608175764263933": {
+        "fav": 0,
+        "like": 0,
+        "comment": 1,
+        "created": 1785497856
+      },
+      "https://zhuanlan.zhihu.com/p/2065777386583487695": {
+        "fav": 13,
+        "like": 5,
+        "comment": 0,
+        "created": 1785301531
+      },
+      "https://www.zhihu.com/answer/2050970563569623666": {
+        "fav": 11,
+        "like": 9,
+        "comment": 0,
+        "created": 1781769487
+      },
+      "https://zhuanlan.zhihu.com/p/2050966522710046261": {
+        "fav": 1,
+        "like": 1,
+        "comment": 0,
+        "created": 1781769486
+      },
+      "https://zhuanlan.zhihu.com/p/2043081520005505959": {
+        "fav": 45,
+        "like": 16,
+        "comment": 0,
+        "created": 1779890721
+      },
+      "https://www.zhihu.com/answer/2042281641125622396": {
+        "fav": 7,
+        "like": 4,
+        "comment": 0,
+        "created": 1779697887
+      },
+      "https://zhuanlan.zhihu.com/p/2042279577020527281": {
+        "fav": 28,
+        "like": 23,
+        "comment": 0,
+        "created": 1779697885
+      },
+      "https://www.zhihu.com/answer/2041511535806342798": {
+        "fav": 11,
+        "like": 9,
+        "comment": 3,
+        "created": 1779514279
+      },
+      "https://zhuanlan.zhihu.com/p/2041271815473975993": {
+        "fav": 6,
+        "like": 3,
+        "comment": 4,
+        "created": 1779514278
+      },
+      "https://www.zhihu.com/answer/2040770231963017741": {
+        "fav": 8,
+        "like": 5,
+        "comment": 0,
+        "created": 1779337538
+      },
+      "https://zhuanlan.zhihu.com/p/2040503723403768417": {
+        "fav": 10,
+        "like": 10,
+        "comment": 0,
+        "created": 1779337538
+      },
+      "https://www.zhihu.com/answer/2039097566952936422": {
+        "fav": 18,
+        "like": 3,
+        "comment": 0,
+        "created": 1778938744
+      },
+      "https://zhuanlan.zhihu.com/p/2039095412498359945": {
+        "fav": 4,
+        "like": 0,
+        "comment": 1,
+        "created": 1778938743
+      },
+      "https://www.zhihu.com/answer/1974959276238857645": {
+        "fav": 28,
+        "like": 12,
+        "comment": 0,
+        "created": 1763646984
+      },
+      "https://zhuanlan.zhihu.com/p/1974849644753331274": {
+        "fav": 20,
+        "like": 11,
+        "comment": 0,
+        "created": 1763646983
+      },
+      "https://www.zhihu.com/answer/1940905944943944747": {
+        "fav": 42,
+        "like": 26,
+        "comment": 0,
+        "created": 1755528037
+      },
+      "https://zhuanlan.zhihu.com/p/1940904670697615387": {
+        "fav": 4,
+        "like": 6,
+        "comment": 4,
+        "created": 1755528036
+      },
+      "https://www.zhihu.com/pin/1940174068843259079": {
+        "fav": 0,
+        "like": 2,
+        "comment": 0,
+        "created": 1755353544
+      },
+      "https://www.zhihu.com/answer/1940080082422047177": {
+        "fav": 20,
+        "like": 7,
+        "comment": 0,
+        "created": 1755331136
+      },
+      "https://zhuanlan.zhihu.com/p/1937175368894257117": {
+        "fav": 16,
+        "like": 10,
+        "comment": 1,
+        "created": 1755331135
+      },
+      "https://www.zhihu.com/answer/1939782723398006321": {
+        "fav": 7,
+        "like": 3,
+        "comment": 0,
+        "created": 1755260240
+      },
+      "https://zhuanlan.zhihu.com/p/1939742654679212377": {
+        "fav": 39,
+        "like": 15,
+        "comment": 0,
+        "created": 1755260239
+      },
+      "https://www.zhihu.com/answer/1938256445809357104": {
+        "fav": 12,
+        "like": 6,
+        "comment": 0,
+        "created": 1754896347
+      },
+      "https://zhuanlan.zhihu.com/p/1938255563571041404": {
+        "fav": 11,
+        "like": 2,
+        "comment": 0,
+        "created": 1754896346
+      },
+      "https://zhuanlan.zhihu.com/p/1937619754945873146": {
+        "fav": 3,
+        "like": 1,
+        "comment": 0,
+        "created": 1754745308
+      },
+      "https://www.zhihu.com/answer/1936549988835497280": {
+        "fav": 41,
+        "like": 14,
+        "comment": 0,
+        "created": 1754489496
+      },
+      "https://zhuanlan.zhihu.com/p/1936543848932303720": {
+        "fav": 12,
+        "like": 9,
+        "comment": 0,
+        "created": 1754489495
+      },
+      "https://www.zhihu.com/answer/1936110727275459553": {
+        "fav": 4,
+        "like": 4,
+        "comment": 0,
+        "created": 1754384768
+      },
+      "https://zhuanlan.zhihu.com/p/1935816800332915578": {
+        "fav": 11,
+        "like": 6,
+        "comment": 5,
+        "created": 1754384766
+      },
+      "https://www.zhihu.com/answer/1935806686838367493": {
+        "fav": 62,
+        "like": 34,
+        "comment": 0,
+        "created": 1754312279
+      },
+      "https://zhuanlan.zhihu.com/p/1935800922589631729": {
+        "fav": 8,
+        "like": 5,
+        "comment": 0,
+        "created": 1754312278
+      },
+      "https://www.zhihu.com/answer/1934018431184791242": {
+        "fav": 12,
+        "like": 8,
+        "comment": 0,
+        "created": 1753885926
+      },
+      "https://zhuanlan.zhihu.com/p/1934011952285353132": {
+        "fav": 14,
+        "like": 4,
+        "comment": 1,
+        "created": 1753885924
+      },
+      "https://www.zhihu.com/answer/1887898255729354737": {
+        "fav": 7,
+        "like": 3,
+        "comment": 0,
+        "created": 1742890019
+      },
+      "https://zhuanlan.zhihu.com/p/1887896719074763164": {
+        "fav": 5,
+        "like": 2,
+        "comment": 0,
+        "created": 1742890018
+      },
+      "https://www.zhihu.com/answer/57666768593": {
+        "fav": 14,
+        "like": 5,
+        "comment": 0,
+        "created": 1734440024
+      },
+      "https://zhuanlan.zhihu.com/p/13168716240": {
+        "fav": 30,
+        "like": 9,
+        "comment": 0,
+        "created": 1734440023
+      },
+      "https://www.zhihu.com/pin/1852402517620711424": {
+        "fav": 1,
+        "like": 0,
+        "comment": 0,
+        "created": 1734427176
+      },
+      "https://zhuanlan.zhihu.com/p/12898835960": {
+        "fav": 32,
+        "like": 10,
+        "comment": 2,
+        "created": 1734405066
+      },
+      "https://www.zhihu.com/answer/56727562151": {
+        "fav": 25,
+        "like": 6,
+        "comment": 0,
+        "created": 1734341536
+      },
+      "https://zhuanlan.zhihu.com/p/12890957064": {
+        "fav": 18,
+        "like": 5,
+        "comment": 0,
+        "created": 1734341535
+      },
+      "https://www.zhihu.com/answer/56401636365": {
+        "fav": 2,
+        "like": 3,
+        "comment": 0,
+        "created": 1734317829
+      },
+      "https://zhuanlan.zhihu.com/p/711699575": {
+        "fav": 9,
+        "like": 5,
+        "comment": 1,
+        "created": 1734317828
+      },
+      "https://www.zhihu.com/answer/53175564036": {
+        "fav": 5,
+        "like": 5,
+        "comment": 1,
+        "created": 1733922460
+      },
+      "https://zhuanlan.zhihu.com/p/12104818456": {
+        "fav": 2,
+        "like": 1,
+        "comment": 2,
+        "created": 1733922459
+      },
+      "https://zhuanlan.zhihu.com/p/11206188677": {
+        "fav": 5,
+        "like": 9,
+        "comment": 1,
+        "created": 1733490481
+      },
+      "https://www.zhihu.com/pin/1805355769014673409": {
+        "fav": 6,
+        "like": 21,
+        "comment": 6,
+        "created": 1723210357
+      },
+      "https://www.zhihu.com/pin/1801930083235147777": {
+        "fav": 2,
+        "like": 4,
+        "comment": 2,
+        "created": 1722393610
+      },
+      "https://www.zhihu.com/answer/3577247855": {
+        "fav": 3,
+        "like": 2,
+        "comment": 0,
+        "created": 1722239169
+      },
+      "https://zhuanlan.zhihu.com/p/711541234": {
+        "fav": 4,
+        "like": 2,
+        "comment": 0,
+        "created": 1722238155
+      },
+      "https://www.zhihu.com/answer/3575313981": {
+        "fav": 519,
+        "like": 151,
+        "comment": 15,
+        "created": 1722067165
+      },
+      "https://zhuanlan.zhihu.com/p/711243587": {
+        "fav": 39,
+        "like": 23,
+        "comment": 6,
+        "created": 1722067014
+      },
+      "https://www.zhihu.com/answer/3415249955": {
+        "fav": 5,
+        "like": 2,
+        "comment": 0,
+        "created": 1709297686
+      },
+      "https://zhuanlan.zhihu.com/p/684716524": {
+        "fav": 87,
+        "like": 23,
+        "comment": 3,
+        "created": 1709297583
+      },
+      "https://www.zhihu.com/answer/3411436025": {
+        "fav": 44,
+        "like": 14,
+        "comment": 0,
+        "created": 1709036735
+      },
+      "https://zhuanlan.zhihu.com/p/683973403": {
+        "fav": 53,
+        "like": 28,
+        "comment": 3,
+        "created": 1709036479
+      },
+      "https://www.zhihu.com/answer/3406767338": {
+        "fav": 12,
+        "like": 8,
+        "comment": 0,
+        "created": 1708685260
+      },
+      "https://zhuanlan.zhihu.com/p/682072052": {
+        "fav": 2,
+        "like": 4,
+        "comment": 0,
+        "created": 1708674933
+      },
+      "https://www.zhihu.com/answer/3393364801": {
+        "fav": 8,
+        "like": 4,
+        "comment": 1,
+        "created": 1707633628
+      },
+      "https://zhuanlan.zhihu.com/p/681969934": {
+        "fav": 11,
+        "like": 7,
+        "comment": 0,
+        "created": 1707633488
+      },
+      "https://www.zhihu.com/answer/3386982109": {
+        "fav": 60,
+        "like": 36,
+        "comment": 0,
+        "created": 1707034001
+      },
+      "https://zhuanlan.zhihu.com/p/681268408": {
+        "fav": 9,
+        "like": 6,
+        "comment": 0,
+        "created": 1707033334
+      },
+      "https://www.zhihu.com/answer/3370884834": {
+        "fav": 44,
+        "like": 12,
+        "comment": 0,
+        "created": 1705834436
+      },
+      "https://zhuanlan.zhihu.com/p/678923831": {
+        "fav": 92,
+        "like": 36,
+        "comment": 10,
+        "created": 1705834127
+      },
+      "https://www.zhihu.com/answer/3356622375": {
+        "fav": 12,
+        "like": 6,
+        "comment": 0,
+        "created": 1704852222
+      },
+      "https://zhuanlan.zhihu.com/p/676932485": {
+        "fav": 52,
+        "like": 21,
+        "comment": 0,
+        "created": 1704850973
+      },
+      "https://www.zhihu.com/answer/3315168682": {
+        "fav": 8,
+        "like": 4,
+        "comment": 0,
+        "created": 1701831437
+      },
+      "https://www.zhihu.com/answer/3315165952": {
+        "fav": 4,
+        "like": 3,
+        "comment": 0,
+        "created": 1701831340
+      },
+      "https://www.zhihu.com/answer/3315160554": {
+        "fav": 10,
+        "like": 6,
+        "comment": 0,
+        "created": 1701831158
+      },
+      "https://www.zhihu.com/answer/3315158231": {
+        "fav": 51,
+        "like": 25,
+        "comment": 10,
+        "created": 1701831080
+      },
+      "https://www.zhihu.com/answer/3312520211": {
+        "fav": 68,
+        "like": 19,
+        "comment": 0,
+        "created": 1701658589
+      },
+      "https://zhuanlan.zhihu.com/p/670058757": {
+        "fav": 106,
+        "like": 61,
+        "comment": 6,
+        "created": 1701658589
+      },
+      "https://zhuanlan.zhihu.com/p/669854436": {
+        "fav": 27,
+        "like": 12,
+        "comment": 0,
+        "created": 1701517270
+      },
+      "https://zhuanlan.zhihu.com/p/668044775": {
+        "fav": 27,
+        "like": 6,
+        "comment": 1,
+        "created": 1700708881
+      },
+      "https://zhuanlan.zhihu.com/p/657229195": {
+        "fav": 41,
+        "like": 23,
+        "comment": 3,
+        "created": 1695606236
+      },
+      "https://zhuanlan.zhihu.com/p/656334259": {
+        "fav": 36,
+        "like": 31,
+        "comment": 3,
+        "created": 1695027948
+      }
+    }
+  }
+]
