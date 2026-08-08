@@ -81,7 +81,7 @@ def main():
 
     with open(CACHE, "w", encoding="utf-8") as f:
         json.dump(items, f, ensure_ascii=False, indent=2)
-    meta = {"fetched_at": datetime.datetime.now().isoformat(), "total": total, "count": len(items)}
+    meta = {"fetched_at": datetime.datetime.now().date().isoformat(), "total": total, "count": len(items)}
     with open(META, "w", encoding="utf-8") as f:
         json.dump(meta, f, ensure_ascii=False, indent=2)
     print(f"抓取完成: {len(items)} 条（Totals={total}），已缓存到 {CACHE}")
