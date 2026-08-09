@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-08T22:22:22.070095+00:00",
+  "generated_at": "2026-08-09T10:39:57.070928+00:00",
   "source": "zhihu-cli me contents",
-  "total": 91,
+  "total": 94,
   "summary": {
-    "total": 91,
+    "total": 94,
     "by_type": {
-      "pin": 6,
-      "answer": 40,
-      "article": 45
+      "answer": 41,
+      "pin": 7,
+      "article": 46
     },
-    "likes": 1017,
-    "favorites": 2343,
+    "likes": 1024,
+    "favorites": 2362,
     "comments": 97
   },
   "categories": [
@@ -24,7 +24,7 @@
       "id": "skyrmions",
       "label": "磁性斯格明子",
       "label_en": "Skyrmions & Magnetic Textures",
-      "count": 2
+      "count": 3
     },
     {
       "id": "excitons",
@@ -85,9 +85,63 @@
       "label": "阅读与随笔",
       "label_en": "Reading & Essays",
       "count": 3
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "label_en": "Others",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "title": "有哪些你觉得课堂上用起来很牛的科学可视化资源？",
+      "url": "https://www.zhihu.com/answer/2069720587006644689",
+      "content_type": "answer",
+      "created_at": 1786239841,
+      "created_date": "2026-08-09",
+      "likes": 1,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "Göbel、Mertig 和 Tretiakov 在 Physics Reports 的综述中对磁性 skyrmion 的分类已经给出了一套很完整的框架：Néel、Bloch、antiskyrmion、meron、bimeron、biskyrmion、skyrmionium，以及反铁磁、亚铁磁 skyrmion，都可以在统一的拓扑磁纹理语言下讨论。真正困难的地方通常出现在读图阶段。静态示意图可以展"
+    },
+    {
+      "title": "把磁性 Skyrmion 家族做成一个可交互的纹理图鉴",
+      "url": "https://www.zhihu.com/pin/2069694861599680013",
+      "content_type": "pin",
+      "created_at": 1786233741,
+      "created_date": "2026-08-09",
+      "likes": 0,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "skyrmions",
+        "label": "磁性斯格明子",
+        "label_en": "Skyrmions & Magnetic Textures"
+      },
+      "summary": "Göbel、Mertig 和 Tretiakov 在 Physics Reports 的综述中对磁性 skyrmion 的分类给出了完整的框架。真正困难的地方通常出现在读图阶段，静态示意图不容易同时回答几个连续的问题。基于此，我制作了一个单页交互工具：Skyrmion Texture Atlas，它包含 13 个二维磁性拓扑纹理预设。网页主体同时显示三种互相对应的视图：主磁纹理、Arrow fie"
+    },
+    {
+      "title": "把磁性 Skyrmion 家族做成一个可交互的纹理图鉴",
+      "url": "https://zhuanlan.zhihu.com/p/2069141836590069454",
+      "content_type": "article",
+      "created_at": 1786233674,
+      "created_date": "2026-08-09",
+      "likes": 0,
+      "favorites": 4,
+      "comments": 0,
+      "category": {
+        "id": "skyrmions",
+        "label": "磁性斯格明子",
+        "label_en": "Skyrmions & Magnetic Textures"
+      },
+      "summary": "Göbel、Mertig 和 Tretiakov 在 Physics Reports 的综述中对磁性 skyrmion 的分类已经给出了一套很完整的框架：Néel、Bloch、antiskyrmion、meron、bimeron、biskyrmion、skyrmionium，以及反铁磁、亚铁磁 skyrmion，都可以在统一的拓扑磁纹理语言下讨论。真正困难的地方通常出现在读图阶段。静态示意图可以展"
+    },
     {
       "title": "OpenCode 接入 DeepSeek V4 Flash 配置指南",
       "url": "https://www.zhihu.com/pin/2069426613775754762",
@@ -111,7 +165,7 @@
       "created_at": 1786169733,
       "created_date": "2026-08-08",
       "likes": 0,
-      "favorites": 4,
+      "favorites": 5,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -126,8 +180,8 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 4,
-      "favorites": 11,
+      "likes": 5,
+      "favorites": 14,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -174,8 +228,8 @@
       "content_type": "article",
       "created_at": 1785991295,
       "created_date": "2026-08-06",
-      "likes": 14,
-      "favorites": 30,
+      "likes": 15,
+      "favorites": 31,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -223,7 +277,7 @@
       "created_at": 1785916519,
       "created_date": "2026-08-05",
       "likes": 11,
-      "favorites": 33,
+      "favorites": 35,
       "comments": 0,
       "category": {
         "id": "ai",
@@ -238,8 +292,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 6,
-      "favorites": 48,
+      "likes": 9,
+      "favorites": 55,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -286,7 +340,7 @@
       "content_type": "answer",
       "created_at": 1785556652,
       "created_date": "2026-08-01",
-      "likes": 28,
+      "likes": 29,
       "favorites": 46,
       "comments": 0,
       "category": {

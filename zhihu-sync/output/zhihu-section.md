@@ -1,11 +1,11 @@
 ## Zhihu Creations · 知乎创作
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 91 条创作 · 累计 1017 赞 / 2343 藏 · 更新于 2026-08-08
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 94 条创作 · 累计 1024 赞 / 2362 藏 · 更新于 2026-08-09
 
 ### 铁电与极化 Ferroelectricity & Polarization（12 条）
 
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
-- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 14 · 藏 30
+- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 15 · 藏 31
 - [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 17
 - [NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合](https://zhuanlan.zhihu.com/p/2066974338855843093) · 文章 · 2026-08-01 · 赞 0 · 藏 2
 - [为什么二维铁电材料很稀少？](https://www.zhihu.com/answer/2040770231963017741) · 回答 · 2026-05-21 · 赞 5 · 藏 8
@@ -17,14 +17,15 @@
 - [铁电材料体光伏效应的shift current应该怎么理解？](https://www.zhihu.com/answer/3315158231) · 回答 · 2023-12-06 · 赞 25 · 藏 51
 - [文献精析 体光伏效应：含五边形链状结构的二维热释电材料CuXX'Y](https://zhuanlan.zhihu.com/p/656334259) · 文章 · 2023-09-18 · 赞 31 · 藏 36
 
-### 磁性斯格明子 Skyrmions & Magnetic Textures（2 条）
+### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 4 · 藏 11
+- [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 0 · 藏 4
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 5 · 藏 14
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 7 · 藏 15
 
 ### 激子与位移电流 Excitons & Shift Current（2 条）
 
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 28 · 藏 46
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 29 · 藏 46
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（4 条）
@@ -75,7 +76,7 @@
 
 ### 科研工具与工作流 Research Tools & Workflow（19 条）
 
-- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 6 · 藏 48
+- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 9 · 藏 55
 - [macOS有哪些有趣或者高效的命令行工具？](https://www.zhihu.com/answer/2050970563569623666) · 回答 · 2026-06-18 · 赞 9 · 藏 11
 - [用 Mole 清理 Mac：命令行新手也能上手的一次记录](https://zhuanlan.zhihu.com/p/2050966522710046261) · 文章 · 2026-06-18 · 赞 1 · 藏 1
 - [英文学术论文写作有哪些经验心得？](https://www.zhihu.com/answer/1887898255729354737) · 回答 · 2025-03-25 · 赞 3 · 藏 7
@@ -99,7 +100,7 @@
 
 - [如何评价DeepSeek-V4 Flash 正式版，有哪些亮点？](https://www.zhihu.com/answer/2068368461303132163) · 回答 · 2026-08-05 · 赞 1 · 藏 1
 - [OpenCode 接入 DeepSeek V4 Flash 配置指南](https://zhuanlan.zhihu.com/p/2068368163092291981) · 文章 · 2026-08-05 · 赞 0 · 藏 2
-- [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 33
+- [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 35
 - [初学者怎么入门大语言模型（LLM）？](https://www.zhihu.com/answer/1936110727275459553) · 回答 · 2025-08-05 · 赞 4 · 藏 4
 - [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 6 · 藏 11
 - [copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？](https://www.zhihu.com/answer/56401636365) · 回答 · 2024-12-16 · 赞 3 · 藏 2
@@ -122,4 +123,8 @@
 - [如何评价列夫托尔斯泰的长篇小说《复活》？](https://www.zhihu.com/answer/2066608477359837230) · 回答 · 2026-07-31 · 赞 0 · 藏 0
 - [信仰有许多种，灵魂却只有一种](https://zhuanlan.zhihu.com/p/2066608175764263933) · 文章 · 2026-07-31 · 赞 0 · 藏 0
 - [为什么微信读书这么良心？](https://www.zhihu.com/answer/2041511535806342798) · 回答 · 2026-05-23 · 赞 9 · 藏 11
+
+### 其他 Others（1 条）
+
+- [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 1 · 藏 1
 
