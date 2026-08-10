@@ -1,5 +1,55 @@
 [
   {
+    "ContentType": "answer",
+    "Url": "https://www.zhihu.com/answer/2070093990628795040",
+    "CreatedAt": 1786328867,
+    "LikeCount": 0,
+    "CommentCount": 0,
+    "FavoriteCount": 0,
+    "Title": "知乎开放平台近期新推出的Zhihu CLI 能力，有哪些值得探索的玩法？",
+    "Summary": "以前我在知乎发完文章，很少回去看它。数据都在知乎上：赞、藏、评论，想知道账号整体情况，只能一页页翻。前段时间看到知乎开放平台出了 Zhihu CLI，只读，能搜索、看热榜、读自己账号的数据。我配置好 Access Secret 之后，跑的第一条命令是这个： zhihu-cli me contents --limit 3返回的是 JSON。每一条内容都带标题、摘要、赞、藏、评论，是结构化字段，最后一行写着 Totals=91。也就是说，这一条命令把我账号里全部 91 条创作…"
+  },
+  {
+    "ContentType": "article",
+    "Url": "https://zhuanlan.zhihu.com/p/2069720698508010276",
+    "CreatedAt": 1786328866,
+    "LikeCount": 0,
+    "CommentCount": 0,
+    "FavoriteCount": 0,
+    "Title": "用 Zhihu CLI 把知乎账号做成了一套自动化系统：5 个真实工具 & 可复现演示",
+    "Summary": "以前我在知乎发完文章，很少回去看它。数据都在知乎上：赞、藏、评论，想知道账号整体情况，只能一页页翻。前段时间看到知乎开放平台出了 Zhihu CLI，只读，能搜索、看热榜、读自己账号的数据。我配置好 Access Secret 之后，跑的第一条命令是这个： zhihu-cli me contents --limit 3返回的是 JSON。每一条内容都带标题、摘要、赞、藏、评论，是结构化字段，最后一行写着 Totals=91。也就是说，这一条命令把我账号里全部 91 条创作…"
+  },
+  {
+    "ContentType": "answer",
+    "Url": "https://www.zhihu.com/answer/2069720587006644689",
+    "CreatedAt": 1786239841,
+    "LikeCount": 1,
+    "CommentCount": 0,
+    "FavoriteCount": 6,
+    "Title": "有哪些你觉得课堂上用起来很牛的科学可视化资源？",
+    "Summary": "Göbel、Mertig 和 Tretiakov 在 Physics Reports 的综述中对磁性 skyrmion 的分类已经给出了一套很完整的框架：Néel、Bloch、antiskyrmion、meron、bimeron、biskyrmion、skyrmionium，以及反铁磁、亚铁磁 skyrmion，都可以在统一的拓扑磁纹理语言下讨论。真正困难的地方通常出现在读图阶段。静态示意图可以展示一个构型，却不容易同时回答几个连续的问题：改变 helicity 后箭头怎样转动？vorticity 改变后拓扑荷怎样变化？A…"
+  },
+  {
+    "ContentType": "pin",
+    "Url": "https://www.zhihu.com/pin/2069694861599680013",
+    "CreatedAt": 1786233741,
+    "LikeCount": 0,
+    "CommentCount": 0,
+    "FavoriteCount": 0,
+    "Title": "把磁性 Skyrmion 家族做成一个可交互的纹理图鉴",
+    "Summary": "Göbel、Mertig 和 Tretiakov 在 Physics Reports 的综述中对磁性 skyrmion 的分类给出了完整的框架。真正困难的地方通常出现在读图阶段，静态示意图不容易同时回答几个连续的问题。基于此，我制作了一个单页交互工具：Skyrmion Texture Atlas，它包含 13 个二维磁性拓扑纹理预设。网页主体同时显示三种互相对应的视图：主磁纹理、Arrow field 和 Color field，帮助在“磁矩指向”和“颜色编码”之间直接对照。这个交互图鉴适合…"
+  },
+  {
+    "ContentType": "article",
+    "Url": "https://zhuanlan.zhihu.com/p/2069141836590069454",
+    "CreatedAt": 1786233674,
+    "LikeCount": 6,
+    "CommentCount": 0,
+    "FavoriteCount": 9,
+    "Title": "把磁性 Skyrmion 家族做成一个可交互的纹理图鉴",
+    "Summary": "Göbel、Mertig 和 Tretiakov 在 Physics Reports 的综述中对磁性 skyrmion 的分类已经给出了一套很完整的框架：Néel、Bloch、antiskyrmion、meron、bimeron、biskyrmion、skyrmionium，以及反铁磁、亚铁磁 skyrmion，都可以在统一的拓扑磁纹理语言下讨论。真正困难的地方通常出现在读图阶段。静态示意图可以展示一个构型，却不容易同时回答几个连续的问题：改变 helicity 后箭头怎样转动？vorticity 改变后拓扑荷怎样变化？A…"
+  },
+  {
     "ContentType": "pin",
     "Url": "https://www.zhihu.com/pin/2069426613775754762",
     "CreatedAt": 1786169767,
@@ -15,7 +65,7 @@
     "CreatedAt": 1786169733,
     "LikeCount": 0,
     "CommentCount": 0,
-    "FavoriteCount": 3,
+    "FavoriteCount": 5,
     "Title": "铁电统一定义（预印本 Unified definition of ferroelectricity）",
     "Summary": "铁电性的统一判据围绕“等价状态对”和“可切换路径”建立：材料需具有两个或多个能量等价的绝缘态，这些状态之间存在非零极化差，并能在外电场作用下可逆转换。这套定义将传统铁电、分数量子铁电和整数量子铁电放进同一套语言，也把铁电材料的搜索范围从十个极性点群扩展到非极性甚至中心对称结构。例如，CsPdC是新型整数量子铁电的例子，其点群本身具有反演中心，两个Cs的位移合成为一个完整晶格周期。因此，极性空间群不再承…"
   },
@@ -23,9 +73,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2069027849219184331",
     "CreatedAt": 1786074679,
-    "LikeCount": 2,
+    "LikeCount": 5,
     "CommentCount": 0,
-    "FavoriteCount": 9,
+    "FavoriteCount": 14,
     "Title": "什么是 skyrmion？",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -33,9 +83,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2069027257536999823",
     "CreatedAt": 1786074679,
-    "LikeCount": 7,
+    "LikeCount": 8,
     "CommentCount": 0,
-    "FavoriteCount": 15,
+    "FavoriteCount": 16,
     "Title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -53,9 +103,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2068673956043821125",
     "CreatedAt": 1785991295,
-    "LikeCount": 12,
+    "LikeCount": 17,
     "CommentCount": 0,
-    "FavoriteCount": 29,
+    "FavoriteCount": 35,
     "Title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
     "Summary": "铁电性在教科书中的定义很直接：材料具有自发极化，而且极化可以被外电场翻转。沿着这套思路，铁电相通常应当属于极性点群，极化方向也要服从 Neumann 原理。 现代极化理论让这个问题变得更微妙。周期晶体中的绝对极化具有多值性： [公式] 其中 [公式] 是沿晶格矢量 [公式] 的极化量子。一个绝缘态…"
   },
@@ -85,7 +135,7 @@
     "CreatedAt": 1785916519,
     "LikeCount": 11,
     "CommentCount": 0,
-    "FavoriteCount": 32,
+    "FavoriteCount": 35,
     "Title": "如何看待2026年7月31日发布的deepseek v4-flash更新？",
     "Summary": "个人的 Zotero + DeepSeek-V4-Flash 配置过程记录及总结,全程只需 10 分钟。三个组件,各司其职 组件 作用 成本 Zotero 文献管理,PDF 阅读器 免费开源 DeepSeek API 大模型大脑,负责理解、总结 按量计费,极便宜 llm-for-zotero 插件 桥梁,让 AI 长在 Zotero 里 免费开源 为什么选 DeepSeek 而不是 ChatGPT? 便宜: -V4-Flash 读一篇论文的成本大约几分钱,充 10 块钱能用很久;中文好:生成的摘要、笔记是地道的中文,对中文研究者极度…"
   },
@@ -93,9 +143,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
     "CreatedAt": 1785916518,
-    "LikeCount": 6,
+    "LikeCount": 9,
     "CommentCount": 0,
-    "FavoriteCount": 45,
+    "FavoriteCount": 61,
     "Title": "给 Zotero 装上 DeepSeek-V4-Flash",
     "Summary": "个人的 Zotero + DeepSeek-V4-Flash 配置过程记录及总结,全程只需 10 分钟。三个组件,各司其职 组件 作用 成本 Zotero 文献管理,PDF 阅读器 免费开源 DeepSeek API 大模型大脑,负责理解、总结 按量计费,极便宜 llm-for-zotero 插件 桥梁,让 AI 长在 Zotero 里 免费开源 为什么选 DeepSeek 而不是 ChatGPT? 便宜: -V4-Flash 读一篇论文的成本大约几分钱,充 10 块钱能用很久;中文好:生成的摘要、笔记是地道的中文,对中文研究者极度…"
   },
@@ -105,7 +155,7 @@
     "CreatedAt": 1785585193,
     "LikeCount": 7,
     "CommentCount": 0,
-    "FavoriteCount": 17,
+    "FavoriteCount": 18,
     "Title": "算滑移铁电翻转怎么找顺电相和铁电相?",
     "Summary": "读 Bennett 等人发表于 Physical Review Letters 的工作：Stacking-Engineered Ferroelectricity and Multiferroic Order in van der Waals Magnets文献信息：D. Bennett, G. Martínez-Carracedo, X. He, J. Ferrer, P. Ghosez, R. Comin, and E. Kaxiras, Stacking-Engineered Ferroelectricity and Multiferroic Order in van der Waals Magnets, Phys. Rev. Lett. 133, 246703 (2024). 把两张原子级薄层叠在一起时，层与层之…"
   },
@@ -123,9 +173,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2066855083103590254",
     "CreatedAt": 1785556652,
-    "LikeCount": 28,
+    "LikeCount": 29,
     "CommentCount": 0,
-    "FavoriteCount": 46,
+    "FavoriteCount": 47,
     "Title": "为什么人们如此关心激子（exciton）？",
     "Summary": "最近读到一篇发表在 ACS Nano 的工作：Excitonic Shift Current in Monolayer MoS₂。文章研究的是单层 MoS₂ 中的激子位移电流，也就是 excitonic shift current。主要表明：一些在线性吸收光谱中很弱的高阶激子，反而可以在非线性的直流光电流谱中形成明显的峰、谷，甚至引起电流方向反转。这意味着，光学跃迁容不容易发生并不能完全决定它在 shift current 中是否重要。某个激子即使不容易被光激发，只要每次激发引起的极化…"
   },
@@ -303,9 +353,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/1940905944943944747",
     "CreatedAt": 1755528037,
-    "LikeCount": 26,
+    "LikeCount": 27,
     "CommentCount": 0,
-    "FavoriteCount": 42,
+    "FavoriteCount": 43,
     "Title": "二维材料的应用前景？",
     "Summary": "我们的长文理论工作“Enhanced theoretical framework for bilayer stacking ferroelectricity”于今年5月底在 physical review B 发表了： J. Xin, Y. Guo, and Q. Wang, Enhanced theoretical framework for bilayer stacking ferroelectricity, Phys. Rev. B 111, 224102 (2025). （1）去年8月，我们偶然搜索到一个双层结构，发现它的点群不符合【双层堆叠铁电理论 \"General Theory for Bilayer Stacking Ferroelectricity\" Ph…"
   },
@@ -755,7 +805,7 @@
     "CreatedAt": 1707034001,
     "LikeCount": 36,
     "CommentCount": 0,
-    "FavoriteCount": 60,
+    "FavoriteCount": 61,
     "Title": "能不能通俗地讲解一下晶体、点阵、点群、空间群之间的关系？它们的区别与联系？",
     "Summary": "前沿：在群论中， 商群（factor group 或 quotient group）是由不变子群和其所有陪集作为复元素形成的新集合[1]。在晶体学中，基于商群方法的分析常被应用在分辨原胞内具有等价对称性的分子或复合物的耦合中，以及固态拉曼和红外光谱学等领域。本文内容是我学习 Lars J. Norrby 的文章“ Factor groups, point groups, space groups: A review of some central concepts with application to vibrational spectroscopy on crysta…"
   },
@@ -763,9 +813,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/681268408",
     "CreatedAt": 1707033334,
-    "LikeCount": 6,
+    "LikeCount": 7,
     "CommentCount": 0,
-    "FavoriteCount": 9,
+    "FavoriteCount": 10,
     "Title": "文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用",
     "Summary": "前沿：在群论中， 商群（factor group 或 quotient group）是由不变子群和其所有陪集作为复元素形成的新集合[1]。在晶体学中，基于商群方法的分析常被应用在分辨原胞内具有等价对称性的分子或复合物的耦合中，以及固态拉曼和红外光谱学等领域。本文内容是我学习 Lars J. Norrby 的文章“ Factor groups, point groups, space groups: A review of some central concepts with application to vibrational spectroscopy on crysta…"
   },
