@@ -6,7 +6,7 @@
 #   3. 抓取创作 → 自动分类 → 生成片段/JSON → 校验
 #   4. 数据有任何变化（新文章/赞藏变化）→ 自动注入 index.html，
 #      提交临时分支并自动开 PR 合并（符合仓库 protect-main 规则），
-#      GitHub Pages 自动发布，线上板块自动更新
+#      GitHub Pages 自动发布，线上的 Posts & Notes 板块自动更新
 #   5. 出现「其他」未分类内容 → 自动创建 Issue 提醒人工补关键词
 #   6. 运行失败 → 自动创建 Issue 附日志链接
 #
@@ -22,7 +22,7 @@
 #
 # 手动触发时勾选 update_index = 强制重新注入 index.html（即使数据未变化）。
 # 不想自动上线时，把下方 env.ZHIHU_AUTO_UPDATE 改为 "false"（数据仍会同步到
-# zhihu-sync/output/，板块更新改为手动勾选 update_index）。
+# zhihu-sync/output/，Posts & Notes 更新改为手动勾选 update_index）。
 
 name: zhihu-sync
 
