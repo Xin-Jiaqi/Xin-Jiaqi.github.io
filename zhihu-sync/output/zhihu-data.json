@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T12:44:11.361567+00:00",
+  "generated_at": "2026-08-10T22:31:32.686069+00:00",
   "source": "zhihu-cli me contents",
   "total": 96,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 47,
       "pin": 7
     },
-    "likes": 1038,
-    "favorites": 2395,
-    "comments": 97
+    "likes": 1041,
+    "favorites": 2399,
+    "comments": 99
   },
   "categories": [
     {
@@ -111,8 +111,8 @@
       "created_at": 1786328866,
       "created_date": "2026-08-10",
       "likes": 0,
-      "favorites": 2,
-      "comments": 0,
+      "favorites": 3,
+      "comments": 1,
       "category": {
         "id": "opensource",
         "label": "开源与个人项目",
@@ -160,7 +160,7 @@
       "created_date": "2026-08-09",
       "likes": 8,
       "favorites": 12,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "skyrmions",
         "label": "磁性斯格明子",
@@ -318,8 +318,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 9,
-      "favorites": 63,
+      "likes": 10,
+      "favorites": 66,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -350,7 +350,7 @@
       "content_type": "article",
       "created_at": 1785585193,
       "created_date": "2026-08-01",
-      "likes": 0,
+      "likes": 2,
       "favorites": 2,
       "comments": 0,
       "category": {
