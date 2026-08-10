@@ -33,12 +33,12 @@ def main() -> int:
     if not css_match:
         sys.exit("[错误] 站点文件中找不到 <style>")
     frag = fragment.read_text(encoding="utf-8")
-    frag = re.sub(r"<!-- ZHIHU_SECTION:START -->\s*|\s*<!-- ZHIHU_SECTION:END -->", "", frag).strip()
+    frag = re.sub(r"<!-- ZHIHU_(SECTION|NOTES):START -->\s*|\s*<!-- ZHIHU_(SECTION|NOTES):END -->", "", frag).strip()
 
     doc = ("<!DOCTYPE html>\n<html lang=\"zh-CN\">\n<head>\n"
            "<meta charset=\"utf-8\">\n"
            "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n"
-           "<title>知乎创作片段预览</title>\n"
+           "<title>Posts & Notes 融合片段预览</title>\n"
            f"{css_match.group(0)}\n"
            "</head>\n<body>\n"
            "<div class=\"container\" style=\"padding-top:28px\">\n"

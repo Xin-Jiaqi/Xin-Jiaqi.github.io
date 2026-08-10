@@ -40,6 +40,14 @@ def main() -> int:
             parser.errors.append(f"missing local asset: {asset}")
     if "assets/profile.jpg" not in parser.assets:
         parser.errors.append("personal profile photograph is missing")
+    if '<section class="card" id="zhihu"' in text or "Zhihu Creations · 知乎创作" in text:
+        parser.errors.append("独立的知乎创作板块应已移除，内容已融合进 Posts & Notes")
+    if "<!-- ZHIHU_NOTES:START -->" not in text:
+        parser.errors.append("Posts & Notes 缺少 ZHIHU_NOTES 注入标记")
+    if '<section class="card" id="zhihu"' in text or "Zhihu Creations · 知乎创作" in text:
+        parser.errors.append("独立的知乎创作板块应已移除，内容已融合进 Posts & Notes")
+    if "<!-- ZHIHU_NOTES:START -->" not in text:
+        parser.errors.append("Posts & Notes 缺少 ZHIHU_NOTES 注入标记")
     if '<meta name="description"' not in text or 'application/ld+json' not in text:
         parser.errors.append("SEO metadata is incomplete")
     if parser.errors:
