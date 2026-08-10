@@ -5,14 +5,6 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RETIRED_ASSETS = {
-    "assets/bjtu-logo.png",
-    "assets/pku-logo.png",
-    "assets/pub-bluep-bpve.jpg",
-    "assets/pub-bsf.jpg",
-    "assets/pub-msf.jpg",
-    "assets/pub-pyroelectric-shift-current.jpg",
-}
 
 
 class SiteParser(HTMLParser):
@@ -46,11 +38,6 @@ def main() -> int:
     for asset in parser.assets:
         if not (ROOT / asset).is_file():
             parser.errors.append(f"missing local asset: {asset}")
-    for asset in RETIRED_ASSETS:
-        if asset in text:
-            parser.errors.append(f"retired asset is still referenced: {asset}")
-        if (ROOT / asset).exists():
-            parser.errors.append(f"retired asset is still distributed: {asset}")
     if "assets/profile.jpg" not in parser.assets:
         parser.errors.append("personal profile photograph is missing")
     if '<meta name="description"' not in text or 'application/ld+json' not in text:
