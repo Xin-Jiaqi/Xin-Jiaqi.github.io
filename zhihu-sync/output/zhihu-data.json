@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-09T22:24:22.896471+00:00",
+  "generated_at": "2026-08-10T11:12:39.683079+00:00",
   "source": "zhihu-cli me contents",
-  "total": 94,
+  "total": 96,
   "summary": {
-    "total": 94,
+    "total": 96,
     "by_type": {
-      "answer": 41,
-      "pin": 7,
-      "article": 46
+      "answer": 42,
+      "article": 47,
+      "pin": 7
     },
-    "likes": 1033,
-    "favorites": 2380,
+    "likes": 1038,
+    "favorites": 2395,
     "comments": 97
   },
   "categories": [
@@ -90,10 +90,42 @@
       "id": "other",
       "label": "其他",
       "label_en": "Others",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
+    {
+      "title": "知乎开放平台近期新推出的Zhihu CLI 能力，有哪些值得探索的玩法？",
+      "url": "https://www.zhihu.com/answer/2070093990628795040",
+      "content_type": "answer",
+      "created_at": 1786328867,
+      "created_date": "2026-08-10",
+      "likes": 1,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "以前我在知乎发完文章，很少回去看它。数据都在知乎上：赞、藏、评论，想知道账号整体情况，只能一页页翻。前段时间看到知乎开放平台出了 Zhihu CLI，只读，能搜索、看热榜、读自己账号的数据。我配置好 Access Secret 之后，跑的第一条命令是这个： zhihu-cli me contents --limit 3返回的是 JSON。每一条内容都带标题、摘要、赞、藏、评论，是结构化字段，最后一"
+    },
+    {
+      "title": "用 Zhihu CLI 把知乎账号做成了一套自动化系统：5 个真实工具 & 可复现演示",
+      "url": "https://zhuanlan.zhihu.com/p/2069720698508010276",
+      "content_type": "article",
+      "created_at": 1786328866,
+      "created_date": "2026-08-10",
+      "likes": 0,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "以前我在知乎发完文章，很少回去看它。数据都在知乎上：赞、藏、评论，想知道账号整体情况，只能一页页翻。前段时间看到知乎开放平台出了 Zhihu CLI，只读，能搜索、看热榜、读自己账号的数据。我配置好 Access Secret 之后，跑的第一条命令是这个： zhihu-cli me contents --limit 3返回的是 JSON。每一条内容都带标题、摘要、赞、藏、评论，是结构化字段，最后一"
+    },
     {
       "title": "有哪些你觉得课堂上用起来很牛的科学可视化资源？",
       "url": "https://www.zhihu.com/answer/2069720587006644689",
@@ -101,7 +133,7 @@
       "created_at": 1786239841,
       "created_date": "2026-08-09",
       "likes": 1,
-      "favorites": 3,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "other",
@@ -132,8 +164,8 @@
       "content_type": "article",
       "created_at": 1786233674,
       "created_date": "2026-08-09",
-      "likes": 6,
-      "favorites": 9,
+      "likes": 8,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -196,8 +228,8 @@
       "content_type": "article",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 8,
-      "favorites": 16,
+      "likes": 10,
+      "favorites": 18,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -229,7 +261,7 @@
       "created_at": 1785991295,
       "created_date": "2026-08-06",
       "likes": 17,
-      "favorites": 35,
+      "favorites": 36,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -293,7 +325,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 9,
-      "favorites": 59,
+      "favorites": 63,
       "comments": 0,
       "category": {
         "id": "tools",
