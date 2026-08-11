@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-10T22:31:32.686069+00:00",
+  "generated_at": "2026-08-11T10:54:48.780796+00:00",
   "source": "zhihu-cli me contents",
-  "total": 96,
+  "total": 98,
   "summary": {
-    "total": 96,
+    "total": 98,
     "by_type": {
-      "answer": 42,
-      "article": 47,
+      "answer": 43,
+      "article": 48,
       "pin": 7
     },
-    "likes": 1041,
-    "favorites": 2399,
+    "likes": 1044,
+    "favorites": 2425,
     "comments": 99
   },
   "categories": [
@@ -18,7 +18,7 @@
       "id": "ferroelectrics",
       "label": "铁电与极化",
       "label_en": "Ferroelectricity & Polarization",
-      "count": 12
+      "count": 13
     },
     {
       "id": "skyrmions",
@@ -85,9 +85,47 @@
       "label": "阅读与随笔",
       "label_en": "Reading & Essays",
       "count": 3
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "label_en": "Others",
+      "count": 1
     }
   ],
   "items": [
+    {
+      "title": "二维层状材料？",
+      "url": "https://www.zhihu.com/answer/2070432734179226298",
+      "content_type": "answer",
+      "created_at": 1786409630,
+      "created_date": "2026-08-11",
+      "likes": 2,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "论文：Chuhan Tang, Zhiqiang Tian, Tao Ouyang, Anlian Pan, Mingxing Chen, Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics, Physical Review B 111, L0"
+    },
+    {
+      "title": "把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态",
+      "url": "https://zhuanlan.zhihu.com/p/2069424047704823715",
+      "content_type": "article",
+      "created_at": 1786409629,
+      "created_date": "2026-08-11",
+      "likes": 0,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "论文：Chuhan Tang, Zhiqiang Tian, Tao Ouyang, Anlian Pan, Mingxing Chen, Combining intrinsic and sliding-induced polarizations for multistates in two-dimensional ferroelectrics, Physical Review B 111, L0"
+    },
     {
       "title": "知乎开放平台近期新推出的Zhihu CLI 能力，有哪些值得探索的玩法？",
       "url": "https://www.zhihu.com/answer/2070093990628795040",
@@ -127,7 +165,7 @@
       "created_at": 1786239841,
       "created_date": "2026-08-09",
       "likes": 1,
-      "favorites": 6,
+      "favorites": 8,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -159,7 +197,7 @@
       "created_at": 1786233674,
       "created_date": "2026-08-09",
       "likes": 8,
-      "favorites": 12,
+      "favorites": 13,
       "comments": 1,
       "category": {
         "id": "skyrmions",
@@ -206,8 +244,8 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 5,
-      "favorites": 14,
+      "likes": 6,
+      "favorites": 16,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -223,7 +261,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 10,
-      "favorites": 18,
+      "favorites": 23,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -255,7 +293,7 @@
       "created_at": 1785991295,
       "created_date": "2026-08-06",
       "likes": 17,
-      "favorites": 36,
+      "favorites": 38,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -319,7 +357,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 10,
-      "favorites": 66,
+      "favorites": 74,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -367,7 +405,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 29,
-      "favorites": 47,
+      "favorites": 49,
       "comments": 0,
       "category": {
         "id": "excitons",
