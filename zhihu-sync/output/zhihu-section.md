@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 98 条创作 · 累计 1044 赞 / 2425 藏 · 更新于 2026-08-11
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 98 条创作 · 累计 1044 赞 / 2432 藏 · 更新于 2026-08-11
 
 ### 铁电与极化 Ferroelectricity & Polarization（13 条）
 
@@ -21,12 +21,12 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 8 · 藏 13
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 6 · 藏 16
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 6 · 藏 17
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 10 · 藏 23
 
 ### 激子与位移电流 Excitons & Shift Current（2 条）
 
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 29 · 藏 49
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 29 · 藏 50
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（4 条）
@@ -77,8 +77,8 @@
 
 ### 科研工具与工作流 Research Tools & Workflow（20 条）
 
-- [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 1 · 藏 8
-- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 10 · 藏 74
+- [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 1 · 藏 10
+- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 10 · 藏 76
 - [macOS有哪些有趣或者高效的命令行工具？](https://www.zhihu.com/answer/2050970563569623666) · 回答 · 2026-06-18 · 赞 9 · 藏 11
 - [用 Mole 清理 Mac：命令行新手也能上手的一次记录](https://zhuanlan.zhihu.com/p/2050966522710046261) · 文章 · 2026-06-18 · 赞 1 · 藏 1
 - [英文学术论文写作有哪些经验心得？](https://www.zhihu.com/answer/1887898255729354737) · 回答 · 2025-03-25 · 赞 3 · 藏 7
@@ -130,5 +130,5 @@
 
 ### 其他 Others（1 条）
 
-- [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 2 · 藏 3
+- [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 2 · 藏 4
 
