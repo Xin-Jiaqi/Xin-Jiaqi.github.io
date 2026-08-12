@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T22:35:56.471930+00:00",
+  "generated_at": "2026-08-12T11:03:08.996641+00:00",
   "source": "zhihu-cli me contents",
-  "total": 98,
+  "total": 100,
   "summary": {
-    "total": 98,
+    "total": 100,
     "by_type": {
-      "answer": 43,
-      "article": 48,
+      "answer": 44,
+      "article": 49,
       "pin": 7
     },
-    "likes": 1044,
-    "favorites": 2432,
-    "comments": 99
+    "likes": 1054,
+    "favorites": 2456,
+    "comments": 100
   },
   "categories": [
     {
@@ -72,7 +72,7 @@
       "id": "condensed",
       "label": "凝聚态基础",
       "label_en": "Condensed Matter Basics",
-      "count": 3
+      "count": 5
     },
     {
       "id": "opensource",
@@ -95,12 +95,44 @@
   ],
   "items": [
     {
+      "title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
+      "url": "https://www.zhihu.com/answer/2070819854018417107",
+      "content_type": "answer",
+      "created_at": 1786501927,
+      "created_date": "2026-08-12",
+      "likes": 3,
+      "favorites": 7,
+      "comments": 0,
+      "category": {
+        "id": "condensed",
+        "label": "凝聚态基础",
+        "label_en": "Condensed Matter Basics"
+      },
+      "summary": "交错磁性（altermagnetism）这几年迅速成为凝聚态物理中的热门概念。它最吸引人的地方，是把两个过去常常绑定在一起的印象拆开了：一方面，体系像反铁磁体一样具有完全补偿的磁矩，净磁化可以为零；另一方面，它又能像铁磁体一样，在动量空间出现很强的自旋劈裂、产生自旋极化输运，并在合适的磁对称性下支持 anomalous Hall 等时间反演奇响应。 2022 年，Šmejkal、Sinova 和 "
+    },
+    {
+      "title": "交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂",
+      "url": "https://zhuanlan.zhihu.com/p/2070819340618929436",
+      "content_type": "article",
+      "created_at": 1786501926,
+      "created_date": "2026-08-12",
+      "likes": 3,
+      "favorites": 7,
+      "comments": 0,
+      "category": {
+        "id": "condensed",
+        "label": "凝聚态基础",
+        "label_en": "Condensed Matter Basics"
+      },
+      "summary": "交错磁性（altermagnetism）这几年迅速成为凝聚态物理中的热门概念。它最吸引人的地方，是把两个过去常常绑定在一起的印象拆开了：一方面，体系像反铁磁体一样具有完全补偿的磁矩，净磁化可以为零；另一方面，它又能像铁磁体一样，在动量空间出现很强的自旋劈裂、产生自旋极化输运，并在合适的磁对称性下支持 anomalous Hall 等时间反演奇响应。 2022 年，Šmejkal、Sinova 和 "
+    },
+    {
       "title": "二维层状材料？",
       "url": "https://www.zhihu.com/answer/2070432734179226298",
       "content_type": "answer",
       "created_at": 1786409630,
       "created_date": "2026-08-11",
-      "likes": 2,
+      "likes": 4,
       "favorites": 4,
       "comments": 0,
       "category": {
@@ -117,7 +149,7 @@
       "created_at": 1786409629,
       "created_date": "2026-08-11",
       "likes": 0,
-      "favorites": 1,
+      "favorites": 3,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -165,7 +197,7 @@
       "created_at": 1786239841,
       "created_date": "2026-08-09",
       "likes": 1,
-      "favorites": 10,
+      "favorites": 11,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -245,7 +277,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 6,
-      "favorites": 17,
+      "favorites": 19,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -260,8 +292,8 @@
       "content_type": "article",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 10,
-      "favorites": 23,
+      "likes": 12,
+      "favorites": 25,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -357,7 +389,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 10,
-      "favorites": 76,
+      "favorites": 79,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -518,7 +550,7 @@
       "created_date": "2026-05-27",
       "likes": 16,
       "favorites": 45,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
