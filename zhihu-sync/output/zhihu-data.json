@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:03:23.664113+00:00",
+  "generated_at": "2026-08-13T22:35:39.746299+00:00",
   "source": "zhihu-cli me contents",
   "total": 102,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 50,
       "pin": 7
     },
-    "likes": 1066,
-    "favorites": 2497,
+    "likes": 1074,
+    "favorites": 2506,
     "comments": 100
   },
   "categories": [
@@ -117,7 +117,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 6,
-      "favorites": 5,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "other",
@@ -132,8 +132,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 6,
-      "favorites": 24,
+      "likes": 7,
+      "favorites": 25,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -149,7 +149,7 @@
       "created_at": 1786501926,
       "created_date": "2026-08-12",
       "likes": 3,
-      "favorites": 13,
+      "favorites": 14,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -180,7 +180,7 @@
       "content_type": "article",
       "created_at": 1786409629,
       "created_date": "2026-08-11",
-      "likes": 0,
+      "likes": 1,
       "favorites": 3,
       "comments": 0,
       "category": {
@@ -228,7 +228,7 @@
       "content_type": "answer",
       "created_at": 1786239841,
       "created_date": "2026-08-09",
-      "likes": 1,
+      "likes": 3,
       "favorites": 13,
       "comments": 0,
       "category": {
@@ -261,7 +261,7 @@
       "created_at": 1786233674,
       "created_date": "2026-08-09",
       "likes": 8,
-      "favorites": 16,
+      "favorites": 17,
       "comments": 1,
       "category": {
         "id": "skyrmions",
@@ -308,8 +308,8 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 6,
-      "favorites": 19,
+      "likes": 7,
+      "favorites": 22,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -421,7 +421,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 12,
-      "favorites": 83,
+      "favorites": 84,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -468,7 +468,7 @@
       "content_type": "answer",
       "created_at": 1785556652,
       "created_date": "2026-08-01",
-      "likes": 29,
+      "likes": 32,
       "favorites": 50,
       "comments": 0,
       "category": {
