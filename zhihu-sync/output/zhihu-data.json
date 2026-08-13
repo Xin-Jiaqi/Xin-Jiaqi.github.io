@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-12T22:34:30.201144+00:00",
+  "generated_at": "2026-08-13T11:03:23.664113+00:00",
   "source": "zhihu-cli me contents",
-  "total": 100,
+  "total": 102,
   "summary": {
-    "total": 100,
+    "total": 102,
     "by_type": {
-      "answer": 44,
-      "article": 49,
+      "answer": 45,
+      "article": 50,
       "pin": 7
     },
-    "likes": 1056,
-    "favorites": 2472,
+    "likes": 1066,
+    "favorites": 2497,
     "comments": 100
   },
   "categories": [
@@ -90,18 +90,50 @@
       "id": "other",
       "label": "其他",
       "label_en": "Others",
-      "count": 1
+      "count": 3
     }
   ],
   "items": [
+    {
+      "title": "目前在材料科学方面有什么比较好的数据库？",
+      "url": "https://www.zhihu.com/answer/2071161869591647794",
+      "content_type": "answer",
+      "created_at": 1786583470,
+      "created_date": "2026-08-13",
+      "likes": 1,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "交错磁性已经有了一套相对清楚的对称性语言：反向自旋子晶格如果由平移或反演连接，通常对应 conventional AFM；如果补偿关系由其他空间操作建立，则可能出现一般 [公式] 点上的非相对论自旋劈裂（ L. Šmejkal, J. Sinova, T. Jungwirth, Emerging Research Landscape of Altermagnetism, Phys. Rev. X "
+    },
+    {
+      "title": "交错磁材料怎么找：AMDB & amcheck",
+      "url": "https://zhuanlan.zhihu.com/p/2070959181562114846",
+      "content_type": "article",
+      "created_at": 1786583469,
+      "created_date": "2026-08-13",
+      "likes": 6,
+      "favorites": 5,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "交错磁性已经有了一套相对清楚的对称性语言：反向自旋子晶格如果由平移或反演连接，通常对应 conventional AFM；如果补偿关系由其他空间操作建立，则可能出现一般 [公式] 点上的非相对论自旋劈裂（ L. Šmejkal, J. Sinova, T. Jungwirth, Emerging Research Landscape of Altermagnetism, Phys. Rev. X "
+    },
     {
       "title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
       "url": "https://www.zhihu.com/answer/2070819854018417107",
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 5,
-      "favorites": 17,
+      "likes": 6,
+      "favorites": 24,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -117,7 +149,7 @@
       "created_at": 1786501926,
       "created_date": "2026-08-12",
       "likes": 3,
-      "favorites": 10,
+      "favorites": 13,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -197,7 +229,7 @@
       "created_at": 1786239841,
       "created_date": "2026-08-09",
       "likes": 1,
-      "favorites": 11,
+      "favorites": 13,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -229,7 +261,7 @@
       "created_at": 1786233674,
       "created_date": "2026-08-09",
       "likes": 8,
-      "favorites": 14,
+      "favorites": 16,
       "comments": 1,
       "category": {
         "id": "skyrmions",
@@ -293,7 +325,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 26,
+      "favorites": 27,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -388,8 +420,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 10,
-      "favorites": 80,
+      "likes": 12,
+      "favorites": 83,
       "comments": 0,
       "category": {
         "id": "tools",
