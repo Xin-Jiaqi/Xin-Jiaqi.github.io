@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-13T22:35:39.746299+00:00",
+  "generated_at": "2026-08-14T11:01:05.645666+00:00",
   "source": "zhihu-cli me contents",
-  "total": 102,
+  "total": 104,
   "summary": {
-    "total": 102,
+    "total": 104,
     "by_type": {
-      "answer": 45,
-      "article": 50,
+      "answer": 46,
+      "article": 51,
       "pin": 7
     },
-    "likes": 1074,
-    "favorites": 2506,
+    "likes": 1080,
+    "favorites": 2515,
     "comments": 100
   },
   "categories": [
@@ -60,7 +60,7 @@
       "id": "tools",
       "label": "科研工具与工作流",
       "label_en": "Research Tools & Workflow",
-      "count": 20
+      "count": 22
     },
     {
       "id": "ai",
@@ -95,6 +95,38 @@
   ],
   "items": [
     {
+      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "url": "https://www.zhihu.com/answer/2071582652184975249",
+      "content_type": "answer",
+      "created_at": 1786683792,
+      "created_date": "2026-08-14",
+      "likes": 1,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "项目地址： https://github.com/Xin-Jiaqi/literature-agent 当前版本：v0.1.0 · MIT License · personal alpha [图片] [图片] 我以前处理文献，大致是这样：Google Scholar 邮件、期刊更新、公众号、别人推荐，看到值得关注的论文后放进 Zotero；真正重要的，再交给 ChatGPT 做快速建档。进入精读以"
+    },
+    {
+      "title": "论文太多，我做了一个 Agent 来决定“今天该看哪几篇”",
+      "url": "https://zhuanlan.zhihu.com/p/2070520264442565091",
+      "content_type": "article",
+      "created_at": 1786683791,
+      "created_date": "2026-08-14",
+      "likes": 1,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "tools",
+        "label": "科研工具与工作流",
+        "label_en": "Research Tools & Workflow"
+      },
+      "summary": "项目地址： https://github.com/Xin-Jiaqi/literature-agent 当前版本：v0.1.0 · MIT License · personal alpha [图片] [图片] 我以前处理文献，大致是这样：Google Scholar 邮件、期刊更新、公众号、别人推荐，看到值得关注的论文后放进 Zotero；真正重要的，再交给 ChatGPT 做快速建档。进入精读以"
+    },
+    {
       "title": "目前在材料科学方面有什么比较好的数据库？",
       "url": "https://www.zhihu.com/answer/2071161869591647794",
       "content_type": "answer",
@@ -117,7 +149,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 6,
-      "favorites": 7,
+      "favorites": 8,
       "comments": 0,
       "category": {
         "id": "other",
@@ -132,8 +164,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 7,
-      "favorites": 25,
+      "likes": 8,
+      "favorites": 26,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -149,7 +181,7 @@
       "created_at": 1786501926,
       "created_date": "2026-08-12",
       "likes": 3,
-      "favorites": 14,
+      "favorites": 15,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -308,7 +340,7 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 7,
+      "likes": 9,
       "favorites": 22,
       "comments": 0,
       "category": {
@@ -356,8 +388,8 @@
       "content_type": "article",
       "created_at": 1785991295,
       "created_date": "2026-08-06",
-      "likes": 17,
-      "favorites": 38,
+      "likes": 18,
+      "favorites": 39,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
