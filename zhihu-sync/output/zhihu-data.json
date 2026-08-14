@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:01:05.645666+00:00",
+  "generated_at": "2026-08-14T22:17:03.222566+00:00",
   "source": "zhihu-cli me contents",
   "total": 104,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 51,
       "pin": 7
     },
-    "likes": 1080,
-    "favorites": 2515,
+    "likes": 1081,
+    "favorites": 2525,
     "comments": 100
   },
   "categories": [
@@ -101,7 +101,7 @@
       "created_at": 1786683792,
       "created_date": "2026-08-14",
       "likes": 1,
-      "favorites": 3,
+      "favorites": 5,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -117,7 +117,7 @@
       "created_at": 1786683791,
       "created_date": "2026-08-14",
       "likes": 1,
-      "favorites": 2,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -133,7 +133,7 @@
       "created_at": 1786583470,
       "created_date": "2026-08-13",
       "likes": 1,
-      "favorites": 2,
+      "favorites": 5,
       "comments": 0,
       "category": {
         "id": "other",
@@ -149,7 +149,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 6,
-      "favorites": 8,
+      "favorites": 10,
       "comments": 0,
       "category": {
         "id": "other",
@@ -788,8 +788,8 @@
       "content_type": "answer",
       "created_at": 1755528037,
       "created_date": "2025-08-18",
-      "likes": 27,
-      "favorites": 43,
+      "likes": 28,
+      "favorites": 44,
       "comments": 0,
       "category": {
         "id": "twod",
