@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T22:17:03.222566+00:00",
+  "generated_at": "2026-08-15T10:28:15.352649+00:00",
   "source": "zhihu-cli me contents",
-  "total": 104,
+  "total": 106,
   "summary": {
-    "total": 104,
+    "total": 106,
     "by_type": {
-      "answer": 46,
-      "article": 51,
+      "answer": 47,
+      "article": 52,
       "pin": 7
     },
-    "likes": 1081,
-    "favorites": 2525,
+    "likes": 1089,
+    "favorites": 2541,
     "comments": 100
   },
   "categories": [
@@ -18,7 +18,7 @@
       "id": "ferroelectrics",
       "label": "铁电与极化",
       "label_en": "Ferroelectricity & Polarization",
-      "count": 13
+      "count": 14
     },
     {
       "id": "skyrmions",
@@ -36,7 +36,7 @@
       "id": "twod",
       "label": "二维材料与范德华",
       "label_en": "2D Materials & van der Waals",
-      "count": 4
+      "count": 5
     },
     {
       "id": "computational",
@@ -95,13 +95,45 @@
   ],
   "items": [
     {
+      "title": "二维材料？",
+      "url": "https://www.zhihu.com/answer/2071917522409072113",
+      "content_type": "answer",
+      "created_at": 1786763631,
+      "created_date": "2026-08-15",
+      "likes": 4,
+      "favorites": 5,
+      "comments": 0,
+      "category": {
+        "id": "twod",
+        "label": "二维材料与范德华",
+        "label_en": "2D Materials & van der Waals"
+      },
+      "summary": "二维滑移铁电有一个很吸引人的特点：极化反转主要依靠层间滑移完成，弱范德华相互作用使切换势垒可以很低。 典型例子是 3R 堆叠的双层 TMD。改变两层之间的横向相对位置，可以得到具有相反面外极化的 AB 和 AC 构型。相比传统铁电中需要明显离子位移的切换过程，这类滑移路径的能垒往往只有十几个 meV。 但随之而来的问题也很直接： 滑移铁电的极化通常偏小。常见二维滑移铁电的极化约在 10⁻¹² C/"
+    },
+    {
+      "title": "内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路",
+      "url": "https://zhuanlan.zhihu.com/p/2069471818356887667",
+      "content_type": "article",
+      "created_at": 1786763631,
+      "created_date": "2026-08-15",
+      "likes": 0,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "二维滑移铁电有一个很吸引人的特点：极化反转主要依靠层间滑移完成，弱范德华相互作用使切换势垒可以很低。 典型例子是 3R 堆叠的双层 TMD。改变两层之间的横向相对位置，可以得到具有相反面外极化的 AB 和 AC 构型。相比传统铁电中需要明显离子位移的切换过程，这类滑移路径的能垒往往只有十几个 meV。 但随之而来的问题也很直接： 滑移铁电的极化通常偏小。常见二维滑移铁电的极化约在 10⁻¹² C/"
+    },
+    {
       "title": "如何有针对地高效地阅读一篇学术论文？",
       "url": "https://www.zhihu.com/answer/2071582652184975249",
       "content_type": "answer",
       "created_at": 1786683792,
       "created_date": "2026-08-14",
       "likes": 1,
-      "favorites": 5,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -132,8 +164,8 @@
       "content_type": "answer",
       "created_at": 1786583470,
       "created_date": "2026-08-13",
-      "likes": 1,
-      "favorites": 5,
+      "likes": 2,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "other",
@@ -149,7 +181,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 6,
-      "favorites": 10,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "other",
@@ -164,8 +196,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 8,
-      "favorites": 26,
+      "likes": 10,
+      "favorites": 28,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -292,7 +324,7 @@
       "content_type": "article",
       "created_at": 1786233674,
       "created_date": "2026-08-09",
-      "likes": 8,
+      "likes": 9,
       "favorites": 17,
       "comments": 1,
       "category": {
@@ -357,7 +389,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 27,
+      "favorites": 28,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -453,7 +485,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 12,
-      "favorites": 84,
+      "favorites": 85,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -469,7 +501,7 @@
       "created_at": 1785585193,
       "created_date": "2026-08-01",
       "likes": 7,
-      "favorites": 18,
+      "favorites": 19,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -613,7 +645,7 @@
       "created_at": 1779890721,
       "created_date": "2026-05-27",
       "likes": 16,
-      "favorites": 45,
+      "favorites": 46,
       "comments": 1,
       "category": {
         "id": "computational",
