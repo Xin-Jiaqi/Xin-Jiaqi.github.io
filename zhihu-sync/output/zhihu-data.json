@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:28:15.352649+00:00",
+  "generated_at": "2026-08-15T22:15:06.961839+00:00",
   "source": "zhihu-cli me contents",
   "total": 106,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 52,
       "pin": 7
     },
-    "likes": 1089,
-    "favorites": 2541,
+    "likes": 1093,
+    "favorites": 2546,
     "comments": 100
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 4,
-      "favorites": 5,
+      "likes": 6,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -149,7 +149,7 @@
       "created_at": 1786683791,
       "created_date": "2026-08-14",
       "likes": 1,
-      "favorites": 4,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -165,7 +165,7 @@
       "created_at": 1786583470,
       "created_date": "2026-08-13",
       "likes": 2,
-      "favorites": 6,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "other",
@@ -180,7 +180,7 @@
       "content_type": "article",
       "created_at": 1786583469,
       "created_date": "2026-08-13",
-      "likes": 6,
+      "likes": 7,
       "favorites": 12,
       "comments": 0,
       "category": {
@@ -212,7 +212,7 @@
       "content_type": "article",
       "created_at": 1786501926,
       "created_date": "2026-08-12",
-      "likes": 3,
+      "likes": 4,
       "favorites": 15,
       "comments": 0,
       "category": {
@@ -533,7 +533,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 32,
-      "favorites": 50,
+      "favorites": 51,
       "comments": 0,
       "category": {
         "id": "excitons",
