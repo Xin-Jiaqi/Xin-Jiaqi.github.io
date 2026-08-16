@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-15T22:15:06.961839+00:00",
+  "generated_at": "2026-08-16T10:28:31.727898+00:00",
   "source": "zhihu-cli me contents",
-  "total": 106,
+  "total": 109,
   "summary": {
-    "total": 106,
+    "total": 109,
     "by_type": {
-      "answer": 47,
-      "article": 52,
-      "pin": 7
+      "pin": 8,
+      "answer": 48,
+      "article": 53
     },
-    "likes": 1093,
-    "favorites": 2546,
+    "likes": 1099,
+    "favorites": 2568,
     "comments": 100
   },
   "categories": [
@@ -90,18 +90,66 @@
       "id": "other",
       "label": "其他",
       "label_en": "Others",
-      "count": 3
+      "count": 5
     }
   ],
   "items": [
+    {
+      "title": "收到录取通知书了，简单纪念一下",
+      "url": "https://www.zhihu.com/pin/2072387905524445254",
+      "content_type": "pin",
+      "created_at": 1786875974,
+      "created_date": "2026-08-16",
+      "likes": 0,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "essays",
+        "label": "阅读与随笔",
+        "label_en": "Reading & Essays"
+      },
+      "summary": "非常幸运能够一直做和自己性格相投的事情。我是硕士毕业后申请的普博，很愿意和大家分享一些申请经验，欢迎交流。 #我的录取通知书 [图片] [图片]"
+    },
+    {
+      "title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
+      "url": "https://www.zhihu.com/answer/2072265084265665825",
+      "content_type": "answer",
+      "created_at": 1786846496,
+      "created_date": "2026-08-16",
+      "likes": 0,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "在非线性光学、光伏效应或者能带跃迁的论文里，经常会看到一句话： 本文讨论电偶极近似（electric-dipole approximation）下的光学响应。这句话很常见，但如果只把它理解成一个数学近似，其实很难建立物理图像。 “电偶极近似”真正直观的核心只有一句话： 光的波长比一个晶胞大太多，因此对于一个晶胞里的电子来说，光的电场几乎是均匀的。换句话说，电子虽然处在一束传播的电磁波中，但如果只把"
+    },
+    {
+      "title": "什么是“电偶极近似”？从一束光照进晶体说起",
+      "url": "https://zhuanlan.zhihu.com/p/2070186428542330452",
+      "content_type": "article",
+      "created_at": 1786846496,
+      "created_date": "2026-08-16",
+      "likes": 1,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "在非线性光学、光伏效应或者能带跃迁的论文里，经常会看到一句话： 本文讨论电偶极近似（electric-dipole approximation）下的光学响应。这句话很常见，但如果只把它理解成一个数学近似，其实很难建立物理图像。 “电偶极近似”真正直观的核心只有一句话： 光的波长比一个晶胞大太多，因此对于一个晶胞里的电子来说，光的电场几乎是均匀的。换句话说，电子虽然处在一束传播的电磁波中，但如果只把"
+    },
     {
       "title": "二维材料？",
       "url": "https://www.zhihu.com/answer/2071917522409072113",
       "content_type": "answer",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 6,
-      "favorites": 6,
+      "likes": 7,
+      "favorites": 9,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -132,8 +180,8 @@
       "content_type": "answer",
       "created_at": 1786683792,
       "created_date": "2026-08-14",
-      "likes": 1,
-      "favorites": 7,
+      "likes": 3,
+      "favorites": 17,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -165,7 +213,7 @@
       "created_at": 1786583470,
       "created_date": "2026-08-13",
       "likes": 2,
-      "favorites": 7,
+      "favorites": 8,
       "comments": 0,
       "category": {
         "id": "other",
@@ -196,7 +244,7 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 10,
+      "likes": 11,
       "favorites": 28,
       "comments": 0,
       "category": {
@@ -229,7 +277,7 @@
       "created_at": 1786409630,
       "created_date": "2026-08-11",
       "likes": 4,
-      "favorites": 4,
+      "favorites": 5,
       "comments": 0,
       "category": {
         "id": "other",
@@ -372,7 +420,7 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 9,
+      "likes": 10,
       "favorites": 22,
       "comments": 0,
       "category": {
@@ -517,7 +565,7 @@
       "created_at": 1785585193,
       "created_date": "2026-08-01",
       "likes": 2,
-      "favorites": 2,
+      "favorites": 3,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -1365,7 +1413,7 @@
       "created_at": 1722238155,
       "created_date": "2024-07-29",
       "likes": 2,
-      "favorites": 4,
+      "favorites": 5,
       "comments": 0,
       "category": {
         "id": "computational",
