@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:36:45.114648+00:00",
+  "generated_at": "2026-08-17T22:18:27.094391+00:00",
   "source": "zhihu-cli me contents",
   "total": 109,
   "summary": {
@@ -9,9 +9,9 @@
       "answer": 48,
       "article": 53
     },
-    "likes": 1110,
-    "favorites": 2598,
-    "comments": 77
+    "likes": 1117,
+    "favorites": 2607,
+    "comments": 100
   },
   "categories": [
     {
@@ -117,7 +117,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 1,
-      "favorites": 11,
+      "favorites": 13,
       "comments": 0,
       "category": {
         "id": "other",
@@ -148,8 +148,8 @@
       "content_type": "answer",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 7,
-      "favorites": 10,
+      "likes": 8,
+      "favorites": 11,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -164,8 +164,8 @@
       "content_type": "article",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 0,
-      "favorites": 0,
+      "likes": 2,
+      "favorites": 1,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -244,8 +244,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 15,
-      "favorites": 33,
+      "likes": 18,
+      "favorites": 35,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -373,7 +373,7 @@
       "created_at": 1786233674,
       "created_date": "2026-08-09",
       "likes": 10,
-      "favorites": 17,
+      "favorites": 18,
       "comments": 1,
       "category": {
         "id": "skyrmions",
@@ -437,7 +437,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 28,
+      "favorites": 29,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -533,7 +533,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 12,
-      "favorites": 86,
+      "favorites": 87,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -788,7 +788,7 @@
       "content_type": "article",
       "created_at": 1779337538,
       "created_date": "2026-05-21",
-      "likes": 10,
+      "likes": 11,
       "favorites": 10,
       "comments": 0,
       "category": {
@@ -1734,7 +1734,7 @@
       "created_date": "2023-12-06",
       "likes": 25,
       "favorites": 51,
-      "comments": 0,
+      "comments": 10,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -1766,7 +1766,7 @@
       "created_date": "2023-12-04",
       "likes": 61,
       "favorites": 106,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1798,7 +1798,7 @@
       "created_date": "2023-11-23",
       "likes": 6,
       "favorites": 27,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "theory",
         "label": "数学与理论笔记",
@@ -1814,7 +1814,7 @@
       "created_date": "2023-09-25",
       "likes": 23,
       "favorites": 41,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1830,7 +1830,7 @@
       "created_date": "2023-09-18",
       "likes": 31,
       "favorites": 36,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
