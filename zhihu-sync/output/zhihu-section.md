@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 109 条创作 · 累计 1108 赞 / 2588 藏 · 更新于 2026-08-16
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 109 条创作 · 累计 1110 赞 / 2598 藏 · 更新于 2026-08-17
 
 ### 铁电与极化 Ferroelectricity & Polarization（14 条）
 
@@ -22,12 +22,12 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 10 · 藏 17
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 22
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 23
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 28
 
 ### 激子与位移电流 Excitons & Shift Current（2 条）
 
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 32 · 藏 52
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 32 · 藏 54
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（5 条）
@@ -79,7 +79,7 @@
 
 ### 科研工具与工作流 Research Tools & Workflow（22 条）
 
-- [如何有针对地高效地阅读一篇学术论文？](https://www.zhihu.com/answer/2071582652184975249) · 回答 · 2026-08-14 · 赞 5 · 藏 22
+- [如何有针对地高效地阅读一篇学术论文？](https://www.zhihu.com/answer/2071582652184975249) · 回答 · 2026-08-14 · 赞 5 · 藏 23
 - [论文太多，我做了一个 Agent 来决定“今天该看哪几篇”](https://zhuanlan.zhihu.com/p/2070520264442565091) · 文章 · 2026-08-14 · 赞 1 · 藏 6
 - [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 3 · 藏 13
 - [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 12 · 藏 86
@@ -114,7 +114,7 @@
 
 ### 凝聚态基础 Condensed Matter Basics（5 条）
 
-- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 15 · 藏 32
+- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 15 · 藏 33
 - [交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂](https://zhuanlan.zhihu.com/p/2070819340618929436) · 文章 · 2026-08-12 · 赞 5 · 藏 16
 - [如何理解Kagome格子中的flat band？](https://www.zhihu.com/answer/1935806686838367493) · 回答 · 2025-08-04 · 赞 34 · 藏 62
 - [晶体里的自旋轨道耦合强度与哪些因素有关？](https://www.zhihu.com/answer/1934018431184791242) · 回答 · 2025-07-30 · 赞 8 · 藏 12
@@ -136,8 +136,8 @@
 
 ### 其他 Others（5 条）
 
-- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 1 · 藏 6
-- [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 1 · 藏 3
+- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 1 · 藏 11
+- [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 8
 - [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 7 · 藏 13
 - [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 5
