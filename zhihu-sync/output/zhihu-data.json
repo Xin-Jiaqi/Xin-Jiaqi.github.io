@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:18:27.094391+00:00",
+  "generated_at": "2026-08-18T10:33:45.794773+00:00",
   "source": "zhihu-cli me contents",
   "total": 109,
   "summary": {
@@ -9,9 +9,9 @@
       "answer": 48,
       "article": 53
     },
-    "likes": 1117,
-    "favorites": 2607,
-    "comments": 100
+    "likes": 1126,
+    "favorites": 2619,
+    "comments": 101
   },
   "categories": [
     {
@@ -116,8 +116,8 @@
       "content_type": "answer",
       "created_at": 1786846496,
       "created_date": "2026-08-16",
-      "likes": 1,
-      "favorites": 13,
+      "likes": 4,
+      "favorites": 19,
       "comments": 0,
       "category": {
         "id": "other",
@@ -148,7 +148,7 @@
       "content_type": "answer",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 8,
+      "likes": 10,
       "favorites": 11,
       "comments": 0,
       "category": {
@@ -181,7 +181,7 @@
       "created_at": 1786683792,
       "created_date": "2026-08-14",
       "likes": 5,
-      "favorites": 23,
+      "favorites": 24,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -229,7 +229,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 7,
-      "favorites": 13,
+      "favorites": 14,
       "comments": 0,
       "category": {
         "id": "other",
@@ -532,8 +532,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 12,
-      "favorites": 87,
+      "likes": 13,
+      "favorites": 90,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -580,7 +580,7 @@
       "content_type": "answer",
       "created_at": 1785556652,
       "created_date": "2026-08-01",
-      "likes": 32,
+      "likes": 33,
       "favorites": 54,
       "comments": 0,
       "category": {
@@ -645,7 +645,7 @@
       "created_at": 1785301531,
       "created_date": "2026-07-29",
       "likes": 5,
-      "favorites": 13,
+      "favorites": 14,
       "comments": 0,
       "category": {
         "id": "computational",
@@ -868,9 +868,9 @@
       "content_type": "answer",
       "created_at": 1755528037,
       "created_date": "2025-08-18",
-      "likes": 28,
+      "likes": 30,
       "favorites": 44,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "twod",
         "label": "二维材料与范德华",
