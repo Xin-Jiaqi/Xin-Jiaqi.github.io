@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T10:33:45.794773+00:00",
+  "generated_at": "2026-08-18T22:17:00.053569+00:00",
   "source": "zhihu-cli me contents",
   "total": 109,
   "summary": {
@@ -9,8 +9,8 @@
       "answer": 48,
       "article": 53
     },
-    "likes": 1126,
-    "favorites": 2619,
+    "likes": 1128,
+    "favorites": 2629,
     "comments": 101
   },
   "categories": [
@@ -117,7 +117,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 4,
-      "favorites": 19,
+      "favorites": 20,
       "comments": 0,
       "category": {
         "id": "other",
@@ -165,7 +165,7 @@
       "created_at": 1786763631,
       "created_date": "2026-08-15",
       "likes": 2,
-      "favorites": 1,
+      "favorites": 3,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -181,7 +181,7 @@
       "created_at": 1786683792,
       "created_date": "2026-08-14",
       "likes": 5,
-      "favorites": 24,
+      "favorites": 28,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -228,7 +228,7 @@
       "content_type": "article",
       "created_at": 1786583469,
       "created_date": "2026-08-13",
-      "likes": 7,
+      "likes": 9,
       "favorites": 14,
       "comments": 0,
       "category": {
@@ -469,7 +469,7 @@
       "created_at": 1785991295,
       "created_date": "2026-08-06",
       "likes": 18,
-      "favorites": 40,
+      "favorites": 42,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -581,7 +581,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 33,
-      "favorites": 54,
+      "favorites": 55,
       "comments": 0,
       "category": {
         "id": "excitons",
