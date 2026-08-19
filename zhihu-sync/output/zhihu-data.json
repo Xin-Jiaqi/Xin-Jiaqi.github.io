@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:17:00.053569+00:00",
+  "generated_at": "2026-08-19T10:33:56.088322+00:00",
   "source": "zhihu-cli me contents",
   "total": 109,
   "summary": {
@@ -9,8 +9,8 @@
       "answer": 48,
       "article": 53
     },
-    "likes": 1128,
-    "favorites": 2629,
+    "likes": 1130,
+    "favorites": 2633,
     "comments": 101
   },
   "categories": [
@@ -116,7 +116,7 @@
       "content_type": "answer",
       "created_at": 1786846496,
       "created_date": "2026-08-16",
-      "likes": 4,
+      "likes": 5,
       "favorites": 20,
       "comments": 0,
       "category": {
@@ -245,7 +245,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 18,
-      "favorites": 35,
+      "favorites": 36,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -580,8 +580,8 @@
       "content_type": "answer",
       "created_at": 1785556652,
       "created_date": "2026-08-01",
-      "likes": 33,
-      "favorites": 55,
+      "likes": 34,
+      "favorites": 56,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -693,7 +693,7 @@
       "created_at": 1779890721,
       "created_date": "2026-05-27",
       "likes": 16,
-      "favorites": 46,
+      "favorites": 48,
       "comments": 1,
       "category": {
         "id": "computational",
