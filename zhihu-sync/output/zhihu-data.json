@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-19T10:33:56.088322+00:00",
+  "generated_at": "2026-08-19T22:18:47.736379+00:00",
   "source": "zhihu-cli me contents",
-  "total": 109,
+  "total": 111,
   "summary": {
-    "total": 109,
+    "total": 111,
     "by_type": {
-      "pin": 8,
-      "answer": 48,
-      "article": 53
+      "answer": 49,
+      "article": 54,
+      "pin": 8
     },
-    "likes": 1130,
-    "favorites": 2633,
+    "likes": 1134,
+    "favorites": 2645,
     "comments": 101
   },
   "categories": [
@@ -18,7 +18,7 @@
       "id": "ferroelectrics",
       "label": "铁电与极化",
       "label_en": "Ferroelectricity & Polarization",
-      "count": 14
+      "count": 15
     },
     {
       "id": "skyrmions",
@@ -30,7 +30,7 @@
       "id": "excitons",
       "label": "激子与位移电流",
       "label_en": "Excitons & Shift Current",
-      "count": 2
+      "count": 3
     },
     {
       "id": "twod",
@@ -95,6 +95,38 @@
   ],
   "items": [
     {
+      "title": "位移电流的公式？",
+      "url": "https://www.zhihu.com/answer/2073493856281170915",
+      "content_type": "answer",
+      "created_at": 1787139459,
+      "created_date": "2026-08-19",
+      "likes": 1,
+      "favorites": 3,
+      "comments": 0,
+      "category": {
+        "id": "excitons",
+        "label": "激子与位移电流",
+        "label_en": "Excitons & Shift Current"
+      },
+      "summary": "体光伏效应（bulk photovoltaic effect，BPVE）中经常会看到几组看起来相互独立的概念： 线偏振光 LPL 与圆偏振光 CPL；shift current 与 injection current；normal 与 magnetic；shift vector、Berry curvature、quantum metric。我写毕业论文的时候，将它们整理成这样一张表： BPVE 类"
+    },
+    {
+      "title": "四类体光伏效应的物理图像：从光偏振到量子几何",
+      "url": "https://zhuanlan.zhihu.com/p/2073493242381857180",
+      "content_type": "article",
+      "created_at": 1787139458,
+      "created_date": "2026-08-19",
+      "likes": 1,
+      "favorites": 4,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "体光伏效应（bulk photovoltaic effect，BPVE）中经常会看到几组看起来相互独立的概念： 线偏振光 LPL 与圆偏振光 CPL；shift current 与 injection current；normal 与 magnetic；shift vector、Berry curvature、quantum metric。我写毕业论文的时候，将它们整理成这样一张表： BPVE 类"
+    },
+    {
       "title": "收到录取通知书了，简单纪念一下",
       "url": "https://www.zhihu.com/pin/2072387905524445254",
       "content_type": "pin",
@@ -117,7 +149,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 5,
-      "favorites": 20,
+      "favorites": 21,
       "comments": 0,
       "category": {
         "id": "other",
@@ -180,8 +212,8 @@
       "content_type": "answer",
       "created_at": 1786683792,
       "created_date": "2026-08-14",
-      "likes": 5,
-      "favorites": 28,
+      "likes": 6,
+      "favorites": 29,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -245,7 +277,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 18,
-      "favorites": 36,
+      "favorites": 37,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -277,7 +309,7 @@
       "created_at": 1786409630,
       "created_date": "2026-08-11",
       "likes": 4,
-      "favorites": 5,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "other",
@@ -1076,8 +1108,8 @@
       "content_type": "article",
       "created_at": 1754384766,
       "created_date": "2025-08-05",
-      "likes": 6,
-      "favorites": 11,
+      "likes": 7,
+      "favorites": 12,
       "comments": 5,
       "category": {
         "id": "ai",
