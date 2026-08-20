@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-08-19T22:18:47.736379+00:00",
+  "generated_at": "2026-08-20T10:35:53.539743+00:00",
   "source": "zhihu-cli me contents",
-  "total": 111,
+  "total": 113,
   "summary": {
-    "total": 111,
+    "total": 113,
     "by_type": {
-      "answer": 49,
-      "article": 54,
+      "answer": 50,
+      "article": 55,
       "pin": 8
     },
-    "likes": 1134,
-    "favorites": 2645,
-    "comments": 101
+    "likes": 1143,
+    "favorites": 2662,
+    "comments": 102
   },
   "categories": [
     {
       "id": "ferroelectrics",
       "label": "铁电与极化",
       "label_en": "Ferroelectricity & Polarization",
-      "count": 15
+      "count": 16
     },
     {
       "id": "skyrmions",
@@ -90,18 +90,50 @@
       "id": "other",
       "label": "其他",
       "label_en": "Others",
-      "count": 5
+      "count": 6
     }
   ],
   "items": [
+    {
+      "title": "二维磁性材料有哪些可以研究的方向？",
+      "url": "https://www.zhihu.com/answer/2073761747710883157",
+      "content_type": "answer",
+      "created_at": 1787203329,
+      "created_date": "2026-08-20",
+      "likes": 3,
+      "favorites": 6,
+      "comments": 1,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "交错磁性（altermagnetism）最近受到关注的一个重要原因，是它打破了我们过去对“铁磁”和“反铁磁”的一些直观二分。它可以像普通反铁磁一样具有接近零的净磁矩，同时又在动量空间产生很强的自旋劈裂，并由此支持一些看起来更接近铁磁体的输运和光学响应。 2025 年，Motohiko Ezawa 在 Physical Review B 发表了 Bulk photovoltaic effects i"
+    },
+    {
+      "title": "交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current",
+      "url": "https://zhuanlan.zhihu.com/p/2073761160940218284",
+      "content_type": "article",
+      "created_at": 1787203328,
+      "created_date": "2026-08-20",
+      "likes": 1,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "交错磁性（altermagnetism）最近受到关注的一个重要原因，是它打破了我们过去对“铁磁”和“反铁磁”的一些直观二分。它可以像普通反铁磁一样具有接近零的净磁矩，同时又在动量空间产生很强的自旋劈裂，并由此支持一些看起来更接近铁磁体的输运和光学响应。 2025 年，Motohiko Ezawa 在 Physical Review B 发表了 Bulk photovoltaic effects i"
+    },
     {
       "title": "位移电流的公式？",
       "url": "https://www.zhihu.com/answer/2073493856281170915",
       "content_type": "answer",
       "created_at": 1787139459,
       "created_date": "2026-08-19",
-      "likes": 1,
-      "favorites": 3,
+      "likes": 2,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -117,7 +149,7 @@
       "created_at": 1787139458,
       "created_date": "2026-08-19",
       "likes": 1,
-      "favorites": 4,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -148,8 +180,8 @@
       "content_type": "answer",
       "created_at": 1786846496,
       "created_date": "2026-08-16",
-      "likes": 5,
-      "favorites": 21,
+      "likes": 8,
+      "favorites": 22,
       "comments": 0,
       "category": {
         "id": "other",
@@ -180,7 +212,7 @@
       "content_type": "answer",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 10,
+      "likes": 11,
       "favorites": 11,
       "comments": 0,
       "category": {
@@ -213,7 +245,7 @@
       "created_at": 1786683792,
       "created_date": "2026-08-14",
       "likes": 6,
-      "favorites": 29,
+      "favorites": 32,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -261,7 +293,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 9,
-      "favorites": 14,
+      "favorites": 15,
       "comments": 0,
       "category": {
         "id": "other",
