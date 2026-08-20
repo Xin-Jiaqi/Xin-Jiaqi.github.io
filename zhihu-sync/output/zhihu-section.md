@@ -1,15 +1,15 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1143 赞 / 2662 藏 · 更新于 2026-08-20
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1146 赞 / 2674 藏 · 更新于 2026-08-20
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
-- [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 1
-- [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 1 · 藏 6
+- [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 2
+- [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 1 · 藏 7
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
 - [把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态](https://zhuanlan.zhihu.com/p/2069424047704823715) · 文章 · 2026-08-11 · 赞 1 · 藏 3
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
-- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 18 · 藏 42
+- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 19 · 藏 42
 - [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 20
 - [NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合](https://zhuanlan.zhihu.com/p/2066974338855843093) · 文章 · 2026-08-01 · 赞 2 · 藏 3
 - [为什么二维铁电材料很稀少？](https://www.zhihu.com/answer/2040770231963017741) · 回答 · 2026-05-21 · 赞 5 · 藏 8
@@ -29,7 +29,7 @@
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
-- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 2 · 藏 6
+- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 2 · 藏 7
 - [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 56
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
@@ -82,7 +82,7 @@
 
 ### 科研工具与工作流 Research Tools & Workflow（22 条）
 
-- [如何有针对地高效地阅读一篇学术论文？](https://www.zhihu.com/answer/2071582652184975249) · 回答 · 2026-08-14 · 赞 6 · 藏 32
+- [如何有针对地高效地阅读一篇学术论文？](https://www.zhihu.com/answer/2071582652184975249) · 回答 · 2026-08-14 · 赞 6 · 藏 34
 - [论文太多，我做了一个 Agent 来决定“今天该看哪几篇”](https://zhuanlan.zhihu.com/p/2070520264442565091) · 文章 · 2026-08-14 · 赞 1 · 藏 6
 - [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 3 · 藏 13
 - [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 13 · 藏 90
@@ -139,7 +139,7 @@
 
 ### 其他 Others（6 条）
 
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 3 · 藏 6
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 5 · 藏 13
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 22
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 8
