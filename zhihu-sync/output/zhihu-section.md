@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1156 赞 / 2690 藏 · 更新于 2026-08-21
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1158 赞 / 2692 藏 · 更新于 2026-08-21
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -44,7 +44,7 @@
 ### 计算方法与软件 Computational Methods（12 条）
 
 - [Research Note：单层 SnS 的紧束缚模型 arXiv](https://zhuanlan.zhihu.com/p/2065777386583487695) · 文章 · 2026-07-29 · 赞 5 · 藏 14
-- [WannSymm 安装与使用教程](https://zhuanlan.zhihu.com/p/2043081520005505959) · 文章 · 2026-05-27 · 赞 16 · 藏 48
+- [WannSymm 安装与使用教程](https://zhuanlan.zhihu.com/p/2043081520005505959) · 文章 · 2026-05-27 · 赞 16 · 藏 49
 - [批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系](https://zhuanlan.zhihu.com/p/2039095412498359945) · 文章 · 2026-05-16 · 赞 0 · 藏 4
 - [理论笔记|计算工具 何为energy above convex hull ？以及如何绘制 phase diagrams？](https://zhuanlan.zhihu.com/p/12898835960) · 文章 · 2024-12-17 · 赞 10 · 藏 32
 - [怎么样批量获取Materials Project的数据？](https://www.zhihu.com/answer/53175564036) · 回答 · 2024-12-11 · 赞 5 · 藏 5
@@ -117,7 +117,7 @@
 
 ### 凝聚态基础 Condensed Matter Basics（5 条）
 
-- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 18 · 藏 38
+- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 20 · 藏 38
 - [交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂](https://zhuanlan.zhihu.com/p/2070819340618929436) · 文章 · 2026-08-12 · 赞 7 · 藏 16
 - [如何理解Kagome格子中的flat band？](https://www.zhihu.com/answer/1935806686838367493) · 回答 · 2025-08-04 · 赞 34 · 藏 62
 - [晶体里的自旋轨道耦合强度与哪些因素有关？](https://www.zhihu.com/answer/1934018431184791242) · 回答 · 2025-07-30 · 赞 8 · 藏 12
@@ -143,6 +143,6 @@
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 22
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 8
-- [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 15
+- [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 16
 - [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 7
 
