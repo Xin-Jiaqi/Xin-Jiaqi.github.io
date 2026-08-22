@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:17:52.583596+00:00",
+  "generated_at": "2026-08-22T10:28:45.431133+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1158,
-    "favorites": 2692,
+    "likes": 1161,
+    "favorites": 2711,
     "comments": 104
   },
   "categories": [
@@ -101,7 +101,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 7,
-      "favorites": 19,
+      "favorites": 22,
       "comments": 1,
       "category": {
         "id": "other",
@@ -117,7 +117,7 @@
       "created_at": 1787203328,
       "created_date": "2026-08-20",
       "likes": 1,
-      "favorites": 2,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -132,8 +132,8 @@
       "content_type": "answer",
       "created_at": 1787139459,
       "created_date": "2026-08-19",
-      "likes": 4,
-      "favorites": 9,
+      "likes": 7,
+      "favorites": 14,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -149,7 +149,7 @@
       "created_at": 1787139458,
       "created_date": "2026-08-19",
       "likes": 1,
-      "favorites": 8,
+      "favorites": 9,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -181,7 +181,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 8,
-      "favorites": 22,
+      "favorites": 23,
       "comments": 0,
       "category": {
         "id": "other",
@@ -213,7 +213,7 @@
       "created_at": 1786763631,
       "created_date": "2026-08-15",
       "likes": 11,
-      "favorites": 11,
+      "favorites": 13,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -309,7 +309,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 20,
-      "favorites": 38,
+      "favorites": 39,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -341,7 +341,7 @@
       "created_at": 1786409630,
       "created_date": "2026-08-11",
       "likes": 4,
-      "favorites": 7,
+      "favorites": 8,
       "comments": 0,
       "category": {
         "id": "other",
@@ -533,7 +533,7 @@
       "created_at": 1785991295,
       "created_date": "2026-08-06",
       "likes": 19,
-      "favorites": 42,
+      "favorites": 43,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -645,7 +645,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 34,
-      "favorites": 56,
+      "favorites": 57,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -1317,7 +1317,7 @@
       "created_at": 1734341536,
       "created_date": "2024-12-16",
       "likes": 6,
-      "favorites": 25,
+      "favorites": 26,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -1333,7 +1333,7 @@
       "created_at": 1734341535,
       "created_date": "2024-12-16",
       "likes": 5,
-      "favorites": 18,
+      "favorites": 19,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -1877,7 +1877,7 @@
       "created_at": 1695606236,
       "created_date": "2023-09-25",
       "likes": 23,
-      "favorites": 41,
+      "favorites": 40,
       "comments": 3,
       "category": {
         "id": "computational",
