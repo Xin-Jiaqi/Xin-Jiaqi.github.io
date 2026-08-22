@@ -1,15 +1,15 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1158 赞 / 2692 藏 · 更新于 2026-08-21
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1161 赞 / 2711 藏 · 更新于 2026-08-22
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
-- [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 2
-- [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 1 · 藏 8
+- [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 4
+- [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 1 · 藏 9
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
 - [把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态](https://zhuanlan.zhihu.com/p/2069424047704823715) · 文章 · 2026-08-11 · 赞 1 · 藏 3
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
-- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 19 · 藏 42
+- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 19 · 藏 43
 - [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 20
 - [NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合](https://zhuanlan.zhihu.com/p/2066974338855843093) · 文章 · 2026-08-01 · 赞 2 · 藏 3
 - [为什么二维铁电材料很稀少？](https://www.zhihu.com/answer/2040770231963017741) · 回答 · 2026-05-21 · 赞 5 · 藏 8
@@ -29,13 +29,13 @@
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
-- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 4 · 藏 9
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 56
+- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 7 · 藏 14
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 57
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（5 条）
 
-- [二维材料？](https://www.zhihu.com/answer/2071917522409072113) · 回答 · 2026-08-15 · 赞 11 · 藏 11
+- [二维材料？](https://www.zhihu.com/answer/2071917522409072113) · 回答 · 2026-08-15 · 赞 11 · 藏 13
 - [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 30 · 藏 44
 - [二维半导体材料的研究前景？](https://www.zhihu.com/answer/3406767338) · 回答 · 2024-02-23 · 赞 8 · 藏 12
 - [文献精析 ACS Nano：范德华双层同质结嵌入同种金属原子的高通量计算及能带特性（ic-2D 材料）](https://zhuanlan.zhihu.com/p/682072052) · 文章 · 2024-02-23 · 赞 4 · 藏 2
@@ -54,7 +54,7 @@
 - [计算工具 VASP POSCAR文件从笛卡尔坐标（Cartesian）转换为分数坐标（Direct）的MatLab脚本](https://zhuanlan.zhihu.com/p/711541234) · 文章 · 2024-07-29 · 赞 2 · 藏 5
 - [文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用](https://zhuanlan.zhihu.com/p/681268408) · 文章 · 2024-02-04 · 赞 7 · 藏 10
 - [能带计算有哪些必读的文献或教程？](https://www.zhihu.com/answer/3315160554) · 回答 · 2023-12-06 · 赞 6 · 藏 10
-- [计算工具 engwin.py：能带分析、wannier90解纠缠](https://zhuanlan.zhihu.com/p/657229195) · 文章 · 2023-09-25 · 赞 23 · 藏 41
+- [计算工具 engwin.py：能带分析、wannier90解纠缠](https://zhuanlan.zhihu.com/p/657229195) · 文章 · 2023-09-25 · 赞 23 · 藏 40
 
 ### 群论与对称性 Group Theory & Symmetry（13 条）
 
@@ -92,8 +92,8 @@
 - [理论笔记 如何写作英文学术论文：a step-by-step guide for beginners](https://zhuanlan.zhihu.com/p/1887896719074763164) · 文章 · 2025-03-25 · 赞 2 · 藏 5
 - [如何高效地阅读文献？](https://www.zhihu.com/answer/57666768593) · 回答 · 2024-12-17 · 赞 5 · 藏 14
 - [计算工具 PDFMathTranslate：能够保留英文文献排版的翻译工具](https://zhuanlan.zhihu.com/p/13168716240) · 文章 · 2024-12-17 · 赞 9 · 藏 30
-- [写论文常用的看起来逼格满满的词汇、句式都有哪些？](https://www.zhihu.com/answer/56727562151) · 回答 · 2024-12-16 · 赞 6 · 藏 25
-- [英文论文写作句式积累（长期更新）](https://zhuanlan.zhihu.com/p/12890957064) · 文章 · 2024-12-16 · 赞 5 · 藏 18
+- [写论文常用的看起来逼格满满的词汇、句式都有哪些？](https://www.zhihu.com/answer/56727562151) · 回答 · 2024-12-16 · 赞 6 · 藏 26
+- [英文论文写作句式积累（长期更新）](https://zhuanlan.zhihu.com/p/12890957064) · 文章 · 2024-12-16 · 赞 5 · 藏 19
 - [有哪些好用的zotero插件?](https://www.zhihu.com/answer/3575313981) · 回答 · 2024-07-27 · 赞 151 · 藏 519
 - [计算工具 论文阅读 Zotero & GPT：配置、资源分享及避坑心得](https://zhuanlan.zhihu.com/p/711243587) · 文章 · 2024-07-27 · 赞 23 · 藏 39
 - [有什么好用的学术论文写作辅助工具?](https://www.zhihu.com/answer/3415249955) · 回答 · 2024-03-01 · 赞 2 · 藏 5
@@ -117,7 +117,7 @@
 
 ### 凝聚态基础 Condensed Matter Basics（5 条）
 
-- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 20 · 藏 38
+- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 20 · 藏 39
 - [交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂](https://zhuanlan.zhihu.com/p/2070819340618929436) · 文章 · 2026-08-12 · 赞 7 · 藏 16
 - [如何理解Kagome格子中的flat band？](https://www.zhihu.com/answer/1935806686838367493) · 回答 · 2025-08-04 · 赞 34 · 藏 62
 - [晶体里的自旋轨道耦合强度与哪些因素有关？](https://www.zhihu.com/answer/1934018431184791242) · 回答 · 2025-07-30 · 赞 8 · 藏 12
@@ -139,10 +139,10 @@
 
 ### 其他 Others（6 条）
 
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 7 · 藏 19
-- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 22
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 7 · 藏 22
+- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 23
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 8
 - [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 16
-- [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 7
+- [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 8
 
