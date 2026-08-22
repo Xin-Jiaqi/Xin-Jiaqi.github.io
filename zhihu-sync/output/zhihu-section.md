@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1161 赞 / 2711 藏 · 更新于 2026-08-22
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1161 赞 / 2716 藏 · 更新于 2026-08-22
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -29,8 +29,8 @@
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
-- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 7 · 藏 14
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 57
+- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 7 · 藏 17
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 58
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（5 条）
@@ -139,7 +139,7 @@
 
 ### 其他 Others（6 条）
 
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 7 · 藏 22
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 7 · 藏 23
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 23
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 8
