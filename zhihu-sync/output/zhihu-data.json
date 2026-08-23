@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:16:13.429964+00:00",
+  "generated_at": "2026-08-23T10:29:07.790724+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1161,
-    "favorites": 2716,
+    "likes": 1165,
+    "favorites": 2725,
     "comments": 104
   },
   "categories": [
@@ -117,7 +117,7 @@
       "created_at": 1787203328,
       "created_date": "2026-08-20",
       "likes": 1,
-      "favorites": 4,
+      "favorites": 5,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -132,8 +132,8 @@
       "content_type": "answer",
       "created_at": 1787139459,
       "created_date": "2026-08-19",
-      "likes": 7,
-      "favorites": 17,
+      "likes": 8,
+      "favorites": 18,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -164,7 +164,7 @@
       "content_type": "pin",
       "created_at": 1786875974,
       "created_date": "2026-08-16",
-      "likes": 2,
+      "likes": 3,
       "favorites": 0,
       "comments": 1,
       "category": {
@@ -244,8 +244,8 @@
       "content_type": "answer",
       "created_at": 1786683792,
       "created_date": "2026-08-14",
-      "likes": 9,
-      "favorites": 37,
+      "likes": 11,
+      "favorites": 38,
       "comments": 1,
       "category": {
         "id": "tools",
@@ -261,7 +261,7 @@
       "created_at": 1786683791,
       "created_date": "2026-08-14",
       "likes": 1,
-      "favorites": 6,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -277,7 +277,7 @@
       "created_at": 1786583470,
       "created_date": "2026-08-13",
       "likes": 2,
-      "favorites": 8,
+      "favorites": 9,
       "comments": 0,
       "category": {
         "id": "other",
@@ -309,7 +309,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 20,
-      "favorites": 39,
+      "favorites": 40,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -485,7 +485,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 10,
-      "favorites": 24,
+      "favorites": 25,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -597,7 +597,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 13,
-      "favorites": 90,
+      "favorites": 91,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -1877,7 +1877,7 @@
       "created_at": 1695606236,
       "created_date": "2023-09-25",
       "likes": 23,
-      "favorites": 40,
+      "favorites": 41,
       "comments": 3,
       "category": {
         "id": "computational",
