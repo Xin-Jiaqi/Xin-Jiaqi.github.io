@@ -1,10 +1,10 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1168 赞 / 2736 藏 · 更新于 2026-08-24
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1169 赞 / 2743 藏 · 更新于 2026-08-24
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
-- [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 5
+- [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 6
 - [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 1 · 藏 10
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
 - [把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态](https://zhuanlan.zhihu.com/p/2069424047704823715) · 文章 · 2026-08-11 · 赞 1 · 藏 3
@@ -18,18 +18,18 @@
 - [理论笔记 晶体极化与极化量子：基本概念，Qvalue.py脚本及文献数据复现](https://zhuanlan.zhihu.com/p/1974849644753331274) · 文章 · 2025-11-20 · 赞 11 · 藏 20
 - [文献精析 双层堆叠铁电理论的两方面扩展](https://zhuanlan.zhihu.com/p/1940904670697615387) · 文章 · 2025-08-18 · 赞 6 · 藏 4
 - [想学习一下铁电、铁磁、超导方面的内容，求推荐？](https://www.zhihu.com/answer/3393364801) · 回答 · 2024-02-11 · 赞 4 · 藏 8
-- [铁电材料体光伏效应的shift current应该怎么理解？](https://www.zhihu.com/answer/3315158231) · 回答 · 2023-12-06 · 赞 25 · 藏 51
+- [铁电材料体光伏效应的shift current应该怎么理解？](https://www.zhihu.com/answer/3315158231) · 回答 · 2023-12-06 · 赞 25 · 藏 52
 - [文献精析 体光伏效应：含五边形链状结构的二维热释电材料CuXX'Y](https://zhuanlan.zhihu.com/p/656334259) · 文章 · 2023-09-18 · 赞 31 · 藏 36
 
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 10 · 藏 18
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 27
-- [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 29
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 28
+- [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 30
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
-- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 8 · 藏 19
+- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 8 · 藏 20
 - [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 58
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
@@ -139,7 +139,7 @@
 
 ### 其他 Others（6 条）
 
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 7 · 藏 24
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 8 · 藏 26
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 23
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 9
