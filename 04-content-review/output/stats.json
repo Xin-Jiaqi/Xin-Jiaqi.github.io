@@ -1,30 +1,30 @@
 {
   "fetched_at": {
-    "fetched_at": "2026-08-17",
-    "total": 109,
-    "count": 109
+    "fetched_at": "2026-08-24",
+    "total": 113,
+    "count": 113
   },
-  "as_of": "2026-08-17",
-  "total": 109,
+  "as_of": "2026-08-24",
+  "total": 113,
   "type_dist": {
     "answer": {
-      "count": 48,
-      "pct": 44.0
+      "count": 50,
+      "pct": 44.2
     },
     "article": {
-      "count": 53,
-      "pct": 48.6
+      "count": 55,
+      "pct": 48.7
     },
     "pin": {
       "count": 8,
-      "pct": 7.3
+      "pct": 7.1
     }
   },
   "year_dist": {
     "2023": 10,
     "2024": 31,
     "2025": 22,
-    "2026": 46
+    "2026": 50
   },
   "month_dist": {
     "2023-09": 2,
@@ -43,7 +43,7 @@
     "2026-05": 9,
     "2026-06": 2,
     "2026-07": 3,
-    "2026-08": 32
+    "2026-08": 36
   },
   "month_type_dist": {
     "2023-09": {
@@ -111,68 +111,68 @@
       "article": 2
     },
     "2026-08": {
-      "pin": 4,
-      "answer": 14,
-      "article": 14
+      "answer": 16,
+      "article": 16,
+      "pin": 4
     }
   },
   "cadence": {
     "active_months": 17,
-    "avg_per_active_month": 6.4,
+    "avg_per_active_month": 6.6,
     "peak_month": "2026-08",
-    "peak_month_count": 32,
+    "peak_month_count": 36,
     "span_months": 35,
     "first_year": "2023",
     "last_year": "2026"
   },
   "global": {
-    "n": 109,
-    "like_sum": 1109,
-    "like_mean": 10.2,
+    "n": 113,
+    "like_sum": 1165,
+    "like_mean": 10.3,
     "like_median": 6,
-    "fav_sum": 2591,
-    "fav_mean": 23.8,
-    "fav_median": 11,
-    "comment_sum": 100,
+    "fav_sum": 2732,
+    "fav_mean": 24.2,
+    "fav_median": 12,
+    "comment_sum": 104,
     "comment_mean": 0.9,
-    "fav_like_ratio": 2.34
+    "fav_like_ratio": 2.35
   },
   "by_type": {
-    "pin": {
-      "n": 8,
-      "like_sum": 28,
-      "like_mean": 3.5,
-      "like_median": 0.5,
-      "fav_sum": 14,
-      "fav_mean": 1.8,
-      "fav_median": 0.5,
-      "comment_sum": 8,
-      "comment_mean": 1,
-      "fav_like_ratio": 0.5
-    },
     "answer": {
-      "n": 48,
-      "like_sum": 560,
-      "like_mean": 11.7,
-      "like_median": 6.0,
-      "fav_sum": 1421,
-      "fav_mean": 29.6,
-      "fav_median": 12.0,
-      "comment_sum": 31,
-      "comment_mean": 0.6,
+      "n": 50,
+      "like_sum": 601,
+      "like_mean": 12.0,
+      "like_median": 6.5,
+      "fav_sum": 1524,
+      "fav_mean": 30.5,
+      "fav_median": 12.5,
+      "comment_sum": 34,
+      "comment_mean": 0.7,
       "fav_like_ratio": 2.54
     },
     "article": {
-      "n": 53,
-      "like_sum": 521,
-      "like_mean": 9.8,
-      "like_median": 6,
-      "fav_sum": 1156,
-      "fav_mean": 21.8,
+      "n": 55,
+      "like_sum": 534,
+      "like_mean": 9.7,
+      "like_median": 7,
+      "fav_sum": 1194,
+      "fav_mean": 21.7,
       "fav_median": 12,
       "comment_sum": 61,
-      "comment_mean": 1.2,
-      "fav_like_ratio": 2.22
+      "comment_mean": 1.1,
+      "fav_like_ratio": 2.24
+    },
+    "pin": {
+      "n": 8,
+      "like_sum": 30,
+      "like_mean": 3.8,
+      "like_median": 1.0,
+      "fav_sum": 14,
+      "fav_mean": 1.8,
+      "fav_median": 0.5,
+      "comment_sum": 9,
+      "comment_mean": 1.1,
+      "fav_like_ratio": 0.47
     }
   },
   "top10_fav": [
@@ -202,6 +202,18 @@
     },
     {
       "rank": 3,
+      "title": "给 Zotero 装上 DeepSeek-V4-Flash",
+      "type": "文章",
+      "date": "2026-08",
+      "like": 13,
+      "fav": 92,
+      "comment": 0,
+      "url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
+      "cat": "工具教程",
+      "series": "Zotero 系列"
+    },
+    {
+      "rank": 4,
       "title": "文献精析|理论笔记 层群 the 80 Layer Groups：概念，特征及其与点群、平移群、空间群和平面群的关系",
       "type": "文章",
       "date": "2024-01",
@@ -213,7 +225,7 @@
       "series": "文献精读系列"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "计算工具 科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码",
       "type": "文章",
       "date": "2024-03",
@@ -223,18 +235,6 @@
       "url": "https://zhuanlan.zhihu.com/p/684716524",
       "cat": "工具教程",
       "series": "论文写作系列"
-    },
-    {
-      "rank": 5,
-      "title": "给 Zotero 装上 DeepSeek-V4-Flash",
-      "type": "文章",
-      "date": "2026-08",
-      "like": 12,
-      "fav": 86,
-      "comment": 0,
-      "url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
-      "cat": "工具教程",
-      "series": "Zotero 系列"
     },
     {
       "rank": 6,
@@ -274,6 +274,18 @@
     },
     {
       "rank": 9,
+      "title": "为什么人们如此关心激子（exciton）？",
+      "type": "回答",
+      "date": "2026-08",
+      "like": 34,
+      "fav": 58,
+      "comment": 0,
+      "url": "https://www.zhihu.com/answer/2066855083103590254",
+      "cat": "概念科普",
+      "series": null
+    },
+    {
+      "rank": 10,
       "title": "计算工具 科研绘图之 MatLab .fig 文件的存储、处理及利用",
       "type": "文章",
       "date": "2024-02",
@@ -283,18 +295,6 @@
       "url": "https://zhuanlan.zhihu.com/p/683973403",
       "cat": "工具教程",
       "series": "科研绘图系列"
-    },
-    {
-      "rank": 10,
-      "title": "为什么人们如此关心激子（exciton）？",
-      "type": "回答",
-      "date": "2026-08",
-      "like": 32,
-      "fav": 52,
-      "comment": 0,
-      "url": "https://www.zhihu.com/answer/2066855083103590254",
-      "cat": "概念科普",
-      "series": null
     }
   ],
   "top10_like": [
@@ -348,6 +348,18 @@
     },
     {
       "rank": 5,
+      "title": "为什么人们如此关心激子（exciton）？",
+      "type": "回答",
+      "date": "2026-08",
+      "like": 34,
+      "fav": 58,
+      "comment": 0,
+      "url": "https://www.zhihu.com/answer/2066855083103590254",
+      "cat": "概念科普",
+      "series": null
+    },
+    {
+      "rank": 6,
       "title": "如何理解Kagome格子中的flat band？",
       "type": "回答",
       "date": "2025-08",
@@ -357,18 +369,6 @@
       "url": "https://www.zhihu.com/answer/1935806686838367493",
       "cat": "概念科普",
       "series": "Kagome 系列"
-    },
-    {
-      "rank": 6,
-      "title": "为什么人们如此关心激子（exciton）？",
-      "type": "回答",
-      "date": "2026-08",
-      "like": 32,
-      "fav": 52,
-      "comment": 0,
-      "url": "https://www.zhihu.com/answer/2066855083103590254",
-      "cat": "概念科普",
-      "series": null
     },
     {
       "rank": 7,
@@ -387,9 +387,9 @@
       "title": "二维材料的应用前景？",
       "type": "回答",
       "date": "2025-08",
-      "like": 28,
+      "like": 30,
       "fav": 44,
-      "comment": 0,
+      "comment": 1,
       "url": "https://www.zhihu.com/answer/1940905944943944747",
       "cat": "其他/随笔",
       "series": null
@@ -422,51 +422,51 @@
   "by_cat": {
     "工具教程": {
       "n": 41,
-      "like_sum": 540,
+      "like_sum": 541,
       "like_mean": 13.2,
       "like_median": 5,
-      "fav_sum": 1403,
-      "fav_mean": 34.2,
+      "fav_sum": 1413,
+      "fav_mean": 34.5,
       "fav_median": 9,
       "comment_sum": 56,
       "comment_mean": 1.4,
-      "fav_like_ratio": 2.6
+      "fav_like_ratio": 2.61
     },
     "概念科普": {
-      "n": 38,
-      "like_sum": 369,
-      "like_mean": 9.7,
-      "like_median": 6.5,
-      "fav_sum": 808,
-      "fav_mean": 21.3,
-      "fav_median": 12.0,
+      "n": 40,
+      "like_sum": 398,
+      "like_mean": 9.9,
+      "like_median": 7.0,
+      "fav_sum": 870,
+      "fav_mean": 21.8,
+      "fav_median": 13.0,
       "comment_sum": 34,
-      "comment_mean": 0.9,
+      "comment_mean": 0.8,
       "fav_like_ratio": 2.19
     },
     "论文解读": {
       "n": 20,
-      "like_sum": 133,
-      "like_mean": 6.7,
-      "like_median": 5.0,
-      "fav_sum": 266,
-      "fav_mean": 13.3,
+      "like_sum": 140,
+      "like_mean": 7,
+      "like_median": 5.5,
+      "fav_sum": 300,
+      "fav_mean": 15,
       "fav_median": 11.5,
-      "comment_sum": 8,
-      "comment_mean": 0.4,
-      "fav_like_ratio": 2.0
+      "comment_sum": 9,
+      "comment_mean": 0.5,
+      "fav_like_ratio": 2.14
     },
     "其他/随笔": {
-      "n": 10,
-      "like_sum": 67,
-      "like_mean": 6.7,
-      "like_median": 4.5,
-      "fav_sum": 114,
-      "fav_mean": 11.4,
-      "fav_median": 6.5,
-      "comment_sum": 2,
-      "comment_mean": 0.2,
-      "fav_like_ratio": 1.7
+      "n": 12,
+      "like_sum": 86,
+      "like_mean": 7.2,
+      "like_median": 5.0,
+      "fav_sum": 149,
+      "fav_mean": 12.4,
+      "fav_median": 7.5,
+      "comment_sum": 5,
+      "comment_mean": 0.4,
+      "fav_like_ratio": 1.73
     }
   },
   "year_fav": {
@@ -477,26 +477,26 @@
     },
     "2024": {
       "n": 31,
-      "fav_sum": 1210,
+      "fav_sum": 1212,
       "like_sum": 469
     },
     "2025": {
       "n": 22,
-      "fav_sum": 380,
-      "like_sum": 192
+      "fav_sum": 382,
+      "like_sum": 195
     },
     "2026": {
-      "n": 46,
-      "fav_sum": 623,
-      "like_sum": 258
+      "n": 50,
+      "fav_sum": 760,
+      "like_sum": 311
     }
   },
   "top_ratio": [
     {
       "title": "给 Zotero 装上 DeepSeek-V4-Flash",
-      "fav": 86,
-      "like": 12,
-      "ratio": 7.17
+      "fav": 92,
+      "like": 13,
+      "ratio": 7.08
     },
     {
       "title": "理论笔记 原子单位 Atomic units 和分子动力学单",
@@ -505,88 +505,108 @@
       "ratio": 4.5
     },
     {
-      "title": "如何有针对地高效地阅读一篇学术论文？",
-      "fav": 22,
-      "like": 5,
-      "ratio": 4.4
-    },
-    {
       "title": "写论文常用的看起来逼格满满的词汇、句式都有哪些？",
-      "fav": 25,
+      "fav": 26,
       "like": 6,
-      "ratio": 4.17
+      "ratio": 4.33
     },
     {
       "title": "计算工具 科研论文写作之 pix2tex：将数学公式图片转化",
       "fav": 87,
       "like": 23,
       "ratio": 3.78
+    },
+    {
+      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "fav": 41,
+      "like": 11,
+      "ratio": 3.73
     }
   ],
   "recent90": {
-    "n": 44,
-    "like_sum": 255,
-    "like_mean": 5.8,
-    "like_median": 3.5,
-    "fav_sum": 601,
-    "fav_mean": 13.7,
-    "fav_median": 8.0,
-    "comment_sum": 12,
-    "comment_mean": 0.3,
-    "fav_like_ratio": 2.36
+    "n": 42,
+    "like_sum": 253,
+    "like_mean": 6.0,
+    "like_median": 3.0,
+    "fav_sum": 668,
+    "fav_mean": 15.9,
+    "fav_median": 9.0,
+    "comment_sum": 8,
+    "comment_mean": 0.2,
+    "fav_like_ratio": 2.64
   },
   "history": {
-    "n": 65,
-    "like_sum": 854,
-    "like_mean": 13.1,
-    "like_median": 6,
-    "fav_sum": 1990,
-    "fav_mean": 30.6,
+    "n": 71,
+    "like_sum": 912,
+    "like_mean": 12.8,
+    "like_median": 7,
+    "fav_sum": 2064,
+    "fav_mean": 29.1,
     "fav_median": 12,
-    "comment_sum": 88,
+    "comment_sum": 96,
     "comment_mean": 1.4,
-    "fav_like_ratio": 2.33
+    "fav_like_ratio": 2.26
   },
   "recent90_items": [
     {
       "title": "给 Zotero 装上 DeepSeek-V4-Flash",
       "type": "文章",
       "date": "2026-08-05",
-      "like": 12,
-      "fav": 86,
+      "like": 13,
+      "fav": 92,
       "cat": "工具教程",
       "series": "Zotero 系列",
-      "fav_day": 7.82
+      "fav_day": 5.11
     },
     {
       "title": "为什么人们如此关心激子（exciton）？",
       "type": "回答",
       "date": "2026-08-01",
-      "like": 32,
-      "fav": 52,
+      "like": 34,
+      "fav": 58,
       "cat": "概念科普",
       "series": null,
-      "fav_day": 3.47
+      "fav_day": 2.64
     },
     {
       "title": "WannSymm 安装与使用教程",
       "type": "文章",
       "date": "2026-05-27",
       "like": 16,
-      "fav": 46,
+      "fav": 49,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.57
+      "fav_day": 0.56
     },
     {
       "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
       "type": "文章",
       "date": "2026-08-06",
-      "like": 18,
-      "fav": 40,
+      "like": 19,
+      "fav": 43,
       "cat": "论文解读",
       "series": "铁电系列",
-      "fav_day": 4.0
+      "fav_day": 2.53
+    },
+    {
+      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "type": "回答",
+      "date": "2026-08-14",
+      "like": 11,
+      "fav": 41,
+      "cat": "论文解读",
+      "series": null,
+      "fav_day": 4.56
+    },
+    {
+      "title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
+      "type": "回答",
+      "date": "2026-08-12",
+      "like": 20,
+      "fav": 40,
+      "cat": "概念科普",
+      "series": null,
+      "fav_day": 3.64
     },
     {
       "title": "如何看待2026年7月31日发布的deepseek v4-flash更新？",
@@ -596,57 +616,47 @@
       "fav": 35,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 3.18
-    },
-    {
-      "title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
-      "type": "回答",
-      "date": "2026-08-12",
-      "like": 15,
-      "fav": 32,
-      "cat": "概念科普",
-      "series": null,
-      "fav_day": 8.0
+      "fav_day": 1.94
     },
     {
       "title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
       "type": "文章",
       "date": "2026-08-07",
       "like": 12,
-      "fav": 28,
+      "fav": 29,
       "cat": "论文解读",
       "series": "Skyrmion 系列",
-      "fav_day": 3.11
-    },
-    {
-      "title": "我开源了一个极简个人学术主页模板",
-      "type": "文章",
-      "date": "2026-05-25",
-      "like": 23,
-      "fav": 28,
-      "cat": "工具教程",
-      "series": null,
-      "fav_day": 0.34
+      "fav_day": 1.81
     },
     {
       "title": "什么是 skyrmion？",
       "type": "回答",
       "date": "2026-08-07",
       "like": 10,
-      "fav": 23,
+      "fav": 27,
       "cat": "论文解读",
       "series": "Skyrmion 系列",
-      "fav_day": 2.56
+      "fav_day": 1.69
     },
     {
-      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "title": "二维磁性材料有哪些可以研究的方向？",
       "type": "回答",
-      "date": "2026-08-14",
-      "like": 5,
-      "fav": 22,
-      "cat": "论文解读",
+      "date": "2026-08-20",
+      "like": 7,
+      "fav": 24,
+      "cat": "其他/随笔",
       "series": null,
-      "fav_day": 11.0
+      "fav_day": 8.0
+    },
+    {
+      "title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
+      "type": "回答",
+      "date": "2026-08-16",
+      "like": 8,
+      "fav": 23,
+      "cat": "概念科普",
+      "series": null,
+      "fav_day": 3.29
     },
     {
       "title": "算滑移铁电翻转怎么找顺电相和铁电相?",
@@ -656,37 +666,67 @@
       "fav": 20,
       "cat": "其他/随笔",
       "series": "铁电系列",
-      "fav_day": 1.33
+      "fav_day": 0.91
+    },
+    {
+      "title": "位移电流的公式？",
+      "type": "回答",
+      "date": "2026-08-19",
+      "like": 8,
+      "fav": 18,
+      "cat": "概念科普",
+      "series": null,
+      "fav_day": 4.5
     },
     {
       "title": "把磁性 Skyrmion 家族做成一个可交互的纹理图鉴",
       "type": "文章",
       "date": "2026-08-09",
       "like": 10,
-      "fav": 17,
+      "fav": 18,
       "cat": "论文解读",
       "series": "Skyrmion 系列",
-      "fav_day": 2.43
-    },
-    {
-      "title": "交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂",
-      "type": "文章",
-      "date": "2026-08-12",
-      "like": 5,
-      "fav": 16,
-      "cat": "概念科普",
-      "series": null,
-      "fav_day": 4.0
+      "fav_day": 1.29
     },
     {
       "title": "交错磁材料怎么找：AMDB & amcheck",
       "type": "文章",
       "date": "2026-08-13",
-      "like": 7,
-      "fav": 13,
+      "like": 9,
+      "fav": 16,
       "cat": "概念科普",
       "series": null,
-      "fav_day": 4.33
+      "fav_day": 1.6
+    },
+    {
+      "title": "交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂",
+      "type": "文章",
+      "date": "2026-08-12",
+      "like": 7,
+      "fav": 16,
+      "cat": "概念科普",
+      "series": null,
+      "fav_day": 1.45
+    },
+    {
+      "title": "Research Note：单层 SnS 的紧束缚模型 arXiv",
+      "type": "文章",
+      "date": "2026-07-29",
+      "like": 5,
+      "fav": 14,
+      "cat": "论文解读",
+      "series": "文献精读系列",
+      "fav_day": 0.56
+    },
+    {
+      "title": "二维材料？",
+      "type": "回答",
+      "date": "2026-08-15",
+      "like": 11,
+      "fav": 13,
+      "cat": "其他/随笔",
+      "series": null,
+      "fav_day": 1.62
     },
     {
       "title": "有哪些你觉得课堂上用起来很牛的科学可视化资源？",
@@ -696,17 +736,7 @@
       "fav": 13,
       "cat": "论文解读",
       "series": null,
-      "fav_day": 1.86
-    },
-    {
-      "title": "Research Note：单层 SnS 的紧束缚模型 arXiv",
-      "type": "文章",
-      "date": "2026-07-29",
-      "like": 5,
-      "fav": 13,
-      "cat": "论文解读",
-      "series": "文献精读系列",
-      "fav_day": 0.72
+      "fav_day": 0.93
     },
     {
       "title": "macOS有哪些有趣或者高效的命令行工具？",
@@ -716,107 +746,57 @@
       "fav": 11,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.19
+      "fav_day": 0.17
     },
     {
-      "title": "为什么微信读书这么良心？",
-      "type": "回答",
-      "date": "2026-05-23",
-      "like": 9,
-      "fav": 11,
-      "cat": "概念科普",
-      "series": null,
-      "fav_day": 0.13
-    },
-    {
-      "title": "二维材料？",
-      "type": "回答",
-      "date": "2026-08-15",
-      "like": 7,
-      "fav": 10,
-      "cat": "其他/随笔",
-      "series": null,
-      "fav_day": 10.0
-    },
-    {
-      "title": "多层堆叠铁电：当“层数”也成为二维材料的设计自由度",
+      "title": "四类体光伏效应的物理图像：从光偏振到量子几何",
       "type": "文章",
-      "date": "2026-05-21",
-      "like": 10,
-      "fav": 10,
-      "cat": "其他/随笔",
-      "series": "铁电系列",
-      "fav_day": 0.11
-    },
-    {
-      "title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
-      "type": "回答",
-      "date": "2026-08-16",
+      "date": "2026-08-19",
       "like": 1,
-      "fav": 8,
+      "fav": 9,
       "cat": "概念科普",
       "series": null,
-      "fav_day": 8.0
+      "fav_day": 2.25
     },
     {
       "title": "目前在材料科学方面有什么比较好的数据库？",
       "type": "回答",
       "date": "2026-08-13",
       "like": 2,
-      "fav": 8,
+      "fav": 9,
       "cat": "概念科普",
       "series": null,
-      "fav_day": 2.67
-    },
-    {
-      "title": "为什么二维铁电材料很稀少？",
-      "type": "回答",
-      "date": "2026-05-21",
-      "like": 5,
-      "fav": 8,
-      "cat": "概念科普",
-      "series": "铁电系列",
-      "fav_day": 0.09
-    },
-    {
-      "title": "怎么建立学术风格的个人主页？",
-      "type": "回答",
-      "date": "2026-05-25",
-      "like": 4,
-      "fav": 7,
-      "cat": "工具教程",
-      "series": null,
-      "fav_day": 0.08
-    },
-    {
-      "title": "论文太多，我做了一个 Agent 来决定“今天该看哪几篇”",
-      "type": "文章",
-      "date": "2026-08-14",
-      "like": 1,
-      "fav": 6,
-      "cat": "论文解读",
-      "series": null,
-      "fav_day": 3.0
-    },
-    {
-      "title": "weread-calendar：本地运行的阅读复盘工具",
-      "type": "文章",
-      "date": "2026-05-23",
-      "like": 3,
-      "fav": 6,
-      "cat": "工具教程",
-      "series": null,
-      "fav_day": 0.07
+      "fav_day": 0.9
     },
     {
       "title": "二维层状材料？",
       "type": "回答",
       "date": "2026-08-11",
       "like": 4,
-      "fav": 5,
+      "fav": 8,
       "cat": "论文解读",
       "series": null,
-      "fav_day": 1.0
+      "fav_day": 0.67
+    },
+    {
+      "title": "论文太多，我做了一个 Agent 来决定“今天该看哪几篇”",
+      "type": "文章",
+      "date": "2026-08-14",
+      "like": 1,
+      "fav": 7,
+      "cat": "论文解读",
+      "series": null,
+      "fav_day": 0.78
+    },
+    {
+      "title": "交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current",
+      "type": "文章",
+      "date": "2026-08-20",
+      "like": 1,
+      "fav": 5,
+      "cat": "其他/随笔",
+      "series": null,
+      "fav_day": 1.67
     },
     {
       "title": "铁电统一定义（预印本 Unified definition of ferroelectricity）",
@@ -826,7 +806,7 @@
       "fav": 5,
       "cat": "论文解读",
       "series": "铁电系列",
-      "fav_day": 0.62
+      "fav_day": 0.33
     },
     {
       "title": "铁电材料这一定义的由来？",
@@ -836,17 +816,27 @@
       "fav": 5,
       "cat": "概念科普",
       "series": "铁电系列",
-      "fav_day": 0.5
+      "fav_day": 0.29
     },
     {
       "title": "什么是“电偶极近似”？从一束光照进晶体说起",
       "type": "文章",
       "date": "2026-08-16",
-      "like": 1,
+      "like": 2,
       "fav": 3,
       "cat": "概念科普",
       "series": null,
-      "fav_day": 3.0
+      "fav_day": 0.43
+    },
+    {
+      "title": "内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路",
+      "type": "文章",
+      "date": "2026-08-15",
+      "like": 2,
+      "fav": 3,
+      "cat": "其他/随笔",
+      "series": "铁电系列",
+      "fav_day": 0.38
     },
     {
       "title": "把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态",
@@ -856,7 +846,7 @@
       "fav": 3,
       "cat": "论文解读",
       "series": "铁电系列",
-      "fav_day": 0.6
+      "fav_day": 0.25
     },
     {
       "title": "用 Zhihu CLI 把知乎账号做成了一套自动化系统：5 个真实工具 & 可复现演示",
@@ -866,7 +856,7 @@
       "fav": 3,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.5
+      "fav_day": 0.23
     },
     {
       "title": "NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合",
@@ -876,7 +866,7 @@
       "fav": 3,
       "cat": "其他/随笔",
       "series": "铁电系列",
-      "fav_day": 0.2
+      "fav_day": 0.14
     },
     {
       "title": "OpenCode 接入 DeepSeek V4 Flash 配置指南",
@@ -886,7 +876,7 @@
       "fav": 2,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.18
+      "fav_day": 0.11
     },
     {
       "title": "如何评价DeepSeek-V4 Flash 正式版，有哪些亮点？",
@@ -896,7 +886,7 @@
       "fav": 1,
       "cat": "工具教程",
       "series": null,
-      "fav_day": 0.09
+      "fav_day": 0.06
     },
     {
       "title": "暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2",
@@ -906,7 +896,7 @@
       "fav": 1,
       "cat": "论文解读",
       "series": "铁电系列",
-      "fav_day": 0.07
+      "fav_day": 0.05
     },
     {
       "title": "用 Mole 清理 Mac：命令行新手也能上手的一次记录",
@@ -922,20 +912,10 @@
       "title": "收到录取通知书了，简单纪念一下",
       "type": "想法",
       "date": "2026-08-16",
-      "like": 1,
+      "like": 3,
       "fav": 0,
       "cat": "其他/随笔",
       "series": null,
-      "fav_day": 0.0
-    },
-    {
-      "title": "内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路",
-      "type": "文章",
-      "date": "2026-08-15",
-      "like": 0,
-      "fav": 0,
-      "cat": "其他/随笔",
-      "series": "铁电系列",
       "fav_day": 0.0
     },
     {
@@ -993,18 +973,18 @@
     {
       "name": "Zotero 系列",
       "n": 3,
-      "like_sum": 186,
-      "like_mean": 62,
+      "like_sum": 187,
+      "like_mean": 62.3,
       "like_median": 23,
-      "fav_sum": 644,
-      "fav_mean": 214.7,
-      "fav_median": 86,
+      "fav_sum": 650,
+      "fav_mean": 216.7,
+      "fav_median": 92,
       "comment_sum": 21,
       "comment_mean": 7,
-      "fav_like_ratio": 3.46,
+      "fav_like_ratio": 3.48,
       "first": "2024-07",
       "last": "2026-08",
-      "days_since_last": 11,
+      "days_since_last": 18,
       "top": "有哪些好用的zotero插件?"
     },
     {
@@ -1021,7 +1001,7 @@
       "fav_like_ratio": 2.16,
       "first": "2023-12",
       "last": "2024-02",
-      "days_since_last": 901,
+      "days_since_last": 908,
       "top": "计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较"
     },
     {
@@ -1038,7 +1018,7 @@
       "fav_like_ratio": 2.46,
       "first": "2023-11",
       "last": "2025-11",
-      "days_since_last": 269,
+      "days_since_last": 276,
       "top": "理论笔记 群论chapter 2: 群表示理论完整解题手稿"
     },
     {
@@ -1055,7 +1035,7 @@
       "fav_like_ratio": 2.43,
       "first": "2023-12",
       "last": "2026-05",
-      "days_since_last": 92,
+      "days_since_last": 99,
       "top": "能不能通俗地讲解一下晶体、点阵、点群、空间群之间的关系？它们的区别与联系？"
     },
     {
@@ -1064,32 +1044,32 @@
       "like_sum": 96,
       "like_mean": 13.7,
       "like_median": 7,
-      "fav_sum": 168,
-      "fav_mean": 24,
+      "fav_sum": 169,
+      "fav_mean": 24.1,
       "fav_median": 11,
       "comment_sum": 17,
       "comment_mean": 2.4,
-      "fav_like_ratio": 1.75,
+      "fav_like_ratio": 1.76,
       "first": "2023-09",
       "last": "2026-07",
-      "days_since_last": 18,
+      "days_since_last": 25,
       "top": "文献精析|理论笔记 层群 the 80 Layer Groups：概念，特征及其与点群、平移群、空间群和平面群的关系"
     },
     {
       "name": "铁电系列",
       "n": 12,
-      "like_sum": 73,
-      "like_mean": 6.1,
+      "like_sum": 77,
+      "like_mean": 6.4,
       "like_median": 3.0,
-      "fav_sum": 154,
-      "fav_mean": 12.8,
+      "fav_sum": 160,
+      "fav_mean": 13.3,
       "fav_median": 6.5,
       "comment_sum": 11,
       "comment_mean": 0.9,
-      "fav_like_ratio": 2.11,
+      "fav_like_ratio": 2.08,
       "first": "2023-12",
       "last": "2026-08",
-      "days_since_last": 1,
+      "days_since_last": 8,
       "top": "铁电材料体光伏效应的shift current应该怎么理解？"
     },
     {
@@ -1098,33 +1078,16 @@
       "like_sum": 33,
       "like_mean": 8.2,
       "like_median": 4.0,
-      "fav_sum": 117,
-      "fav_mean": 29.2,
-      "fav_median": 12.5,
+      "fav_sum": 118,
+      "fav_mean": 29.5,
+      "fav_median": 13.0,
       "comment_sum": 3,
       "comment_mean": 0.8,
-      "fav_like_ratio": 3.55,
+      "fav_like_ratio": 3.58,
       "first": "2024-03",
       "last": "2025-03",
-      "days_since_last": 509,
+      "days_since_last": 516,
       "top": "计算工具 科研论文写作之 pix2tex：将数学公式图片转化为 LaTeX 代码"
-    },
-    {
-      "name": "Kagome 系列",
-      "n": 2,
-      "like_sum": 40,
-      "like_mean": 20,
-      "like_median": 20.0,
-      "fav_sum": 73,
-      "fav_mean": 36.5,
-      "fav_median": 36.5,
-      "comment_sum": 5,
-      "comment_mean": 2.5,
-      "fav_like_ratio": 1.82,
-      "first": "2025-08",
-      "last": "2025-08",
-      "days_since_last": 376,
-      "top": "如何理解Kagome格子中的flat band？"
     },
     {
       "name": "Skyrmion 系列",
@@ -1132,298 +1095,310 @@
       "like_sum": 32,
       "like_mean": 8,
       "like_median": 10.0,
-      "fav_sum": 68,
-      "fav_mean": 17,
-      "fav_median": 20.0,
+      "fav_sum": 74,
+      "fav_mean": 18.5,
+      "fav_median": 22.5,
       "comment_sum": 1,
       "comment_mean": 0.2,
-      "fav_like_ratio": 2.12,
+      "fav_like_ratio": 2.31,
       "first": "2026-08",
       "last": "2026-08",
-      "days_since_last": 7,
+      "days_since_last": 14,
       "top": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion"
+    },
+    {
+      "name": "Kagome 系列",
+      "n": 2,
+      "like_sum": 41,
+      "like_mean": 20.5,
+      "like_median": 20.5,
+      "fav_sum": 74,
+      "fav_mean": 37,
+      "fav_median": 37.0,
+      "comment_sum": 5,
+      "comment_mean": 2.5,
+      "fav_like_ratio": 1.8,
+      "first": "2025-08",
+      "last": "2025-08",
+      "days_since_last": 383,
+      "top": "如何理解Kagome格子中的flat band？"
     }
   ],
   "series_cover": {
     "covered": 55,
-    "covered_pct": 50.5
+    "covered_pct": 48.7
   },
   "longtail": {
     "old_count": 41,
-    "old_fav": 1588,
-    "old_fav_share": 61.3,
+    "old_fav": 1590,
+    "old_fav_share": 58.2,
     "top10_old": 7
   },
   "concentration": {
-    "top1_share": 20.0,
-    "top10_share": 45.8,
-    "top20pct_share": 65.7,
-    "top20pct_n": 22,
-    "zero_items": 5
+    "top1_share": 19.0,
+    "top10_share": 43.9,
+    "top20pct_share": 64.6,
+    "top20pct_n": 23,
+    "zero_items": 4
   },
   "rising": [
     {
-      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "title": "二维磁性材料有哪些可以研究的方向？",
       "type": "回答",
-      "date": "2026-08-14",
-      "like": 5,
-      "fav": 22,
-      "fav_day": 11.0,
-      "age_days": 2
-    },
-    {
-      "title": "二维材料？",
-      "type": "回答",
-      "date": "2026-08-15",
+      "date": "2026-08-20",
       "like": 7,
-      "fav": 10,
-      "fav_day": 10.0,
-      "age_days": 1
-    },
-    {
-      "title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
-      "type": "回答",
-      "date": "2026-08-16",
-      "like": 1,
-      "fav": 8,
+      "fav": 24,
       "fav_day": 8.0,
-      "age_days": 0
-    },
-    {
-      "title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
-      "type": "回答",
-      "date": "2026-08-12",
-      "like": 15,
-      "fav": 32,
-      "fav_day": 8.0,
-      "age_days": 4
+      "age_days": 3
     },
     {
       "title": "给 Zotero 装上 DeepSeek-V4-Flash",
       "type": "文章",
       "date": "2026-08-05",
-      "like": 12,
-      "fav": 86,
-      "fav_day": 7.82,
+      "like": 13,
+      "fav": 92,
+      "fav_day": 5.11,
+      "age_days": 18
+    },
+    {
+      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "type": "回答",
+      "date": "2026-08-14",
+      "like": 11,
+      "fav": 41,
+      "fav_day": 4.56,
+      "age_days": 9
+    },
+    {
+      "title": "位移电流的公式？",
+      "type": "回答",
+      "date": "2026-08-19",
+      "like": 8,
+      "fav": 18,
+      "fav_day": 4.5,
+      "age_days": 4
+    },
+    {
+      "title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
+      "type": "回答",
+      "date": "2026-08-12",
+      "like": 20,
+      "fav": 40,
+      "fav_day": 3.64,
       "age_days": 11
     },
     {
-      "title": "交错磁材料怎么找：AMDB & amcheck",
-      "type": "文章",
-      "date": "2026-08-13",
-      "like": 7,
-      "fav": 13,
-      "fav_day": 4.33,
-      "age_days": 3
+      "title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
+      "type": "回答",
+      "date": "2026-08-16",
+      "like": 8,
+      "fav": 23,
+      "fav_day": 3.29,
+      "age_days": 7
     },
     {
-      "title": "交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂",
-      "type": "文章",
-      "date": "2026-08-12",
-      "like": 5,
-      "fav": 16,
-      "fav_day": 4.0,
-      "age_days": 4
+      "title": "为什么人们如此关心激子（exciton）？",
+      "type": "回答",
+      "date": "2026-08-01",
+      "like": 34,
+      "fav": 58,
+      "fav_day": 2.64,
+      "age_days": 22
     },
     {
       "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
       "type": "文章",
       "date": "2026-08-06",
-      "like": 18,
-      "fav": 40,
-      "fav_day": 4.0,
-      "age_days": 10
+      "like": 19,
+      "fav": 43,
+      "fav_day": 2.53,
+      "age_days": 17
     }
   ],
   "weekday": [
     {
       "weekday": "周一",
       "n": 20,
-      "fav_mean": 24.6,
-      "like_mean": 13.3
+      "fav_mean": 24.7,
+      "like_mean": 13.4
     },
     {
       "weekday": "周二",
       "n": 12,
-      "fav_mean": 17.42,
-      "like_mean": 7.17
+      "fav_mean": 17.75,
+      "like_mean": 7.25
     },
     {
       "weekday": "周三",
-      "n": 21,
-      "fav_mean": 21.71,
-      "like_mean": 8.33
+      "n": 23,
+      "fav_mean": 21.78,
+      "like_mean": 8.35
     },
     {
       "weekday": "周四",
-      "n": 11,
-      "fav_mean": 15.55,
-      "like_mean": 7.45
+      "n": 13,
+      "fav_mean": 16.0,
+      "like_mean": 7.23
     },
     {
       "weekday": "周五",
       "n": 14,
-      "fav_mean": 17.29,
-      "like_mean": 8.07
+      "fav_mean": 19.07,
+      "like_mean": 8.5
     },
     {
       "weekday": "周六",
       "n": 19,
-      "fav_mean": 39.68,
-      "like_mean": 14.16
+      "fav_mean": 40.32,
+      "like_mean": 14.58
     },
     {
       "weekday": "周日",
       "n": 12,
-      "fav_mean": 22.25,
-      "like_mean": 9.83
+      "fav_mean": 23.58,
+      "like_mean": 10.67
     }
   ],
   "title_len": [
     {
       "bin": "≤14 字",
-      "n": 16,
-      "like_sum": 117,
-      "like_mean": 7.3,
-      "like_median": 6.0,
-      "fav_sum": 249,
-      "fav_mean": 15.6,
-      "fav_median": 11.5,
-      "comment_sum": 4,
-      "comment_mean": 0.2,
-      "fav_like_ratio": 2.13
+      "n": 17,
+      "like_sum": 131,
+      "like_mean": 7.7,
+      "like_median": 7,
+      "fav_sum": 278,
+      "fav_mean": 16.4,
+      "fav_median": 13,
+      "comment_sum": 5,
+      "comment_mean": 0.3,
+      "fav_like_ratio": 2.12
     },
     {
       "bin": "15–24 字",
-      "n": 34,
-      "like_sum": 421,
+      "n": 36,
+      "like_sum": 447,
       "like_mean": 12.4,
-      "like_median": 5.5,
-      "fav_sum": 1050,
-      "fav_mean": 30.9,
+      "like_median": 6.0,
+      "fav_sum": 1125,
+      "fav_mean": 31.2,
       "fav_median": 10.5,
-      "comment_sum": 30,
+      "comment_sum": 33,
       "comment_mean": 0.9,
-      "fav_like_ratio": 2.49
+      "fav_like_ratio": 2.52
     },
     {
       "bin": "25–34 字",
       "n": 30,
-      "like_sum": 242,
-      "like_mean": 8.1,
-      "like_median": 5.0,
-      "fav_sum": 560,
-      "fav_mean": 18.7,
-      "fav_median": 11.5,
+      "like_sum": 255,
+      "like_mean": 8.5,
+      "like_median": 5.5,
+      "fav_sum": 587,
+      "fav_mean": 19.6,
+      "fav_median": 12.0,
       "comment_sum": 27,
       "comment_mean": 0.9,
-      "fav_like_ratio": 2.31
+      "fav_like_ratio": 2.3
     },
     {
       "bin": "≥35 字",
-      "n": 29,
-      "like_sum": 329,
-      "like_mean": 11.3,
-      "like_median": 7,
-      "fav_sum": 732,
-      "fav_mean": 25.2,
-      "fav_median": 11,
+      "n": 30,
+      "like_sum": 332,
+      "like_mean": 11.1,
+      "like_median": 7.0,
+      "fav_sum": 742,
+      "fav_mean": 24.7,
+      "fav_median": 10.5,
       "comment_sum": 39,
       "comment_mean": 1.3,
-      "fav_like_ratio": 2.22
+      "fav_like_ratio": 2.23
     }
   ],
   "snapshot_info": {
-    "snapshots": 3,
+    "snapshots": 4,
     "first": "2026-08-08",
-    "last": "2026-08-17",
+    "last": "2026-08-24",
     "delta_items": [
       {
-        "url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
-        "fav": 25,
-        "like": 3,
+        "url": "https://www.zhihu.com/answer/2071582652184975249",
+        "fav": 19,
+        "like": 6,
+        "comment": 1
+      },
+      {
+        "url": "https://www.zhihu.com/answer/2072265084265665825",
+        "fav": 15,
+        "like": 7,
         "comment": 0
       },
       {
-        "url": "https://zhuanlan.zhihu.com/p/2069027257536999823",
-        "fav": 12,
-        "like": 4,
-        "comment": 0
-      },
-      {
-        "url": "https://www.zhihu.com/answer/2069027849219184331",
-        "fav": 9,
+        "url": "https://www.zhihu.com/answer/2070819854018417107",
+        "fav": 8,
         "like": 5,
         "comment": 0
       },
       {
-        "url": "https://zhuanlan.zhihu.com/p/2069141836590069454",
-        "fav": 8,
-        "like": 4,
-        "comment": 1
-      },
-      {
-        "url": "https://www.zhihu.com/answer/2069720587006644689",
-        "fav": 7,
-        "like": 2,
-        "comment": 0
-      },
-      {
-        "url": "https://zhuanlan.zhihu.com/p/2068673956043821125",
-        "fav": 5,
+        "url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
+        "fav": 6,
         "like": 1,
         "comment": 0
       },
       {
         "url": "https://www.zhihu.com/answer/2066855083103590254",
-        "fav": 5,
-        "like": 3,
+        "fav": 6,
+        "like": 2,
         "comment": 0
       },
       {
-        "url": "https://zhuanlan.zhihu.com/p/2069720698508010276",
+        "url": "https://www.zhihu.com/answer/2069027849219184331",
+        "fav": 4,
+        "like": 0,
+        "comment": 0
+      },
+      {
+        "url": "https://www.zhihu.com/answer/2071917522409072113",
+        "fav": 3,
+        "like": 4,
+        "comment": 0
+      },
+      {
+        "url": "https://zhuanlan.zhihu.com/p/2069471818356887667",
+        "fav": 3,
+        "like": 2,
+        "comment": 0
+      },
+      {
+        "url": "https://zhuanlan.zhihu.com/p/2070959181562114846",
+        "fav": 3,
+        "like": 2,
+        "comment": 0
+      },
+      {
+        "url": "https://www.zhihu.com/answer/2070432734179226298",
         "fav": 3,
         "like": 0,
-        "comment": 1
-      },
-      {
-        "url": "https://www.zhihu.com/answer/2066974795988832695",
-        "fav": 2,
-        "like": 0,
-        "comment": 0
-      },
-      {
-        "url": "https://zhuanlan.zhihu.com/p/2066974338855843093",
-        "fav": 1,
-        "like": 2,
         "comment": 0
       }
     ]
   },
   "matrix": {
     "其他/随笔": {
+      "answer": {
+        "n": 5,
+        "fav_mean": 20.2,
+        "fav_sum": 101
+      },
+      "article": {
+        "n": 6,
+        "fav_mean": 8.0,
+        "fav_sum": 48
+      },
       "pin": {
         "n": 1,
         "fav_mean": 0.0,
         "fav_sum": 0
-      },
-      "answer": {
-        "n": 4,
-        "fav_mean": 18.5,
-        "fav_sum": 74
-      },
-      "article": {
-        "n": 5,
-        "fav_mean": 8.0,
-        "fav_sum": 40
       }
     },
     "工具教程": {
-      "pin": {
-        "n": 4,
-        "fav_mean": 2.2,
-        "fav_sum": 9
-      },
       "answer": {
         "n": 16,
         "fav_mean": 46.4,
@@ -1431,42 +1406,47 @@
       },
       "article": {
         "n": 21,
-        "fav_mean": 31.0,
-        "fav_sum": 651
+        "fav_mean": 31.5,
+        "fav_sum": 661
+      },
+      "pin": {
+        "n": 4,
+        "fav_mean": 2.2,
+        "fav_sum": 9
       }
     },
     "概念科普": {
+      "answer": {
+        "n": 23,
+        "fav_mean": 24.0,
+        "fav_sum": 553
+      },
+      "article": {
+        "n": 17,
+        "fav_mean": 18.6,
+        "fav_sum": 317
+      },
       "pin": {
         "n": 0,
         "fav_mean": 0,
         "fav_sum": 0
-      },
-      "answer": {
-        "n": 22,
-        "fav_mean": 22.9,
-        "fav_sum": 504
-      },
-      "article": {
-        "n": 16,
-        "fav_mean": 19.0,
-        "fav_sum": 304
       }
     },
     "论文解读": {
+      "answer": {
+        "n": 6,
+        "fav_mean": 21.2,
+        "fav_sum": 127
+      },
+      "article": {
+        "n": 11,
+        "fav_mean": 15.3,
+        "fav_sum": 168
+      },
       "pin": {
         "n": 3,
         "fav_mean": 1.7,
         "fav_sum": 5
-      },
-      "answer": {
-        "n": 6,
-        "fav_mean": 16.7,
-        "fav_sum": 100
-      },
-      "article": {
-        "n": 11,
-        "fav_mean": 14.6,
-        "fav_sum": 161
       }
     }
   },
@@ -1484,7 +1464,7 @@
       "date": "2024-07",
       "like": 151,
       "fav": 519,
-      "age_days": 750,
+      "age_days": 757,
       "series": "Zotero 系列",
       "cat": "工具教程"
     },
@@ -1494,7 +1474,7 @@
       "date": "2023-12",
       "like": 61,
       "fav": 106,
-      "age_days": 986,
+      "age_days": 993,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1504,7 +1484,7 @@
       "date": "2024-01",
       "like": 36,
       "fav": 92,
-      "age_days": 938,
+      "age_days": 945,
       "series": "文献精读系列",
       "cat": "概念科普"
     },
@@ -1514,7 +1494,7 @@
       "date": "2024-03",
       "like": 23,
       "fav": 87,
-      "age_days": 898,
+      "age_days": 905,
       "series": "论文写作系列",
       "cat": "工具教程"
     },
@@ -1524,7 +1504,7 @@
       "date": "2023-12",
       "like": 19,
       "fav": 68,
-      "age_days": 986,
+      "age_days": 993,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1534,7 +1514,7 @@
       "date": "2025-08",
       "like": 34,
       "fav": 62,
-      "age_days": 377,
+      "age_days": 384,
       "series": "Kagome 系列",
       "cat": "概念科普"
     },
@@ -1544,7 +1524,7 @@
       "date": "2024-02",
       "like": 36,
       "fav": 61,
-      "age_days": 924,
+      "age_days": 931,
       "series": "群论系列",
       "cat": "概念科普"
     },
@@ -1554,7 +1534,7 @@
       "date": "2024-02",
       "like": 28,
       "fav": 53,
-      "age_days": 901,
+      "age_days": 908,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1564,7 +1544,7 @@
       "date": "2024-01",
       "like": 21,
       "fav": 52,
-      "age_days": 949,
+      "age_days": 956,
       "series": "科研绘图系列",
       "cat": "工具教程"
     },
@@ -1574,9 +1554,19 @@
       "date": "2023-12",
       "like": 25,
       "fav": 51,
-      "age_days": 984,
+      "age_days": 991,
       "series": "铁电系列",
       "cat": "概念科普"
+    },
+    {
+      "title": "二维材料的应用前景？",
+      "type": "回答",
+      "date": "2025-08",
+      "like": 30,
+      "fav": 44,
+      "age_days": 370,
+      "series": null,
+      "cat": "其他/随笔"
     },
     {
       "title": "matlab如何提取自己想要的数据？",
@@ -1584,7 +1574,7 @@
       "date": "2024-02",
       "like": 14,
       "fav": 44,
-      "age_days": 901,
+      "age_days": 908,
       "series": null,
       "cat": "工具教程"
     },
@@ -1594,7 +1584,7 @@
       "date": "2024-01",
       "like": 12,
       "fav": 44,
-      "age_days": 938,
+      "age_days": 945,
       "series": "群论系列",
       "cat": "概念科普"
     },
@@ -1604,7 +1594,7 @@
       "date": "2025-08",
       "like": 14,
       "fav": 41,
-      "age_days": 375,
+      "age_days": 382,
       "series": "群论系列",
       "cat": "概念科普"
     },
@@ -1614,7 +1604,7 @@
       "date": "2023-09",
       "like": 23,
       "fav": 41,
-      "age_days": 1056,
+      "age_days": 1063,
       "series": null,
       "cat": "工具教程"
     },
@@ -1624,7 +1614,7 @@
       "date": "2025-08",
       "like": 15,
       "fav": 39,
-      "age_days": 366,
+      "age_days": 373,
       "series": "理论笔记系列",
       "cat": "概念科普"
     },
@@ -1634,7 +1624,7 @@
       "date": "2024-07",
       "like": 23,
       "fav": 39,
-      "age_days": 750,
+      "age_days": 757,
       "series": "Zotero 系列",
       "cat": "工具教程"
     },
@@ -1644,7 +1634,7 @@
       "date": "2023-09",
       "like": 31,
       "fav": 36,
-      "age_days": 1063,
+      "age_days": 1070,
       "series": "文献精读系列",
       "cat": "论文解读"
     },
@@ -1654,7 +1644,7 @@
       "date": "2024-12",
       "like": 10,
       "fav": 32,
-      "age_days": 607,
+      "age_days": 614,
       "series": "理论笔记系列",
       "cat": "概念科普"
     },
@@ -1664,7 +1654,7 @@
       "date": "2024-12",
       "like": 9,
       "fav": 30,
-      "age_days": 607,
+      "age_days": 614,
       "series": null,
       "cat": "工具教程"
     }
@@ -1673,23 +1663,23 @@
     "head": {
       "n": 10,
       "label": "头部（Top 10）",
-      "fav_sum": 1186,
-      "fav_mean": 118.6,
-      "like_mean": 43.2
+      "fav_sum": 1198,
+      "fav_mean": 119.8,
+      "like_mean": 43.5
     },
     "mid": {
       "n": 20,
       "label": "腰部（11–30 名）",
-      "fav_sum": 757,
-      "fav_mean": 37.9,
-      "like_mean": 17.2
+      "fav_sum": 787,
+      "fav_mean": 39.4,
+      "like_mean": 17.6
     },
     "tail": {
-      "n": 79,
+      "n": 83,
       "label": "长尾（31 名及以后）",
-      "fav_sum": 648,
-      "fav_mean": 8.2,
-      "like_mean": 4.2
+      "fav_sum": 747,
+      "fav_mean": 9.0,
+      "like_mean": 4.6
     }
   },
   "mid_list": [
@@ -1714,14 +1704,14 @@
       "type": "文章",
       "date": "2026-05",
       "like": 16,
-      "fav": 46,
+      "fav": 49,
       "series": null
     },
     {
       "title": "二维材料的应用前景？",
       "type": "回答",
       "date": "2025-08",
-      "like": 28,
+      "like": 30,
       "fav": 44,
       "series": null
     },
@@ -1742,6 +1732,22 @@
       "series": "群论系列"
     },
     {
+      "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
+      "type": "文章",
+      "date": "2026-08",
+      "like": 19,
+      "fav": 43,
+      "series": "铁电系列"
+    },
+    {
+      "title": "如何有针对地高效地阅读一篇学术论文？",
+      "type": "回答",
+      "date": "2026-08",
+      "like": 11,
+      "fav": 41,
+      "series": null
+    },
+    {
       "title": "如何理解群论以及群论有什么比较典型易懂的应用？",
       "type": "回答",
       "date": "2025-08",
@@ -1756,29 +1762,13 @@
       "like": 23,
       "fav": 41,
       "series": null
-    },
-    {
-      "title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
-      "type": "文章",
-      "date": "2026-08",
-      "like": 18,
-      "fav": 40,
-      "series": "铁电系列"
-    },
-    {
-      "title": "理论笔记 群论chapter 2: 群表示理论完整解题手稿",
-      "type": "文章",
-      "date": "2025-08",
-      "like": 15,
-      "fav": 39,
-      "series": "理论笔记系列"
     }
   ],
   "sensitivity": {
-    "without_top1_n": 108,
-    "fav_mean_without_top1": 19.19,
-    "like_mean_without_top1": 8.87,
-    "top1_share_removed": 20.0
+    "without_top1_n": 112,
+    "fav_mean_without_top1": 19.76,
+    "like_mean_without_top1": 9.05,
+    "top1_share_removed": 19.0
   },
   "comments_top": [
     {
@@ -1833,8 +1823,8 @@
       "title": "借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例",
       "type": "文章",
       "date": "2025-08",
-      "like": 6,
-      "fav": 11,
+      "like": 7,
+      "fav": 12,
       "comment": 5
     },
     {
@@ -1863,25 +1853,25 @@
     }
   ],
   "comment_ratio": {
-    "comment_per_like": 0.09,
-    "comment_per_fav": 0.039,
+    "comment_per_like": 0.089,
+    "comment_per_fav": 0.038,
     "by_type": {
-      "pin": 0.286,
-      "answer": 0.055,
-      "article": 0.117
+      "answer": 0.057,
+      "article": 0.114,
+      "pin": 0.3
     }
   },
   "title_pattern": [
     {
       "pattern": "疑问句",
-      "n": 39,
-      "like_sum": 491,
-      "like_mean": 12.6,
+      "n": 41,
+      "like_sum": 523,
+      "like_mean": 12.8,
       "like_median": 6,
-      "fav_sum": 1310,
-      "fav_mean": 33.6,
-      "fav_median": 13,
-      "comment_sum": 32,
+      "fav_sum": 1395,
+      "fav_mean": 34.0,
+      "fav_median": 14,
+      "comment_sum": 34,
       "comment_mean": 0.8,
       "fav_like_ratio": 2.67,
       "top_examples": [
@@ -1895,8 +1885,8 @@
       "like_sum": 376,
       "like_mean": 13.4,
       "like_median": 9.0,
-      "fav_sum": 774,
-      "fav_mean": 27.6,
+      "fav_sum": 775,
+      "fav_mean": 27.7,
       "fav_median": 15.0,
       "comment_sum": 45,
       "comment_mean": 1.6,
@@ -1909,15 +1899,15 @@
     {
       "pattern": "教程/清单式",
       "n": 7,
-      "like_sum": 52,
-      "like_mean": 7.4,
+      "like_sum": 53,
+      "like_mean": 7.6,
       "like_median": 1,
-      "fav_sum": 164,
-      "fav_mean": 23.4,
+      "fav_sum": 173,
+      "fav_mean": 24.7,
       "fav_median": 2,
       "comment_sum": 1,
       "comment_mean": 0.1,
-      "fav_like_ratio": 3.15,
+      "fav_like_ratio": 3.26,
       "top_examples": [
         "给 Zotero 装上 DeepSeek-V4-Flash",
         "WannSymm 安装与使用教程"
@@ -1925,16 +1915,16 @@
     },
     {
       "pattern": "陈述式",
-      "n": 26,
-      "like_sum": 148,
-      "like_mean": 5.7,
-      "like_median": 3.0,
-      "fav_sum": 263,
-      "fav_mean": 10.1,
-      "fav_median": 6.0,
-      "comment_sum": 10,
+      "n": 27,
+      "like_sum": 166,
+      "like_mean": 6.1,
+      "like_median": 3,
+      "fav_sum": 298,
+      "fav_mean": 11.0,
+      "fav_median": 7,
+      "comment_sum": 12,
       "comment_mean": 0.4,
-      "fav_like_ratio": 1.78,
+      "fav_like_ratio": 1.8,
       "top_examples": [
         "二维材料的应用前景？",
         "铁电性的统一定义（预印本 Unified definition of ferroelectricity）"
@@ -1942,16 +1932,16 @@
     },
     {
       "pattern": "主副标题式",
-      "n": 9,
-      "like_sum": 42,
+      "n": 10,
+      "like_sum": 47,
       "like_mean": 4.7,
-      "like_median": 4,
-      "fav_sum": 80,
-      "fav_mean": 8.9,
-      "fav_median": 6,
+      "like_median": 3.5,
+      "fav_sum": 91,
+      "fav_mean": 9.1,
+      "fav_median": 7.5,
       "comment_sum": 12,
-      "comment_mean": 1.3,
-      "fav_like_ratio": 1.9,
+      "comment_mean": 1.2,
+      "fav_like_ratio": 1.94,
       "top_examples": [
         "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
         "交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂"
