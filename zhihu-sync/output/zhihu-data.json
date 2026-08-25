@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T22:20:04.864661+00:00",
+  "generated_at": "2026-08-25T10:38:03.395900+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1169,
-    "favorites": 2743,
+    "likes": 1173,
+    "favorites": 2746,
     "comments": 104
   },
   "categories": [
@@ -101,7 +101,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 8,
-      "favorites": 26,
+      "favorites": 27,
       "comments": 1,
       "category": {
         "id": "other",
@@ -325,7 +325,7 @@
       "created_at": 1786501926,
       "created_date": "2026-08-12",
       "likes": 7,
-      "favorites": 16,
+      "favorites": 17,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -485,7 +485,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 10,
-      "favorites": 28,
+      "favorites": 29,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -996,7 +996,7 @@
       "content_type": "article",
       "created_at": 1755331135,
       "created_date": "2025-08-16",
-      "likes": 10,
+      "likes": 11,
       "favorites": 16,
       "comments": 1,
       "category": {
@@ -1028,7 +1028,7 @@
       "content_type": "article",
       "created_at": 1755260239,
       "created_date": "2025-08-15",
-      "likes": 15,
+      "likes": 16,
       "favorites": 39,
       "comments": 0,
       "category": {
@@ -1140,7 +1140,7 @@
       "content_type": "article",
       "created_at": 1754384766,
       "created_date": "2025-08-05",
-      "likes": 7,
+      "likes": 9,
       "favorites": 12,
       "comments": 5,
       "category": {
