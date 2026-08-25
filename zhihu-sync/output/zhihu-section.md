@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1169 赞 / 2743 藏 · 更新于 2026-08-24
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1173 赞 / 2746 藏 · 更新于 2026-08-25
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -24,7 +24,7 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 10 · 藏 18
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 28
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 29
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 30
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
@@ -60,9 +60,9 @@
 
 - [为什么晶体具有对称性？](https://www.zhihu.com/answer/2039097566952936422) · 回答 · 2026-05-16 · 赞 3 · 藏 18
 - [群表示论有什么重要定理？](https://www.zhihu.com/answer/1940080082422047177) · 回答 · 2025-08-16 · 赞 7 · 藏 20
-- [理论笔记 群论chapter 2. 群的表示理论：概念总结](https://zhuanlan.zhihu.com/p/1937175368894257117) · 文章 · 2025-08-16 · 赞 10 · 藏 16
+- [理论笔记 群论chapter 2. 群的表示理论：概念总结](https://zhuanlan.zhihu.com/p/1937175368894257117) · 文章 · 2025-08-16 · 赞 11 · 藏 16
 - [学习群表示论有什么教材可以推荐？](https://www.zhihu.com/answer/1939782723398006321) · 回答 · 2025-08-15 · 赞 3 · 藏 7
-- [理论笔记 群论chapter 2: 群表示理论完整解题手稿](https://zhuanlan.zhihu.com/p/1939742654679212377) · 文章 · 2025-08-15 · 赞 15 · 藏 39
+- [理论笔记 群论chapter 2: 群表示理论完整解题手稿](https://zhuanlan.zhihu.com/p/1939742654679212377) · 文章 · 2025-08-15 · 赞 16 · 藏 39
 - [如何理解群论以及群论有什么比较典型易懂的应用？](https://www.zhihu.com/answer/1936549988835497280) · 回答 · 2025-08-06 · 赞 14 · 藏 41
 - [理论笔记 群论chapter 1. 群的结构特征：概念总结](https://zhuanlan.zhihu.com/p/1936543848932303720) · 文章 · 2025-08-06 · 赞 9 · 藏 12
 - [理论笔记 kagome晶格相关：van Hove奇点，对称性保护平带，Dirac点](https://zhuanlan.zhihu.com/p/1935800922589631729) · 文章 · 2025-08-04 · 赞 5 · 藏 8
@@ -111,14 +111,14 @@
 - [OpenCode 接入 DeepSeek V4 Flash 配置指南](https://zhuanlan.zhihu.com/p/2068368163092291981) · 文章 · 2026-08-05 · 赞 0 · 藏 2
 - [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 35
 - [初学者怎么入门大语言模型（LLM）？](https://www.zhihu.com/answer/1936110727275459553) · 回答 · 2025-08-05 · 赞 4 · 藏 4
-- [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 7 · 藏 12
+- [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 9 · 藏 12
 - [copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？](https://www.zhihu.com/answer/56401636365) · 回答 · 2024-12-16 · 赞 3 · 藏 2
 - [计算工具 GitHub Copilot：学生认证， Visual Studio Code 拓展安装，以及额外资料](https://zhuanlan.zhihu.com/p/711699575) · 文章 · 2024-12-16 · 赞 5 · 藏 9
 
 ### 凝聚态基础 Condensed Matter Basics（5 条）
 
 - [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 20 · 藏 42
-- [交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂](https://zhuanlan.zhihu.com/p/2070819340618929436) · 文章 · 2026-08-12 · 赞 7 · 藏 16
+- [交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂](https://zhuanlan.zhihu.com/p/2070819340618929436) · 文章 · 2026-08-12 · 赞 7 · 藏 17
 - [如何理解Kagome格子中的flat band？](https://www.zhihu.com/answer/1935806686838367493) · 回答 · 2025-08-04 · 赞 34 · 藏 62
 - [晶体里的自旋轨道耦合强度与哪些因素有关？](https://www.zhihu.com/answer/1934018431184791242) · 回答 · 2025-07-30 · 赞 8 · 藏 12
 - [理论笔记 自旋-轨道耦合：基本概念，以及重原子中SOC增强的原因](https://zhuanlan.zhihu.com/p/1934011952285353132) · 文章 · 2025-07-30 · 赞 4 · 藏 14
@@ -139,7 +139,7 @@
 
 ### 其他 Others（6 条）
 
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 8 · 藏 26
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 8 · 藏 27
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 23
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 2 · 藏 9
