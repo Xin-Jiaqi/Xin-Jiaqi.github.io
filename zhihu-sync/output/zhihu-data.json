@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:39:33.529127+00:00",
+  "generated_at": "2026-08-27T02:48:33.707006+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1176,
-    "favorites": 2752,
+    "likes": 1178,
+    "favorites": 2761,
     "comments": 104
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1787203329,
       "created_date": "2026-08-20",
-      "likes": 11,
-      "favorites": 28,
+      "likes": 12,
+      "favorites": 31,
       "comments": 1,
       "category": {
         "id": "other",
@@ -117,7 +117,7 @@
       "created_at": 1787203328,
       "created_date": "2026-08-20",
       "likes": 1,
-      "favorites": 6,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -308,8 +308,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 20,
-      "favorites": 42,
+      "likes": 21,
+      "favorites": 44,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -501,7 +501,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 30,
+      "favorites": 31,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -645,7 +645,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 34,
-      "favorites": 58,
+      "favorites": 60,
       "comments": 0,
       "category": {
         "id": "excitons",
