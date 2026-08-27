@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T02:48:33.707006+00:00",
+  "generated_at": "2026-08-27T20:14:23.721309+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1178,
-    "favorites": 2761,
+    "likes": 1181,
+    "favorites": 2767,
     "comments": 104
   },
   "categories": [
@@ -148,7 +148,7 @@
       "content_type": "article",
       "created_at": 1787139458,
       "created_date": "2026-08-19",
-      "likes": 1,
+      "likes": 2,
       "favorites": 10,
       "comments": 0,
       "category": {
@@ -293,7 +293,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 9,
-      "favorites": 16,
+      "favorites": 17,
       "comments": 0,
       "category": {
         "id": "other",
@@ -468,8 +468,8 @@
       "content_type": "pin",
       "created_at": 1786169733,
       "created_date": "2026-08-08",
-      "likes": 0,
-      "favorites": 5,
+      "likes": 1,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -501,7 +501,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 31,
+      "favorites": 32,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -852,8 +852,8 @@
       "content_type": "article",
       "created_at": 1779337538,
       "created_date": "2026-05-21",
-      "likes": 11,
-      "favorites": 10,
+      "likes": 12,
+      "favorites": 11,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -1141,7 +1141,7 @@
       "created_at": 1754384766,
       "created_date": "2025-08-05",
       "likes": 9,
-      "favorites": 12,
+      "favorites": 13,
       "comments": 5,
       "category": {
         "id": "ai",
@@ -1157,7 +1157,7 @@
       "created_at": 1754312279,
       "created_date": "2025-08-04",
       "likes": 34,
-      "favorites": 62,
+      "favorites": 63,
       "comments": 0,
       "category": {
         "id": "condensed",
