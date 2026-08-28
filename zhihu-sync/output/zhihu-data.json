@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T20:14:23.721309+00:00",
+  "generated_at": "2026-08-28T05:54:41.615381+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1181,
-    "favorites": 2767,
+    "likes": 1182,
+    "favorites": 2769,
     "comments": 104
   },
   "categories": [
@@ -133,7 +133,7 @@
       "created_at": 1787139459,
       "created_date": "2026-08-19",
       "likes": 8,
-      "favorites": 21,
+      "favorites": 22,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -276,8 +276,8 @@
       "content_type": "answer",
       "created_at": 1786583470,
       "created_date": "2026-08-13",
-      "likes": 2,
-      "favorites": 9,
+      "likes": 3,
+      "favorites": 10,
       "comments": 0,
       "category": {
         "id": "other",
