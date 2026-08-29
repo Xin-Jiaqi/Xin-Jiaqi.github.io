@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1183 赞 / 2772 藏 · 更新于 2026-08-28
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1183 赞 / 2774 藏 · 更新于 2026-08-29
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -9,8 +9,8 @@
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
 - [把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态](https://zhuanlan.zhihu.com/p/2069424047704823715) · 文章 · 2026-08-11 · 赞 1 · 藏 3
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
-- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 19 · 藏 43
-- [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 20
+- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 19 · 藏 44
+- [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 21
 - [NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合](https://zhuanlan.zhihu.com/p/2066974338855843093) · 文章 · 2026-08-01 · 赞 2 · 藏 3
 - [为什么二维铁电材料很稀少？](https://www.zhihu.com/answer/2040770231963017741) · 回答 · 2026-05-21 · 赞 5 · 藏 8
 - [多层堆叠铁电：当“层数”也成为二维材料的设计自由度](https://zhuanlan.zhihu.com/p/2040503723403768417) · 文章 · 2026-05-21 · 赞 12 · 藏 11
