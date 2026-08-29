@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1183 赞 / 2774 藏 · 更新于 2026-08-29
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1185 赞 / 2777 藏 · 更新于 2026-08-29
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -24,7 +24,7 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 10 · 藏 18
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 10 · 藏 30
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 31
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 32
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
@@ -140,8 +140,8 @@
 ### 其他 Others（6 条）
 
 - [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 12 · 藏 32
-- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 24
-- [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 3
+- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 25
+- [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 4
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 3 · 藏 10
 - [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 18
 - [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 8
