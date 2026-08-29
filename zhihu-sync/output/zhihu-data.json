@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:27:23.882176+00:00",
+  "generated_at": "2026-08-29T14:58:35.188894+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1183,
-    "favorites": 2774,
+    "likes": 1185,
+    "favorites": 2777,
     "comments": 104
   },
   "categories": [
@@ -181,7 +181,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 8,
-      "favorites": 24,
+      "favorites": 25,
       "comments": 0,
       "category": {
         "id": "other",
@@ -197,7 +197,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 2,
-      "favorites": 3,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "other",
@@ -484,8 +484,8 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 10,
-      "favorites": 30,
+      "likes": 12,
+      "favorites": 31,
       "comments": 0,
       "category": {
         "id": "skyrmions",
