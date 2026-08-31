@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:09:12.316493+00:00",
+  "generated_at": "2026-08-31T17:28:51.359826+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1186,
-    "favorites": 2783,
+    "likes": 1189,
+    "favorites": 2794,
     "comments": 104
   },
   "categories": [
@@ -133,7 +133,7 @@
       "created_at": 1787139459,
       "created_date": "2026-08-19",
       "likes": 8,
-      "favorites": 22,
+      "favorites": 23,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -181,7 +181,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 8,
-      "favorites": 25,
+      "favorites": 26,
       "comments": 0,
       "category": {
         "id": "other",
@@ -293,7 +293,7 @@
       "created_at": 1786583469,
       "created_date": "2026-08-13",
       "likes": 9,
-      "favorites": 18,
+      "favorites": 19,
       "comments": 0,
       "category": {
         "id": "other",
@@ -468,8 +468,8 @@
       "content_type": "pin",
       "created_at": 1786169733,
       "created_date": "2026-08-08",
-      "likes": 1,
-      "favorites": 7,
+      "likes": 2,
+      "favorites": 8,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -501,7 +501,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 32,
+      "favorites": 33,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -532,8 +532,8 @@
       "content_type": "article",
       "created_at": 1785991295,
       "created_date": "2026-08-06",
-      "likes": 19,
-      "favorites": 45,
+      "likes": 21,
+      "favorites": 46,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -597,7 +597,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 17,
-      "favorites": 92,
+      "favorites": 94,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -645,7 +645,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 34,
-      "favorites": 62,
+      "favorites": 63,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -789,7 +789,7 @@
       "created_at": 1779697885,
       "created_date": "2026-05-25",
       "likes": 23,
-      "favorites": 28,
+      "favorites": 29,
       "comments": 0,
       "category": {
         "id": "opensource",
@@ -1829,7 +1829,7 @@
       "created_at": 1701658589,
       "created_date": "2023-12-04",
       "likes": 61,
-      "favorites": 107,
+      "favorites": 108,
       "comments": 6,
       "category": {
         "id": "tools",
