@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1186 赞 / 2783 藏 · 更新于 2026-08-31
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1189 赞 / 2794 藏 · 更新于 2026-08-31
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -9,7 +9,7 @@
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
 - [把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态](https://zhuanlan.zhihu.com/p/2069424047704823715) · 文章 · 2026-08-11 · 赞 1 · 藏 3
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
-- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 19 · 藏 45
+- [铁电性的统一定义（预印本 Unified definition of ferroelectricity）](https://zhuanlan.zhihu.com/p/2068673956043821125) · 文章 · 2026-08-06 · 赞 21 · 藏 46
 - [算滑移铁电翻转怎么找顺电相和铁电相?](https://www.zhihu.com/answer/2066974795988832695) · 回答 · 2026-08-01 · 赞 7 · 藏 21
 - [NiI2 bilayer: 范德华磁体中的堆叠铁电与磁电耦合](https://zhuanlan.zhihu.com/p/2066974338855843093) · 文章 · 2026-08-01 · 赞 2 · 藏 3
 - [为什么二维铁电材料很稀少？](https://www.zhihu.com/answer/2040770231963017741) · 回答 · 2026-05-21 · 赞 5 · 藏 8
@@ -25,12 +25,12 @@
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 10 · 藏 18
 - [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 32
-- [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 32
+- [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 33
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
-- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 8 · 藏 22
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 62
+- [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 8 · 藏 23
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 63
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（5 条）
@@ -85,7 +85,7 @@
 - [如何有针对地高效地阅读一篇学术论文？](https://www.zhihu.com/answer/2071582652184975249) · 回答 · 2026-08-14 · 赞 11 · 藏 41
 - [论文太多，我做了一个 Agent 来决定“今天该看哪几篇”](https://zhuanlan.zhihu.com/p/2070520264442565091) · 文章 · 2026-08-14 · 赞 1 · 藏 7
 - [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 3 · 藏 13
-- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 17 · 藏 92
+- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 17 · 藏 94
 - [macOS有哪些有趣或者高效的命令行工具？](https://www.zhihu.com/answer/2050970563569623666) · 回答 · 2026-06-18 · 赞 9 · 藏 11
 - [用 Mole 清理 Mac：命令行新手也能上手的一次记录](https://zhuanlan.zhihu.com/p/2050966522710046261) · 文章 · 2026-06-18 · 赞 1 · 藏 1
 - [英文学术论文写作有哪些经验心得？](https://www.zhihu.com/answer/1887898255729354737) · 回答 · 2025-03-25 · 赞 3 · 藏 7
@@ -103,7 +103,7 @@
 - [针对绘图方面的需求，matlab、python和R哪个更加强大？](https://www.zhihu.com/answer/3356622375) · 回答 · 2024-01-10 · 赞 6 · 藏 12
 - [计算工具 科研绘图之 MatLab 双纵轴曲线图：绘制场景、应用举例、相关代码及技巧](https://zhuanlan.zhihu.com/p/676932485) · 文章 · 2024-01-10 · 赞 21 · 藏 52
 - [Origin、MATLAB、Python 用于科研作图，哪个最好？](https://www.zhihu.com/answer/3312520211) · 回答 · 2023-12-04 · 赞 19 · 藏 68
-- [计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较](https://zhuanlan.zhihu.com/p/670058757) · 文章 · 2023-12-04 · 赞 61 · 藏 107
+- [计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较](https://zhuanlan.zhihu.com/p/670058757) · 文章 · 2023-12-04 · 赞 61 · 藏 108
 
 ### AI 与编程实践 AI & Programming（7 条）
 
@@ -128,7 +128,7 @@
 - [知乎开放平台近期新推出的Zhihu CLI 能力，有哪些值得探索的玩法？](https://www.zhihu.com/answer/2070093990628795040) · 回答 · 2026-08-10 · 赞 1 · 藏 0
 - [用 Zhihu CLI 把知乎账号做成了一套自动化系统：5 个真实工具 & 可复现演示](https://zhuanlan.zhihu.com/p/2069720698508010276) · 文章 · 2026-08-10 · 赞 0 · 藏 4
 - [怎么建立学术风格的个人主页？](https://www.zhihu.com/answer/2042281641125622396) · 回答 · 2026-05-25 · 赞 4 · 藏 7
-- [我开源了一个极简个人学术主页模板](https://zhuanlan.zhihu.com/p/2042279577020527281) · 文章 · 2026-05-25 · 赞 23 · 藏 28
+- [我开源了一个极简个人学术主页模板](https://zhuanlan.zhihu.com/p/2042279577020527281) · 文章 · 2026-05-25 · 赞 23 · 藏 29
 - [weread-calendar：本地运行的阅读复盘工具](https://zhuanlan.zhihu.com/p/2041271815473975993) · 文章 · 2026-05-23 · 赞 3 · 藏 6
 
 ### 阅读与随笔 Reading & Essays（3 条）
@@ -140,9 +140,9 @@
 ### 其他 Others（6 条）
 
 - [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 12 · 藏 33
-- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 25
+- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 26
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 4
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 3 · 藏 10
-- [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 18
+- [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 19
 - [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 8
 
