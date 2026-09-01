@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:28:51.359826+00:00",
+  "generated_at": "2026-09-01T14:39:00.117614+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1189,
-    "favorites": 2794,
+    "likes": 1191,
+    "favorites": 2804,
     "comments": 104
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1787203329,
       "created_date": "2026-08-20",
-      "likes": 12,
-      "favorites": 33,
+      "likes": 13,
+      "favorites": 36,
       "comments": 1,
       "category": {
         "id": "other",
@@ -133,7 +133,7 @@
       "created_at": 1787139459,
       "created_date": "2026-08-19",
       "likes": 8,
-      "favorites": 23,
+      "favorites": 25,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -437,7 +437,7 @@
       "created_at": 1786233674,
       "created_date": "2026-08-09",
       "likes": 10,
-      "favorites": 18,
+      "favorites": 19,
       "comments": 1,
       "category": {
         "id": "skyrmions",
@@ -501,7 +501,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 33,
+      "favorites": 34,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -597,7 +597,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 17,
-      "favorites": 94,
+      "favorites": 95,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -612,7 +612,7 @@
       "content_type": "answer",
       "created_at": 1785585193,
       "created_date": "2026-08-01",
-      "likes": 7,
+      "likes": 8,
       "favorites": 21,
       "comments": 0,
       "category": {
@@ -1701,7 +1701,7 @@
       "created_at": 1705834127,
       "created_date": "2024-01-21",
       "likes": 36,
-      "favorites": 92,
+      "favorites": 94,
       "comments": 10,
       "category": {
         "id": "symmetry",
