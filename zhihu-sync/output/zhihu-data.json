@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:39:00.117614+00:00",
+  "generated_at": "2026-09-02T14:13:26.900979+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 55,
       "pin": 8
     },
-    "likes": 1191,
-    "favorites": 2804,
+    "likes": 1194,
+    "favorites": 2806,
     "comments": 104
   },
   "categories": [
@@ -212,7 +212,7 @@
       "content_type": "answer",
       "created_at": 1786763631,
       "created_date": "2026-08-15",
-      "likes": 11,
+      "likes": 12,
       "favorites": 13,
       "comments": 0,
       "category": {
@@ -596,8 +596,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 17,
-      "favorites": 95,
+      "likes": 19,
+      "favorites": 96,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -645,7 +645,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 34,
-      "favorites": 63,
+      "favorites": 64,
       "comments": 0,
       "category": {
         "id": "excitons",
