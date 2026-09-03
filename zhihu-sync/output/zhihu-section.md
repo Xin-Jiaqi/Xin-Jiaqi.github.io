@@ -1,11 +1,11 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1194 赞 / 2808 藏 · 更新于 2026-09-02
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1197 赞 / 2811 藏 · 更新于 2026-09-03
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
 - [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 7
-- [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 2 · 藏 10
+- [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 2 · 藏 11
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
 - [把滑移铁电和本征铁电放在一起：二维铁电如何从两态走向六态、十态](https://zhuanlan.zhihu.com/p/2069424047704823715) · 文章 · 2026-08-11 · 赞 1 · 藏 3
 - [铁电材料这一定义的由来？](https://www.zhihu.com/answer/2068678110955024439) · 回答 · 2026-08-06 · 赞 1 · 藏 5
@@ -44,7 +44,7 @@
 ### 计算方法与软件 Computational Methods（12 条）
 
 - [Research Note：单层 SnS 的紧束缚模型 arXiv](https://zhuanlan.zhihu.com/p/2065777386583487695) · 文章 · 2026-07-29 · 赞 5 · 藏 15
-- [WannSymm 安装与使用教程](https://zhuanlan.zhihu.com/p/2043081520005505959) · 文章 · 2026-05-27 · 赞 16 · 藏 49
+- [WannSymm 安装与使用教程](https://zhuanlan.zhihu.com/p/2043081520005505959) · 文章 · 2026-05-27 · 赞 16 · 藏 50
 - [批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系](https://zhuanlan.zhihu.com/p/2039095412498359945) · 文章 · 2026-05-16 · 赞 0 · 藏 4
 - [理论笔记|计算工具 何为energy above convex hull ？以及如何绘制 phase diagrams？](https://zhuanlan.zhihu.com/p/12898835960) · 文章 · 2024-12-17 · 赞 10 · 藏 32
 - [怎么样批量获取Materials Project的数据？](https://www.zhihu.com/answer/53175564036) · 回答 · 2024-12-11 · 赞 5 · 藏 5
@@ -139,8 +139,8 @@
 
 ### 其他 Others（6 条）
 
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 13 · 藏 37
-- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 8 · 藏 26
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 15 · 藏 38
+- [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 9 · 藏 26
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 4
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 3 · 藏 10
 - [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 19
