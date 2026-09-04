@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T14:17:15.690679+00:00",
+  "generated_at": "2026-09-04T14:06:47.004810+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -10,7 +10,7 @@
       "pin": 8
     },
     "likes": 1197,
-    "favorites": 2811,
+    "favorites": 2817,
     "comments": 104
   },
   "categories": [
@@ -133,7 +133,7 @@
       "created_at": 1787139459,
       "created_date": "2026-08-19",
       "likes": 8,
-      "favorites": 25,
+      "favorites": 26,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -309,7 +309,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 21,
-      "favorites": 44,
+      "favorites": 46,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -485,7 +485,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 32,
+      "favorites": 33,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -597,7 +597,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 19,
-      "favorites": 97,
+      "favorites": 98,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -613,7 +613,7 @@
       "created_at": 1785585193,
       "created_date": "2026-08-01",
       "likes": 8,
-      "favorites": 21,
+      "favorites": 22,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
