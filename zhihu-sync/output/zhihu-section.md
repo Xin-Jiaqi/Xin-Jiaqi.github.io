@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1200 赞 / 2828 藏 · 更新于 2026-09-07
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1201 赞 / 2828 藏 · 更新于 2026-09-07
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -30,7 +30,7 @@
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
 - [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 8 · 藏 26
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 34 · 藏 64
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 35 · 藏 64
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（5 条）
