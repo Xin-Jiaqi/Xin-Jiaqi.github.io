@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1202 赞 / 2832 藏 · 更新于 2026-09-08
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1202 赞 / 2834 藏 · 更新于 2026-09-09
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -25,7 +25,7 @@
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 11 · 藏 19
 - [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 33
-- [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 34
+- [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 35
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
@@ -85,7 +85,7 @@
 - [如何有针对地高效地阅读一篇学术论文？](https://www.zhihu.com/answer/2071582652184975249) · 回答 · 2026-08-14 · 赞 11 · 藏 43
 - [论文太多，我做了一个 Agent 来决定“今天该看哪几篇”](https://zhuanlan.zhihu.com/p/2070520264442565091) · 文章 · 2026-08-14 · 赞 1 · 藏 7
 - [有哪些你觉得课堂上用起来很牛的科学可视化资源？](https://www.zhihu.com/answer/2069720587006644689) · 回答 · 2026-08-09 · 赞 3 · 藏 13
-- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 21 · 藏 101
+- [给 Zotero 装上 DeepSeek-V4-Flash](https://zhuanlan.zhihu.com/p/2068364136807927941) · 文章 · 2026-08-05 · 赞 21 · 藏 102
 - [macOS有哪些有趣或者高效的命令行工具？](https://www.zhihu.com/answer/2050970563569623666) · 回答 · 2026-06-18 · 赞 9 · 藏 12
 - [用 Mole 清理 Mac：命令行新手也能上手的一次记录](https://zhuanlan.zhihu.com/p/2050966522710046261) · 文章 · 2026-06-18 · 赞 1 · 藏 1
 - [英文学术论文写作有哪些经验心得？](https://www.zhihu.com/answer/1887898255729354737) · 回答 · 2025-03-25 · 赞 3 · 藏 7
