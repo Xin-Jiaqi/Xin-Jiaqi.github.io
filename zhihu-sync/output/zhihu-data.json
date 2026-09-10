@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T14:17:43.705719+00:00",
+  "generated_at": "2026-09-10T14:11:22.154420+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -10,7 +10,7 @@
       "pin": 8
     },
     "likes": 1202,
-    "favorites": 2834,
+    "favorites": 2835,
     "comments": 49
   },
   "categories": [
@@ -597,7 +597,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 21,
-      "favorites": 102,
+      "favorites": 103,
       "comments": 0,
       "category": {
         "id": "tools",
