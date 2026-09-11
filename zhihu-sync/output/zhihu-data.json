@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:11:22.154420+00:00",
+  "generated_at": "2026-09-11T14:10:00.563680+00:00",
   "source": "zhihu-cli me contents",
   "total": 113,
   "summary": {
@@ -10,8 +10,8 @@
       "pin": 8
     },
     "likes": 1202,
-    "favorites": 2835,
-    "comments": 49
+    "favorites": 2838,
+    "comments": 104
   },
   "categories": [
     {
@@ -101,7 +101,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 16,
-      "favorites": 41,
+      "favorites": 42,
       "comments": 1,
       "category": {
         "id": "other",
@@ -181,7 +181,7 @@
       "created_at": 1786846496,
       "created_date": "2026-08-16",
       "likes": 9,
-      "favorites": 27,
+      "favorites": 28,
       "comments": 0,
       "category": {
         "id": "other",
@@ -597,7 +597,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 21,
-      "favorites": 103,
+      "favorites": 104,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -934,7 +934,7 @@
       "created_date": "2025-08-18",
       "likes": 30,
       "favorites": 44,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "twod",
         "label": "二维材料与范德华",
@@ -950,7 +950,7 @@
       "created_date": "2025-08-18",
       "likes": 6,
       "favorites": 4,
-      "comments": 0,
+      "comments": 4,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -998,7 +998,7 @@
       "created_date": "2025-08-16",
       "likes": 11,
       "favorites": 16,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -1142,7 +1142,7 @@
       "created_date": "2025-08-05",
       "likes": 9,
       "favorites": 14,
-      "comments": 0,
+      "comments": 5,
       "category": {
         "id": "ai",
         "label": "AI 与编程实践",
@@ -1206,7 +1206,7 @@
       "created_date": "2025-07-30",
       "likes": 4,
       "favorites": 14,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "condensed",
         "label": "凝聚态基础",
@@ -1302,7 +1302,7 @@
       "created_date": "2024-12-17",
       "likes": 10,
       "favorites": 32,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1366,7 +1366,7 @@
       "created_date": "2024-12-16",
       "likes": 5,
       "favorites": 9,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "ai",
         "label": "AI 与编程实践",
@@ -1382,7 +1382,7 @@
       "created_date": "2024-12-11",
       "likes": 5,
       "favorites": 5,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1398,7 +1398,7 @@
       "created_date": "2024-12-11",
       "likes": 1,
       "favorites": 2,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1414,7 +1414,7 @@
       "created_date": "2024-12-06",
       "likes": 9,
       "favorites": 5,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1430,7 +1430,7 @@
       "created_date": "2024-08-09",
       "likes": 21,
       "favorites": 6,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1446,7 +1446,7 @@
       "created_date": "2024-07-31",
       "likes": 4,
       "favorites": 2,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1494,7 +1494,7 @@
       "created_date": "2024-07-27",
       "likes": 151,
       "favorites": 519,
-      "comments": 0,
+      "comments": 15,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1510,7 +1510,7 @@
       "created_date": "2024-07-27",
       "likes": 23,
       "favorites": 39,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1542,7 +1542,7 @@
       "created_date": "2024-03-01",
       "likes": 23,
       "favorites": 87,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1574,7 +1574,7 @@
       "created_date": "2024-02-27",
       "likes": 28,
       "favorites": 53,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1622,7 +1622,7 @@
       "created_date": "2024-02-11",
       "likes": 4,
       "favorites": 8,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
