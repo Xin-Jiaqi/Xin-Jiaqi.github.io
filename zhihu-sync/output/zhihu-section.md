@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1202 赞 / 2840 藏 · 更新于 2026-09-11
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 113 条创作 · 累计 1202 赞 / 2842 藏 · 更新于 2026-09-12
 
 ### 铁电与极化 Ferroelectricity & Polarization（16 条）
 
@@ -111,7 +111,7 @@
 - [OpenCode 接入 DeepSeek V4 Flash 配置指南](https://zhuanlan.zhihu.com/p/2068368163092291981) · 文章 · 2026-08-05 · 赞 0 · 藏 2
 - [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 35
 - [初学者怎么入门大语言模型（LLM）？](https://www.zhihu.com/answer/1936110727275459553) · 回答 · 2025-08-05 · 赞 4 · 藏 4
-- [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 9 · 藏 14
+- [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 9 · 藏 15
 - [copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？](https://www.zhihu.com/answer/56401636365) · 回答 · 2024-12-16 · 赞 3 · 藏 2
 - [计算工具 GitHub Copilot：学生认证， Visual Studio Code 拓展安装，以及额外资料](https://zhuanlan.zhihu.com/p/711699575) · 文章 · 2024-12-16 · 赞 5 · 藏 9
 
@@ -143,6 +143,6 @@
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 9 · 藏 28
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 4
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 3 · 藏 10
-- [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 20
+- [交错磁材料怎么找：AMDB & amcheck](https://zhuanlan.zhihu.com/p/2070959181562114846) · 文章 · 2026-08-13 · 赞 9 · 藏 21
 - [二维层状材料？](https://www.zhihu.com/answer/2070432734179226298) · 回答 · 2026-08-11 · 赞 4 · 藏 8
 
