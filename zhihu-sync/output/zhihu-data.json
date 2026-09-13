@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:12:09.560378+00:00",
+  "generated_at": "2026-09-13T23:50:56.436751+00:00",
   "source": "zhihu-cli me contents",
   "total": 115,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 56,
       "pin": 8
     },
-    "likes": 1202,
-    "favorites": 2851,
+    "likes": 1203,
+    "favorites": 2853,
     "comments": 105
   },
   "categories": [
@@ -308,8 +308,8 @@
       "content_type": "answer",
       "created_at": 1786583470,
       "created_date": "2026-08-13",
-      "likes": 3,
-      "favorites": 11,
+      "likes": 4,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "other",
@@ -629,7 +629,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 21,
-      "favorites": 107,
+      "favorites": 108,
       "comments": 1,
       "category": {
         "id": "tools",
