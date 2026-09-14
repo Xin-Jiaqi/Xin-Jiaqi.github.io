@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T23:50:56.436751+00:00",
+  "generated_at": "2026-09-14T16:15:19.931975+00:00",
   "source": "zhihu-cli me contents",
   "total": 115,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 56,
       "pin": 8
     },
-    "likes": 1203,
-    "favorites": 2853,
+    "likes": 1210,
+    "favorites": 2865,
     "comments": 105
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1789305476,
       "created_date": "2026-09-13",
-      "likes": 0,
-      "favorites": 0,
+      "likes": 1,
+      "favorites": 1,
       "comments": 0,
       "category": {
         "id": "other",
@@ -116,8 +116,8 @@
       "content_type": "article",
       "created_at": 1789305475,
       "created_date": "2026-09-13",
-      "likes": 0,
-      "favorites": 0,
+      "likes": 1,
+      "favorites": 3,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -133,7 +133,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 16,
-      "favorites": 43,
+      "favorites": 45,
       "comments": 1,
       "category": {
         "id": "other",
@@ -340,8 +340,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 21,
-      "favorites": 48,
+      "likes": 23,
+      "favorites": 52,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -565,7 +565,7 @@
       "created_at": 1785991295,
       "created_date": "2026-08-06",
       "likes": 21,
-      "favorites": 46,
+      "favorites": 47,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -628,7 +628,7 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 21,
+      "likes": 22,
       "favorites": 108,
       "comments": 1,
       "category": {
@@ -677,7 +677,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 35,
-      "favorites": 64,
+      "favorites": 65,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -820,7 +820,7 @@
       "content_type": "article",
       "created_at": 1779697885,
       "created_date": "2026-05-25",
-      "likes": 23,
+      "likes": 25,
       "favorites": 31,
       "comments": 0,
       "category": {
