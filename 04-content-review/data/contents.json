@@ -1,11 +1,31 @@
 [
   {
     "ContentType": "answer",
+    "Url": "https://www.zhihu.com/answer/2082578793156318956",
+    "CreatedAt": 1789305476,
+    "LikeCount": 1,
+    "CommentCount": 0,
+    "FavoriteCount": 0,
+    "Title": "AI+材料？",
+    "Summary": "本文精读 2026 年的预印本： Yu Pang et al., “Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics”, arXiv:2604.07689 (2026).这项工作研究的是插层过渡金属硫族化合物（intercalated transition metal dichalcogenides, iTMDs）。作者把群论、高通量 DFT 和图神经网络串在一起，在一个很大的插层构型空间里同时寻找两类反铁磁自旋电子材料： a… [公式] 对称性的 antiferromagnet，重点是 spin Edelstein effect 和 Néel spin-orbit torque（Néel SOT）。"
+  },
+  {
+    "ContentType": "article",
+    "Url": "https://zhuanlan.zhihu.com/p/2082578508681954113",
+    "CreatedAt": 1789305475,
+    "LikeCount": 1,
+    "CommentCount": 0,
+    "FavoriteCount": 0,
+    "Title": "对称性指导与 AI 加速：面向反铁磁自旋电子学的插层过渡金属二硫属化合物设计",
+    "Summary": "本文精读 2026 年的预印本： Yu Pang et al., “Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics”, arXiv:2604.07689 (2026).这项工作研究的是插层过渡金属硫族化合物（intercalated transition metal dichalcogenides, iTMDs）。作者把群论、高通量 DFT 和图神经网络串在一起，在一个很大的插层构型空间里同时寻找两类反铁磁自旋电子材料： a… [公式] 对称性的 antiferromagnet，重点是 spin Edelstein effect 和 Néel spin-orbit torque（Néel SOT）。"
+  },
+  {
+    "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2073761747710883157",
     "CreatedAt": 1787203329,
     "LikeCount": 16,
     "CommentCount": 1,
-    "FavoriteCount": 40,
+    "FavoriteCount": 44,
     "Title": "二维磁性材料有哪些可以研究的方向？",
     "Summary": "交错磁性（altermagnetism）最近受到关注的一个重要原因，是它打破了我们过去对“铁磁”和“反铁磁”的一些直观二分。它可以像普通反铁磁一样具有接近零的净磁矩，同时又在动量空间产生很强的自旋劈裂，并由此支持一些看起来更接近铁磁体的输运和光学响应。 2025 年，Motohiko Ezawa 在 Physical Review B 发表了 Bulk photovoltaic effects in altermagnets，用一个非常简洁的二维两能带模型讨论交错磁中的体光伏效应（bulk pho…"
   },
@@ -55,7 +75,7 @@
     "CreatedAt": 1786846496,
     "LikeCount": 9,
     "CommentCount": 0,
-    "FavoriteCount": 27,
+    "FavoriteCount": 29,
     "Title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
     "Summary": "在非线性光学、光伏效应或者能带跃迁的论文里，经常会看到一句话： 本文讨论电偶极近似（electric-dipole approximation）下的光学响应。这句话很常见，但如果只把它理解成一个数学近似，其实很难建立物理图像。 “电偶极近似”真正直观的核心只有一句话： 光的波长比一个晶胞大太多，因此对于一个晶胞里的电子来说，光的电场几乎是均匀的。换句话说，电子虽然处在一束传播的电磁波中，但如果只把视野缩小到一个晶胞，它几乎感觉…"
   },
@@ -95,7 +115,7 @@
     "CreatedAt": 1786683792,
     "LikeCount": 11,
     "CommentCount": 1,
-    "FavoriteCount": 42,
+    "FavoriteCount": 43,
     "Title": "如何有针对地高效地阅读一篇学术论文？",
     "Summary": "项目地址： https://github.com/Xin-Jiaqi/literature-agent 当前版本：v0.1.0 · MIT License · personal alpha [图片] [图片] 我以前处理文献，大致是这样：Google Scholar 邮件、期刊更新、公众号、别人推荐，看到值得关注的论文后放进 Zotero；真正重要的，再交给 ChatGPT 做快速建档。进入精读以后，我会继续围绕图、公式、概念和与自己课题的关系追问，最后把有价值的内容整理进 Obsidian。 这套方法一直能用，但论文数量上来以后，最耗注意力的环节慢慢变成了入口…"
   },
@@ -113,9 +133,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2071161869591647794",
     "CreatedAt": 1786583470,
-    "LikeCount": 3,
+    "LikeCount": 4,
     "CommentCount": 0,
-    "FavoriteCount": 10,
+    "FavoriteCount": 12,
     "Title": "目前在材料科学方面有什么比较好的数据库？",
     "Summary": "交错磁性已经有了一套相对清楚的对称性语言：反向自旋子晶格如果由平移或反演连接，通常对应 conventional AFM；如果补偿关系由其他空间操作建立，则可能出现一般 [公式] 点上的非相对论自旋劈裂（ L. Šmejkal, J. Sinova, T. Jungwirth, Emerging Research Landscape of Altermagnetism, Phys. Rev. X 12, 040501 (2022).）。理解这套分类以后，接下来很自然的问题就是：具体材料去哪里找？手里已经有一个磁结构时，又该…"
   },
@@ -125,7 +145,7 @@
     "CreatedAt": 1786583469,
     "LikeCount": 9,
     "CommentCount": 0,
-    "FavoriteCount": 20,
+    "FavoriteCount": 21,
     "Title": "交错磁材料怎么找：AMDB & amcheck",
     "Summary": "交错磁性已经有了一套相对清楚的对称性语言：反向自旋子晶格如果由平移或反演连接，通常对应 conventional AFM；如果补偿关系由其他空间操作建立，则可能出现一般 [公式] 点上的非相对论自旋劈裂（ L. Šmejkal, J. Sinova, T. Jungwirth, Emerging Research Landscape of Altermagnetism, Phys. Rev. X 12, 040501 (2022).）。理解这套分类以后，接下来很自然的问题就是：具体材料去哪里找？手里已经有一个磁结构时，又该…"
   },
@@ -135,7 +155,7 @@
     "CreatedAt": 1786501927,
     "LikeCount": 21,
     "CommentCount": 0,
-    "FavoriteCount": 47,
+    "FavoriteCount": 50,
     "Title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
     "Summary": "交错磁性（altermagnetism）这几年迅速成为凝聚态物理中的热门概念。它最吸引人的地方，是把两个过去常常绑定在一起的印象拆开了：一方面，体系像反铁磁体一样具有完全补偿的磁矩，净磁化可以为零；另一方面，它又能像铁磁体一样，在动量空间出现很强的自旋劈裂、产生自旋极化输运，并在合适的磁对称性下支持 anomalous Hall 等时间反演奇响应。 2022 年，Šmejkal、Sinova 和 Jungwirth 在 Physical Review X 发表 Perspectiv…"
   },
@@ -145,7 +165,7 @@
     "CreatedAt": 1786501926,
     "LikeCount": 7,
     "CommentCount": 0,
-    "FavoriteCount": 17,
+    "FavoriteCount": 18,
     "Title": "交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂",
     "Summary": "交错磁性（altermagnetism）这几年迅速成为凝聚态物理中的热门概念。它最吸引人的地方，是把两个过去常常绑定在一起的印象拆开了：一方面，体系像反铁磁体一样具有完全补偿的磁矩，净磁化可以为零；另一方面，它又能像铁磁体一样，在动量空间出现很强的自旋劈裂、产生自旋极化输运，并在合适的磁对称性下支持 anomalous Hall 等时间反演奇响应。 2022 年，Šmejkal、Sinova 和 Jungwirth 在 Physical Review X 发表 Perspectiv…"
   },
@@ -245,7 +265,7 @@
     "CreatedAt": 1786074679,
     "LikeCount": 12,
     "CommentCount": 0,
-    "FavoriteCount": 33,
+    "FavoriteCount": 34,
     "Title": "什么是 skyrmion？",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -255,7 +275,7 @@
     "CreatedAt": 1786074679,
     "LikeCount": 12,
     "CommentCount": 0,
-    "FavoriteCount": 34,
+    "FavoriteCount": 35,
     "Title": "磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -313,9 +333,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
     "CreatedAt": 1785916518,
-    "LikeCount": 19,
-    "CommentCount": 0,
-    "FavoriteCount": 100,
+    "LikeCount": 21,
+    "CommentCount": 1,
+    "FavoriteCount": 108,
     "Title": "给 Zotero 装上 DeepSeek-V4-Flash",
     "Summary": "个人的 Zotero + DeepSeek-V4-Flash 配置过程记录及总结,全程只需 10 分钟。三个组件,各司其职 组件 作用 成本 Zotero 文献管理,PDF 阅读器 免费开源 DeepSeek API 大模型大脑,负责理解、总结 按量计费,极便宜 llm-for-zotero 插件 桥梁,让 AI 长在 Zotero 里 免费开源 为什么选 DeepSeek 而不是 ChatGPT? 便宜: -V4-Flash 读一篇论文的成本大约几分钱,充 10 块钱能用很久;中文好:生成的摘要、笔记是地道的中文,对中文研究者极度…"
   },
@@ -343,9 +363,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2066855083103590254",
     "CreatedAt": 1785556652,
-    "LikeCount": 34,
+    "LikeCount": 35,
     "CommentCount": 0,
-    "FavoriteCount": 64,
+    "FavoriteCount": 65,
     "Title": "为什么人们如此关心激子（exciton）？",
     "Summary": "最近读到一篇发表在 ACS Nano 的工作：Excitonic Shift Current in Monolayer MoS₂。文章研究的是单层 MoS₂ 中的激子位移电流，也就是 excitonic shift current。主要表明：一些在线性吸收光谱中很弱的高阶激子，反而可以在非线性的直流光电流谱中形成明显的峰、谷，甚至引起电流方向反转。这意味着，光学跃迁容不容易发生并不能完全决定它在 shift current 中是否重要。某个激子即使不容易被光激发，只要每次激发引起的极化…"
   },
@@ -433,9 +453,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2042279577020527281",
     "CreatedAt": 1779697885,
-    "LikeCount": 23,
+    "LikeCount": 25,
     "CommentCount": 0,
-    "FavoriteCount": 29,
+    "FavoriteCount": 31,
     "Title": "我开源了一个极简个人学术主页模板",
     "Summary": "最近给自己做了一个个人学术主页，用来集中展示论文、GitHub 项目、科研笔记和一些公开文章。 我的主页效果在这里： https://xin-jiaqi.github.io/ 做完之后，我把其中的个人信息删掉，整理成了一个可以复用的通用模板： https://github.com/Xin-Jiaqi/minimal-academic-homepage 这个模板的目标很简单：不用复杂框架，不用配置环境，只用一个 index.html 和一个 assets 文件夹，就能搭一个简洁、响应式、适合研究生和科研人员使用的个人学术主页。 [图片] 1. 为什么做这个主页？我之…"
   },
@@ -655,7 +675,7 @@
     "CreatedAt": 1754384766,
     "LikeCount": 9,
     "CommentCount": 5,
-    "FavoriteCount": 13,
+    "FavoriteCount": 16,
     "Title": "借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例",
     "Summary": "引言回到2022 年，我还是大学四年级学生，刚刚进入老师的课题组（计算材料方向），参与的第一个课题是“五边形链状结构的高通量筛选以及体光伏效应的模拟”，这篇工作后来于研究生入学前发表在 PRM上： Jiaqi Xin, Yaguang Guo and Qian Wang, PRM 2023 ）。当时大语言模型尚未普及，我对课题的初步接触主要靠读文献来完成。为了理解体光伏效应的微观机制、晶体结构与光电响应之间的关联等，我每天读文献、查术语，但整个学习过程…"
   },
