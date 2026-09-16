@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T23:54:42.125077+00:00",
+  "generated_at": "2026-09-16T14:44:17.739171+00:00",
   "source": "zhihu-cli me contents",
   "total": 117,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 57,
       "pin": 8
     },
-    "likes": 1216,
-    "favorites": 2876,
+    "likes": 1226,
+    "favorites": 2890,
     "comments": 105
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1789482647,
       "created_date": "2026-09-15",
-      "likes": 3,
-      "favorites": 4,
+      "likes": 12,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -116,8 +116,8 @@
       "content_type": "article",
       "created_at": 1789482646,
       "created_date": "2026-09-15",
-      "likes": 2,
-      "favorites": 1,
+      "likes": 3,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -165,7 +165,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 16,
-      "favorites": 46,
+      "favorites": 47,
       "comments": 1,
       "category": {
         "id": "other",
@@ -373,7 +373,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 24,
-      "favorites": 52,
+      "favorites": 53,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -997,7 +997,7 @@
       "created_at": 1755528037,
       "created_date": "2025-08-18",
       "likes": 30,
-      "favorites": 44,
+      "favorites": 45,
       "comments": 1,
       "category": {
         "id": "twod",
