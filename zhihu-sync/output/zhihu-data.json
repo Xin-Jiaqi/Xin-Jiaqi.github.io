@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T14:47:50.879212+00:00",
+  "generated_at": "2026-09-17T23:51:14.589823+00:00",
   "source": "zhihu-cli me contents",
   "total": 117,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 57,
       "pin": 8
     },
-    "likes": 1230,
-    "favorites": 2897,
-    "comments": 72
+    "likes": 1231,
+    "favorites": 2898,
+    "comments": 105
   },
   "categories": [
     {
@@ -100,7 +100,7 @@
       "content_type": "answer",
       "created_at": 1789482647,
       "created_date": "2026-09-15",
-      "likes": 15,
+      "likes": 16,
       "favorites": 16,
       "comments": 0,
       "category": {
@@ -1766,7 +1766,7 @@
       "created_date": "2024-01-21",
       "likes": 36,
       "favorites": 94,
-      "comments": 0,
+      "comments": 10,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -1861,8 +1861,8 @@
       "created_at": 1701831080,
       "created_date": "2023-12-06",
       "likes": 25,
-      "favorites": 53,
-      "comments": 0,
+      "favorites": 54,
+      "comments": 10,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -1894,7 +1894,7 @@
       "created_date": "2023-12-04",
       "likes": 61,
       "favorites": 108,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1926,7 +1926,7 @@
       "created_date": "2023-11-23",
       "likes": 6,
       "favorites": 27,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "theory",
         "label": "数学与理论笔记",
@@ -1942,7 +1942,7 @@
       "created_date": "2023-09-25",
       "likes": 23,
       "favorites": 41,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1958,7 +1958,7 @@
       "created_date": "2023-09-18",
       "likes": 31,
       "favorites": 36,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
