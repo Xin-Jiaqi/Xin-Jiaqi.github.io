@@ -1,10 +1,11 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 117 条创作 · 累计 1231 赞 / 2898 藏 · 更新于 2026-09-17
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 119 条创作 · 累计 1241 赞 / 2915 藏 · 更新于 2026-09-18
 
-### 铁电与极化 Ferroelectricity & Polarization（17 条）
+### 铁电与极化 Ferroelectricity & Polarization（18 条）
 
-- [堆叠理论系列 01｜双层堆叠铁电：从单层对称性到双层极化](https://zhuanlan.zhihu.com/p/2083320749029434774) · 文章 · 2026-09-15 · 赞 3 · 藏 5
+- [堆叠理论系列 02｜BSF 理论的完善：旋转构型与铁电切换](https://zhuanlan.zhihu.com/p/2084348688911046031) · 文章 · 2026-09-18 · 赞 1 · 藏 1
+- [堆叠理论系列 01｜双层堆叠铁电：从单层对称性到双层极化](https://zhuanlan.zhihu.com/p/2083320749029434774) · 文章 · 2026-09-15 · 赞 3 · 藏 6
 - [交错磁中的体光伏效应：零净磁矩如何产生 magnetic injection current](https://zhuanlan.zhihu.com/p/2073761160940218284) · 文章 · 2026-08-20 · 赞 1 · 藏 7
 - [四类体光伏效应的物理图像：从光偏振到量子几何](https://zhuanlan.zhihu.com/p/2073493242381857180) · 文章 · 2026-08-19 · 赞 2 · 藏 11
 - [内建电场怎样放大二维滑移铁电极化：Janus 双层的一个设计思路](https://zhuanlan.zhihu.com/p/2069471818356887667) · 文章 · 2026-08-15 · 赞 2 · 藏 3
@@ -25,7 +26,7 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 11 · 藏 19
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 35
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 36
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 35
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
@@ -44,7 +45,7 @@
 
 ### 计算方法与软件 Computational Methods（12 条）
 
-- [Research Note：单层 SnS 的紧束缚模型 arXiv](https://zhuanlan.zhihu.com/p/2065777386583487695) · 文章 · 2026-07-29 · 赞 5 · 藏 15
+- [Research Note：单层 SnS 的紧束缚模型 arXiv](https://zhuanlan.zhihu.com/p/2065777386583487695) · 文章 · 2026-07-29 · 赞 5 · 藏 16
 - [WannSymm 安装与使用教程](https://zhuanlan.zhihu.com/p/2043081520005505959) · 文章 · 2026-05-27 · 赞 16 · 藏 50
 - [批量判断 CIF / POSCAR / VASP 结构文件的空间群、点群和晶系](https://zhuanlan.zhihu.com/p/2039095412498359945) · 文章 · 2026-05-16 · 赞 0 · 藏 4
 - [理论笔记|计算工具 何为energy above convex hull ？以及如何绘制 phase diagrams？](https://zhuanlan.zhihu.com/p/12898835960) · 文章 · 2024-12-17 · 赞 10 · 藏 32
@@ -57,15 +58,16 @@
 - [能带计算有哪些必读的文献或教程？](https://www.zhihu.com/answer/3315160554) · 回答 · 2023-12-06 · 赞 6 · 藏 10
 - [计算工具 engwin.py：能带分析、wannier90解纠缠](https://zhuanlan.zhihu.com/p/657229195) · 文章 · 2023-09-25 · 赞 23 · 藏 41
 
-### 群论与对称性 Group Theory & Symmetry（15 条）
+### 群论与对称性 Group Theory & Symmetry（16 条）
 
-- [群论在你的学科有什么应用？](https://www.zhihu.com/answer/2083321902756582634) · 回答 · 2026-09-15 · 赞 16 · 藏 16
+- [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 4 · 藏 8
+- [群论在你的学科有什么应用？](https://www.zhihu.com/answer/2083321902756582634) · 回答 · 2026-09-15 · 赞 18 · 藏 18
 - [对称性指导与 AI 加速：面向反铁磁自旋电子学的插层过渡金属二硫属化合物设计](https://zhuanlan.zhihu.com/p/2082578508681954113) · 文章 · 2026-09-13 · 赞 1 · 藏 5
 - [为什么晶体具有对称性？](https://www.zhihu.com/answer/2039097566952936422) · 回答 · 2026-05-16 · 赞 3 · 藏 18
 - [群表示论有什么重要定理？](https://www.zhihu.com/answer/1940080082422047177) · 回答 · 2025-08-16 · 赞 7 · 藏 20
 - [理论笔记 群论chapter 2. 群的表示理论：概念总结](https://zhuanlan.zhihu.com/p/1937175368894257117) · 文章 · 2025-08-16 · 赞 11 · 藏 16
 - [学习群表示论有什么教材可以推荐？](https://www.zhihu.com/answer/1939782723398006321) · 回答 · 2025-08-15 · 赞 3 · 藏 7
-- [理论笔记 群论chapter 2: 群表示理论完整解题手稿](https://zhuanlan.zhihu.com/p/1939742654679212377) · 文章 · 2025-08-15 · 赞 16 · 藏 39
+- [理论笔记 群论chapter 2: 群表示理论完整解题手稿](https://zhuanlan.zhihu.com/p/1939742654679212377) · 文章 · 2025-08-15 · 赞 17 · 藏 40
 - [如何理解群论以及群论有什么比较典型易懂的应用？](https://www.zhihu.com/answer/1936549988835497280) · 回答 · 2025-08-06 · 赞 15 · 藏 41
 - [理论笔记 群论chapter 1. 群的结构特征：概念总结](https://zhuanlan.zhihu.com/p/1936543848932303720) · 文章 · 2025-08-06 · 赞 9 · 藏 12
 - [理论笔记 kagome晶格相关：van Hove奇点，对称性保护平带，Dirac点](https://zhuanlan.zhihu.com/p/1935800922589631729) · 文章 · 2025-08-04 · 赞 5 · 藏 8
@@ -143,7 +145,7 @@
 ### 其他 Others（7 条）
 
 - [AI+材料？](https://www.zhihu.com/answer/2082578793156318956) · 回答 · 2026-09-13 · 赞 1 · 藏 1
-- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 16 · 藏 47
+- [二维磁性材料有哪些可以研究的方向？](https://www.zhihu.com/answer/2073761747710883157) · 回答 · 2026-08-20 · 赞 18 · 藏 49
 - [电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？](https://www.zhihu.com/answer/2072265084265665825) · 回答 · 2026-08-16 · 赞 9 · 藏 30
 - [什么是“电偶极近似”？从一束光照进晶体说起](https://zhuanlan.zhihu.com/p/2070186428542330452) · 文章 · 2026-08-16 · 赞 2 · 藏 4
 - [目前在材料科学方面有什么比较好的数据库？](https://www.zhihu.com/answer/2071161869591647794) · 回答 · 2026-08-13 · 赞 4 · 藏 12
