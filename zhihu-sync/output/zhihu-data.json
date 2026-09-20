@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-19T13:48:23.253836+00:00",
+  "generated_at": "2026-09-20T14:02:32.079155+00:00",
   "source": "zhihu-cli me contents",
-  "total": 119,
+  "total": 121,
   "summary": {
-    "total": 119,
+    "total": 121,
     "by_type": {
-      "answer": 53,
-      "article": 58,
+      "answer": 54,
+      "article": 59,
       "pin": 8
     },
-    "likes": 1253,
-    "favorites": 2944,
+    "likes": 1261,
+    "favorites": 2949,
     "comments": 105
   },
   "categories": [
@@ -18,7 +18,7 @@
       "id": "ferroelectrics",
       "label": "铁电与极化",
       "label_en": "Ferroelectricity & Polarization",
-      "count": 18
+      "count": 19
     },
     {
       "id": "skyrmions",
@@ -48,7 +48,7 @@
       "id": "symmetry",
       "label": "群论与对称性",
       "label_en": "Group Theory & Symmetry",
-      "count": 16
+      "count": 17
     },
     {
       "id": "theory",
@@ -95,12 +95,44 @@
   ],
   "items": [
     {
+      "title": "物理生如何系统地学习必要的群论？",
+      "url": "https://www.zhihu.com/answer/2085040442207425534",
+      "content_type": "answer",
+      "created_at": 1789892379,
+      "created_date": "2026-09-20",
+      "likes": 4,
+      "favorites": 1,
+      "comments": 0,
+      "category": {
+        "id": "symmetry",
+        "label": "群论与对称性",
+        "label_en": "Group Theory & Symmetry"
+      },
+      "summary": "系列导航： 01 双层堆叠铁电理论 General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换 Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换（本文） Theory of Slidet"
+    },
+    {
+      "title": "堆叠理论系列 03｜Slidetronics：从构型关系到极化切换",
+      "url": "https://zhuanlan.zhihu.com/p/2085040091966322181",
+      "content_type": "article",
+      "created_at": 1789892378,
+      "created_date": "2026-09-20",
+      "likes": 1,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "ferroelectrics",
+        "label": "铁电与极化",
+        "label_en": "Ferroelectricity & Polarization"
+      },
+      "summary": "系列导航： 01 双层堆叠铁电理论 General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换 Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换（本文） Theory of Slidet"
+    },
+    {
       "title": "群论在物理学中的应用有什么？",
       "url": "https://www.zhihu.com/answer/2084349060799113118",
       "content_type": "answer",
       "created_at": 1789727541,
       "created_date": "2026-09-18",
-      "likes": 8,
+      "likes": 9,
       "favorites": 24,
       "comments": 0,
       "category": {
@@ -117,7 +149,7 @@
       "created_at": 1789727540,
       "created_date": "2026-09-18",
       "likes": 3,
-      "favorites": 2,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -197,7 +229,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 18,
-      "favorites": 49,
+      "favorites": 50,
       "comments": 1,
       "category": {
         "id": "other",
@@ -404,8 +436,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 25,
-      "favorites": 55,
+      "likes": 27,
+      "favorites": 56,
       "comments": 0,
       "category": {
         "id": "condensed",
