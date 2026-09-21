@@ -1,11 +1,71 @@
 [
   {
     "ContentType": "answer",
+    "Url": "https://www.zhihu.com/answer/2085040442207425534",
+    "CreatedAt": 1789892379,
+    "LikeCount": 5,
+    "CommentCount": 0,
+    "FavoriteCount": 3,
+    "Title": "物理生如何系统地学习必要的群论？",
+    "Summary": "系列导航： 01 双层堆叠铁电理论 General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换 Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换（本文） Theory of Slidetronics in Ferroelectric van der Waals Layers 04 滑移铁电中的非同步 BPVE Non-synchronous Bulk Photovoltaic Effect in Two-Dimensional Interlayer-Sliding Ferroelectrics …"
+  },
+  {
+    "ContentType": "article",
+    "Url": "https://zhuanlan.zhihu.com/p/2085040091966322181",
+    "CreatedAt": 1789892378,
+    "LikeCount": 2,
+    "CommentCount": 0,
+    "FavoriteCount": 0,
+    "Title": "堆叠理论系列 03｜Slidetronics：从构型关系到极化切换",
+    "Summary": "系列导航： 01 双层堆叠铁电理论 General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换 Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换（本文） Theory of Slidetronics in Ferroelectric van der Waals Layers 04 滑移铁电中的非同步 BPVE Non-synchronous Bulk Photovoltaic Effect in Two-Dimensional Interlayer-Sliding Ferroelectrics …"
+  },
+  {
+    "ContentType": "answer",
+    "Url": "https://www.zhihu.com/answer/2084349060799113118",
+    "CreatedAt": 1789727541,
+    "LikeCount": 9,
+    "CommentCount": 0,
+    "FavoriteCount": 25,
+    "Title": "群论在物理学中的应用有什么？",
+    "Summary": "系列导航： 01 双层堆叠铁电理论 General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换（本文） Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换 Theory of Slidetronics in Ferroelectric van der Waals Layers 04 滑移铁电中的非同步 BPVE Non-synchronous Bulk Photovoltaic Effect in Two-Dimensional Interlayer-Sliding Ferroelectrics …"
+  },
+  {
+    "ContentType": "article",
+    "Url": "https://zhuanlan.zhihu.com/p/2084348688911046031",
+    "CreatedAt": 1789727540,
+    "LikeCount": 3,
+    "CommentCount": 0,
+    "FavoriteCount": 4,
+    "Title": "堆叠理论系列 02｜BSF 理论的完善：旋转构型与铁电切换",
+    "Summary": "系列导航： 01 双层堆叠铁电理论 General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换（本文） Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换 Theory of Slidetronics in Ferroelectric van der Waals Layers 04 滑移铁电中的非同步 BPVE Non-synchronous Bulk Photovoltaic Effect in Two-Dimensional Interlayer-Sliding Ferroelectrics …"
+  },
+  {
+    "ContentType": "answer",
+    "Url": "https://www.zhihu.com/answer/2083321902756582634",
+    "CreatedAt": 1789482647,
+    "LikeCount": 22,
+    "CommentCount": 0,
+    "FavoriteCount": 25,
+    "Title": "群论在你的学科有什么应用？",
+    "Summary": "系列导航： 01 双层堆叠铁电理论（本文） General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换 Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换 Theory of Slidetronics in Ferroelectric van der Waals Layers 04 滑移铁电中的非同步 BPVE Non-synchronous Bulk Photovoltaic Effect in Two-Dimensional Interlayer-Sliding Ferroelectrics …"
+  },
+  {
+    "ContentType": "article",
+    "Url": "https://zhuanlan.zhihu.com/p/2083320749029434774",
+    "CreatedAt": 1789482646,
+    "LikeCount": 3,
+    "CommentCount": 0,
+    "FavoriteCount": 6,
+    "Title": "堆叠理论系列 01｜双层堆叠铁电：从单层对称性到双层极化",
+    "Summary": "系列导航： 01 双层堆叠铁电理论（本文） General Theory for Bilayer Stacking Ferroelectricity 02 BSF 理论的完善与铁电切换 Enhanced Theoretical Framework for Bilayer Stacking Ferroelectricity 03 Slidetronics 与滑移切换 Theory of Slidetronics in Ferroelectric van der Waals Layers 04 滑移铁电中的非同步 BPVE Non-synchronous Bulk Photovoltaic Effect in Two-Dimensional Interlayer-Sliding Ferroelectrics …"
+  },
+  {
+    "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2082578793156318956",
     "CreatedAt": 1789305476,
     "LikeCount": 1,
     "CommentCount": 0,
-    "FavoriteCount": 0,
+    "FavoriteCount": 1,
     "Title": "AI+材料？",
     "Summary": "本文精读 2026 年的预印本： Yu Pang et al., “Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics”, arXiv:2604.07689 (2026).这项工作研究的是插层过渡金属硫族化合物（intercalated transition metal dichalcogenides, iTMDs）。作者把群论、高通量 DFT 和图神经网络串在一起，在一个很大的插层构型空间里同时寻找两类反铁磁自旋电子材料： a… [公式] 对称性的 antiferromagnet，重点是 spin Edelstein effect 和 Néel spin-orbit torque（Néel SOT）。"
   },
@@ -15,7 +75,7 @@
     "CreatedAt": 1789305475,
     "LikeCount": 1,
     "CommentCount": 0,
-    "FavoriteCount": 0,
+    "FavoriteCount": 5,
     "Title": "对称性指导与 AI 加速：面向反铁磁自旋电子学的插层过渡金属二硫属化合物设计",
     "Summary": "本文精读 2026 年的预印本： Yu Pang et al., “Symmetry-guided and AI-accelerated design of intercalated transition metal dichalcogenides for antiferromagnetic spintronics”, arXiv:2604.07689 (2026).这项工作研究的是插层过渡金属硫族化合物（intercalated transition metal dichalcogenides, iTMDs）。作者把群论、高通量 DFT 和图神经网络串在一起，在一个很大的插层构型空间里同时寻找两类反铁磁自旋电子材料： a… [公式] 对称性的 antiferromagnet，重点是 spin Edelstein effect 和 Néel spin-orbit torque（Néel SOT）。"
   },
@@ -23,9 +83,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2073761747710883157",
     "CreatedAt": 1787203329,
-    "LikeCount": 16,
+    "LikeCount": 18,
     "CommentCount": 1,
-    "FavoriteCount": 44,
+    "FavoriteCount": 51,
     "Title": "二维磁性材料有哪些可以研究的方向？",
     "Summary": "交错磁性（altermagnetism）最近受到关注的一个重要原因，是它打破了我们过去对“铁磁”和“反铁磁”的一些直观二分。它可以像普通反铁磁一样具有接近零的净磁矩，同时又在动量空间产生很强的自旋劈裂，并由此支持一些看起来更接近铁磁体的输运和光学响应。 2025 年，Motohiko Ezawa 在 Physical Review B 发表了 Bulk photovoltaic effects in altermagnets，用一个非常简洁的二维两能带模型讨论交错磁中的体光伏效应（bulk pho…"
   },
@@ -75,7 +135,7 @@
     "CreatedAt": 1786846496,
     "LikeCount": 9,
     "CommentCount": 0,
-    "FavoriteCount": 29,
+    "FavoriteCount": 30,
     "Title": "电偶极/电四极跃迁的具体定义是什么？为什么叫这个名字？",
     "Summary": "在非线性光学、光伏效应或者能带跃迁的论文里，经常会看到一句话： 本文讨论电偶极近似（electric-dipole approximation）下的光学响应。这句话很常见，但如果只把它理解成一个数学近似，其实很难建立物理图像。 “电偶极近似”真正直观的核心只有一句话： 光的波长比一个晶胞大太多，因此对于一个晶胞里的电子来说，光的电场几乎是均匀的。换句话说，电子虽然处在一束传播的电磁波中，但如果只把视野缩小到一个晶胞，它几乎感觉…"
   },
@@ -95,7 +155,7 @@
     "CreatedAt": 1786763631,
     "LikeCount": 12,
     "CommentCount": 0,
-    "FavoriteCount": 13,
+    "FavoriteCount": 14,
     "Title": "二维材料？",
     "Summary": "二维滑移铁电有一个很吸引人的特点：极化反转主要依靠层间滑移完成，弱范德华相互作用使切换势垒可以很低。 典型例子是 3R 堆叠的双层 TMD。改变两层之间的横向相对位置，可以得到具有相反面外极化的 AB 和 AC 构型。相比传统铁电中需要明显离子位移的切换过程，这类滑移路径的能垒往往只有十几个 meV。 但随之而来的问题也很直接： 滑移铁电的极化通常偏小。常见二维滑移铁电的极化约在 10⁻¹² C/m 量级。已有工作尝试通过应…"
   },
@@ -143,9 +203,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2070959181562114846",
     "CreatedAt": 1786583469,
-    "LikeCount": 9,
+    "LikeCount": 10,
     "CommentCount": 0,
-    "FavoriteCount": 21,
+    "FavoriteCount": 23,
     "Title": "交错磁材料怎么找：AMDB & amcheck",
     "Summary": "交错磁性已经有了一套相对清楚的对称性语言：反向自旋子晶格如果由平移或反演连接，通常对应 conventional AFM；如果补偿关系由其他空间操作建立，则可能出现一般 [公式] 点上的非相对论自旋劈裂（ L. Šmejkal, J. Sinova, T. Jungwirth, Emerging Research Landscape of Altermagnetism, Phys. Rev. X 12, 040501 (2022).）。理解这套分类以后，接下来很自然的问题就是：具体材料去哪里找？手里已经有一个磁结构时，又该…"
   },
@@ -153,9 +213,9 @@
     "ContentType": "answer",
     "Url": "https://www.zhihu.com/answer/2070819854018417107",
     "CreatedAt": 1786501927,
-    "LikeCount": 21,
+    "LikeCount": 27,
     "CommentCount": 0,
-    "FavoriteCount": 50,
+    "FavoriteCount": 58,
     "Title": "物理学里面的自旋轨道耦合应该怎样理解呢？",
     "Summary": "交错磁性（altermagnetism）这几年迅速成为凝聚态物理中的热门概念。它最吸引人的地方，是把两个过去常常绑定在一起的印象拆开了：一方面，体系像反铁磁体一样具有完全补偿的磁矩，净磁化可以为零；另一方面，它又能像铁磁体一样，在动量空间出现很强的自旋劈裂、产生自旋极化输运，并在合适的磁对称性下支持 anomalous Hall 等时间反演奇响应。 2022 年，Šmejkal、Sinova 和 Jungwirth 在 Physical Review X 发表 Perspectiv…"
   },
@@ -265,7 +325,7 @@
     "CreatedAt": 1786074679,
     "LikeCount": 12,
     "CommentCount": 0,
-    "FavoriteCount": 34,
+    "FavoriteCount": 36,
     "Title": "什么是 skyrmion？",
     "Summary": "磁性 skyrmion 常被画成一个色彩鲜艳的自旋漩涡。第一次接触这类图时，很容易陷入术语：Néel skyrmion、Bloch skyrmion、antiskyrmion、meron、bimeron、skyrmionium、hopfion……名字越来越长，彼此关系也越来越难分。 Göbel、Mertig 和 Tretiakov 在 Physics Reports 发表的综述 Beyond skyrmions: Review and perspectives of alternative magnetic quasiparticles，提供了一张很适合初学者使用的“拓扑磁纹理地图”。文…"
   },
@@ -295,7 +355,7 @@
     "CreatedAt": 1785991295,
     "LikeCount": 21,
     "CommentCount": 0,
-    "FavoriteCount": 46,
+    "FavoriteCount": 47,
     "Title": "铁电性的统一定义（预印本 Unified definition of ferroelectricity）",
     "Summary": "铁电性在教科书中的定义很直接：材料具有自发极化，而且极化可以被外电场翻转。沿着这套思路，铁电相通常应当属于极性点群，极化方向也要服从 Neumann 原理。 现代极化理论让这个问题变得更微妙。周期晶体中的绝对极化具有多值性： [公式] 其中 [公式] 是沿晶格矢量 [公式] 的极化量子。一个绝缘态…"
   },
@@ -333,9 +393,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/2068364136807927941",
     "CreatedAt": 1785916518,
-    "LikeCount": 21,
+    "LikeCount": 22,
     "CommentCount": 1,
-    "FavoriteCount": 108,
+    "FavoriteCount": 114,
     "Title": "给 Zotero 装上 DeepSeek-V4-Flash",
     "Summary": "个人的 Zotero + DeepSeek-V4-Flash 配置过程记录及总结,全程只需 10 分钟。三个组件,各司其职 组件 作用 成本 Zotero 文献管理,PDF 阅读器 免费开源 DeepSeek API 大模型大脑,负责理解、总结 按量计费,极便宜 llm-for-zotero 插件 桥梁,让 AI 长在 Zotero 里 免费开源 为什么选 DeepSeek 而不是 ChatGPT? 便宜: -V4-Flash 读一篇论文的成本大约几分钱,充 10 块钱能用很久;中文好:生成的摘要、笔记是地道的中文,对中文研究者极度…"
   },
@@ -365,7 +425,7 @@
     "CreatedAt": 1785556652,
     "LikeCount": 35,
     "CommentCount": 0,
-    "FavoriteCount": 65,
+    "FavoriteCount": 64,
     "Title": "为什么人们如此关心激子（exciton）？",
     "Summary": "最近读到一篇发表在 ACS Nano 的工作：Excitonic Shift Current in Monolayer MoS₂。文章研究的是单层 MoS₂ 中的激子位移电流，也就是 excitonic shift current。主要表明：一些在线性吸收光谱中很弱的高阶激子，反而可以在非线性的直流光电流谱中形成明显的峰、谷，甚至引起电流方向反转。这意味着，光学跃迁容不容易发生并不能完全决定它在 shift current 中是否重要。某个激子即使不容易被光激发，只要每次激发引起的极化…"
   },
@@ -405,7 +465,7 @@
     "CreatedAt": 1785301531,
     "LikeCount": 5,
     "CommentCount": 0,
-    "FavoriteCount": 15,
+    "FavoriteCount": 16,
     "Title": "Research Note：单层 SnS 的紧束缚模型 arXiv",
     "Summary": "读到 Yuki Kusunoki、Tomoaki Kameda 和 Katsunori Wakabayashi 在 2026 年的一篇预印本中，以单层 SnS 为例，对比了短程和长程两套 Wannier 紧束缚模型。他们得到一个很值得注意的结果： 只保留最近邻 hopping 的最小模型可以保留能带的主要结构，却会明显改变位移电流的峰位和峰值。这篇工作的材料对象并不陌生。单层 SnS 具有起伏的 puckered 晶格和面内铁电极化，空间反演对称性被破坏，因此允许产生体光伏效应中的位移电流…"
   },
@@ -545,7 +605,7 @@
     "CreatedAt": 1755528037,
     "LikeCount": 30,
     "CommentCount": 1,
-    "FavoriteCount": 44,
+    "FavoriteCount": 45,
     "Title": "二维材料的应用前景？",
     "Summary": "我们的长文理论工作“Enhanced theoretical framework for bilayer stacking ferroelectricity”于今年5月底在 physical review B 发表了： J. Xin, Y. Guo, and Q. Wang, Enhanced theoretical framework for bilayer stacking ferroelectricity, Phys. Rev. B 111, 224102 (2025). （1）去年8月，我们偶然搜索到一个双层结构，发现它的点群不符合【双层堆叠铁电理论 \"General Theory for Bilayer Stacking Ferroelectricity\" Ph…"
   },
@@ -603,9 +663,9 @@
     "ContentType": "article",
     "Url": "https://zhuanlan.zhihu.com/p/1939742654679212377",
     "CreatedAt": 1755260239,
-    "LikeCount": 16,
+    "LikeCount": 18,
     "CommentCount": 0,
-    "FavoriteCount": 39,
+    "FavoriteCount": 40,
     "Title": "理论笔记 群论chapter 2: 群表示理论完整解题手稿",
     "Summary": "这个暑假，我利用一些空闲时间自学北京大学李新征老师的《群论一》课程讲义。相比第一章“群的结构特征”，第二章“群表示论”的难度感觉有一个陡然的升级：群表示、正则表示、等价 / 不等价的可约 / 不可约表示、特征标理论、直积与诱导表示等，这些概念都比较抽象，推导过程中也涉及密集的公式（尤其是涉及矩阵元的计算，推导过程中往往有求和符号相互嵌套，比较难懂）。 在快速通读一遍内容后，我觉得还是先换一个切入方式，…"
   },
@@ -1085,7 +1145,7 @@
     "CreatedAt": 1701831080,
     "LikeCount": 25,
     "CommentCount": 10,
-    "FavoriteCount": 53,
+    "FavoriteCount": 54,
     "Title": "铁电材料体光伏效应的shift current应该怎么理解？",
     "Summary": "2023年7月，Phys. Rev. Materials 在线发表了北京交通大学郭亚光副教授课题组的研究论文：《Screening two-dimensional pyroelectric materials based on pentagonal chains with large shift current》。 摘要：本文作者在二维材料数据库 C2DB 中，采用高通量搜索算法，筛选出了一系列含五边形链的二维热释电材料，重点从位移电流理论（shift current）出发，研究了这类材料的体光伏效应（Bulk Photovoltaic Effect）、稳定性以…"
   },
