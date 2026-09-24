@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:11:10.624809+00:00",
+  "generated_at": "2026-09-24T14:47:13.108091+00:00",
   "source": "zhihu-cli me contents",
   "total": 123,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 60,
       "pin": 8
     },
-    "likes": 1284,
-    "favorites": 2997,
+    "likes": 1288,
+    "favorites": 3007,
     "comments": 106
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1790086985,
       "created_date": "2026-09-22",
-      "likes": 12,
-      "favorites": 13,
+      "likes": 14,
+      "favorites": 17,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -132,8 +132,8 @@
       "content_type": "answer",
       "created_at": 1789892379,
       "created_date": "2026-09-20",
-      "likes": 7,
-      "favorites": 11,
+      "likes": 8,
+      "favorites": 12,
       "comments": 1,
       "category": {
         "id": "symmetry",
@@ -229,7 +229,7 @@
       "created_at": 1789305476,
       "created_date": "2026-09-13",
       "likes": 1,
-      "favorites": 1,
+      "favorites": 2,
       "comments": 0,
       "category": {
         "id": "other",
@@ -261,7 +261,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 18,
-      "favorites": 55,
+      "favorites": 57,
       "comments": 1,
       "category": {
         "id": "other",
@@ -469,7 +469,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 27,
-      "favorites": 63,
+      "favorites": 64,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -484,7 +484,7 @@
       "content_type": "article",
       "created_at": 1786501926,
       "created_date": "2026-08-12",
-      "likes": 7,
+      "likes": 8,
       "favorites": 18,
       "comments": 0,
       "category": {
@@ -2037,7 +2037,7 @@
       "created_at": 1695606236,
       "created_date": "2023-09-25",
       "likes": 23,
-      "favorites": 41,
+      "favorites": 42,
       "comments": 3,
       "category": {
         "id": "computational",
