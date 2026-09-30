@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:58:10.362464+00:00",
+  "generated_at": "2026-09-30T16:20:10.127062+00:00",
   "source": "zhihu-cli me contents",
   "total": 125,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 61,
       "pin": 8
     },
-    "likes": 1312,
-    "favorites": 3059,
+    "likes": 1318,
+    "favorites": 3070,
     "comments": 107
   },
   "categories": [
@@ -100,8 +100,8 @@
       "content_type": "answer",
       "created_at": 1790683478,
       "created_date": "2026-09-29",
-      "likes": 1,
-      "favorites": 0,
+      "likes": 5,
+      "favorites": 3,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -117,7 +117,7 @@
       "created_at": 1790683477,
       "created_date": "2026-09-29",
       "likes": 1,
-      "favorites": 7,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -164,7 +164,7 @@
       "content_type": "answer",
       "created_at": 1789892379,
       "created_date": "2026-09-20",
-      "likes": 15,
+      "likes": 16,
       "favorites": 28,
       "comments": 1,
       "category": {
@@ -197,7 +197,7 @@
       "created_at": 1789727541,
       "created_date": "2026-09-18",
       "likes": 15,
-      "favorites": 31,
+      "favorites": 32,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -229,7 +229,7 @@
       "created_at": 1789482647,
       "created_date": "2026-09-15",
       "likes": 24,
-      "favorites": 29,
+      "favorites": 30,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -788,8 +788,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 25,
-      "favorites": 117,
+      "likes": 26,
+      "favorites": 118,
       "comments": 1,
       "category": {
         "id": "tools",
