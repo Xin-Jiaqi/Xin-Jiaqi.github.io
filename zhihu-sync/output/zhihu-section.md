@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 125 条创作 · 累计 1311 赞 / 3058 藏 · 更新于 2026-09-29
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 125 条创作 · 累计 1312 赞 / 3059 藏 · 更新于 2026-09-30
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -63,7 +63,7 @@
 ### 群论与对称性 Group Theory & Symmetry（20 条）
 
 - [磁性点群是什么？和晶体学点群的区别是什么？](https://www.zhihu.com/answer/2088358549558772569) · 回答 · 2026-09-29 · 赞 1 · 藏 0
-- [Magnetic group 和 spin group：SOC 如何改变磁性对称性的语言](https://zhuanlan.zhihu.com/p/2088358402917507662) · 文章 · 2026-09-29 · 赞 0 · 藏 6
+- [Magnetic group 和 spin group：SOC 如何改变磁性对称性的语言](https://zhuanlan.zhihu.com/p/2088358402917507662) · 文章 · 2026-09-29 · 赞 1 · 藏 7
 - [群论在固体物理中的具体应用有哪些？](https://www.zhihu.com/answer/2085856676784124988) · 回答 · 2026-09-22 · 赞 19 · 藏 21
 - [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 15 · 藏 28
 - [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 15 · 藏 31
