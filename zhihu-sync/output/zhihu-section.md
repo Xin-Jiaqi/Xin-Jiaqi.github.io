@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 127 条创作 · 累计 1325 赞 / 3098 藏 · 更新于 2026-10-03
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 127 条创作 · 累计 1325 赞 / 3107 藏 · 更新于 2026-10-03
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -34,7 +34,7 @@
 ### 激子与位移电流 Excitons & Shift Current（3 条）
 
 - [位移电流的公式？](https://www.zhihu.com/answer/2073493856281170915) · 回答 · 2026-08-19 · 赞 8 · 藏 26
-- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 35 · 藏 65
+- [为什么人们如此关心激子（exciton）？](https://www.zhihu.com/answer/2066855083103590254) · 回答 · 2026-08-01 · 赞 35 · 藏 66
 - [暗激子产生强位移电流：Excitonic Shift Current in Monolayer MoS2](https://zhuanlan.zhihu.com/p/2066854344708855533) · 文章 · 2026-08-01 · 赞 0 · 藏 1
 
 ### 二维材料与范德华 2D Materials & van der Waals（5 条）
@@ -62,9 +62,9 @@
 
 ### 群论与对称性 Group Theory & Symmetry（21 条）
 
-- [二维拓扑材料的系统分类：对称性，拓扑态，材料数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2089110960640471157) · 文章 · 2026-10-01 · 赞 2 · 藏 15
+- [二维拓扑材料的系统分类：对称性，拓扑态，材料数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2089110960640471157) · 文章 · 2026-10-01 · 赞 2 · 藏 18
 - [磁性点群是什么？和晶体学点群的区别是什么？](https://www.zhihu.com/answer/2088358549558772569) · 回答 · 2026-09-29 · 赞 5 · 藏 4
-- [Magnetic group 和 spin group：SOC 如何改变磁性对称性的语言](https://zhuanlan.zhihu.com/p/2088358402917507662) · 文章 · 2026-09-29 · 赞 3 · 藏 15
+- [Magnetic group 和 spin group：SOC 如何改变磁性对称性的语言](https://zhuanlan.zhihu.com/p/2088358402917507662) · 文章 · 2026-09-29 · 赞 3 · 藏 20
 - [群论在固体物理中的具体应用有哪些？](https://www.zhihu.com/answer/2085856676784124988) · 回答 · 2026-09-22 · 赞 19 · 藏 21
 - [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 16 · 藏 29
 - [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 15 · 藏 32
