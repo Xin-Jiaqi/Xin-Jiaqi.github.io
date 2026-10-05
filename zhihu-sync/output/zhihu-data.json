@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:23:16.100069+00:00",
+  "generated_at": "2026-10-05T19:20:07.644729+00:00",
   "source": "zhihu-cli me contents",
   "total": 127,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 62,
       "pin": 8
     },
-    "likes": 1329,
-    "favorites": 3115,
-    "comments": 109
+    "likes": 1332,
+    "favorites": 3122,
+    "comments": 72
   },
   "categories": [
     {
@@ -101,7 +101,7 @@
       "created_at": 1790862934,
       "created_date": "2026-10-01",
       "likes": 2,
-      "favorites": 3,
+      "favorites": 4,
       "comments": 0,
       "category": {
         "id": "other",
@@ -116,8 +116,8 @@
       "content_type": "article",
       "created_at": 1790862933,
       "created_date": "2026-10-01",
-      "likes": 4,
-      "favorites": 20,
+      "likes": 6,
+      "favorites": 22,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -149,7 +149,7 @@
       "created_at": 1790683477,
       "created_date": "2026-09-29",
       "likes": 3,
-      "favorites": 20,
+      "favorites": 21,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -261,7 +261,7 @@
       "created_at": 1789482647,
       "created_date": "2026-09-15",
       "likes": 24,
-      "favorites": 30,
+      "favorites": 31,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -532,8 +532,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 30,
-      "favorites": 78,
+      "likes": 31,
+      "favorites": 79,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -902,7 +902,7 @@
       "created_date": "2026-07-31",
       "likes": 0,
       "favorites": 0,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -918,7 +918,7 @@
       "created_date": "2026-07-31",
       "likes": 0,
       "favorites": 0,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -982,7 +982,7 @@
       "created_date": "2026-05-27",
       "likes": 16,
       "favorites": 50,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1030,7 +1030,7 @@
       "created_date": "2026-05-23",
       "likes": 9,
       "favorites": 11,
-      "comments": 3,
+      "comments": 0,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1046,7 +1046,7 @@
       "created_date": "2026-05-23",
       "likes": 3,
       "favorites": 6,
-      "comments": 4,
+      "comments": 0,
       "category": {
         "id": "opensource",
         "label": "开源与个人项目",
@@ -1110,7 +1110,7 @@
       "created_date": "2026-05-16",
       "likes": 0,
       "favorites": 4,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1158,7 +1158,7 @@
       "created_date": "2025-08-18",
       "likes": 30,
       "favorites": 45,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "twod",
         "label": "二维材料与范德华",
@@ -1174,7 +1174,7 @@
       "created_date": "2025-08-18",
       "likes": 6,
       "favorites": 4,
-      "comments": 4,
+      "comments": 0,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -1222,7 +1222,7 @@
       "created_date": "2025-08-16",
       "likes": 11,
       "favorites": 16,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -1366,7 +1366,7 @@
       "created_date": "2025-08-05",
       "likes": 9,
       "favorites": 17,
-      "comments": 5,
+      "comments": 0,
       "category": {
         "id": "ai",
         "label": "AI 与编程实践",
@@ -1430,7 +1430,7 @@
       "created_date": "2025-07-30",
       "likes": 4,
       "favorites": 14,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "condensed",
         "label": "凝聚态基础",
@@ -1526,7 +1526,7 @@
       "created_date": "2024-12-17",
       "likes": 10,
       "favorites": 32,
-      "comments": 2,
+      "comments": 0,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1590,7 +1590,7 @@
       "created_date": "2024-12-16",
       "likes": 5,
       "favorites": 9,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "ai",
         "label": "AI 与编程实践",
@@ -1606,7 +1606,7 @@
       "created_date": "2024-12-11",
       "likes": 5,
       "favorites": 5,
-      "comments": 1,
+      "comments": 0,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1622,7 +1622,7 @@
       "created_date": "2024-12-11",
       "likes": 1,
       "favorites": 2,
-      "comments": 2,
+      "comments": 0,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1654,7 +1654,7 @@
       "created_date": "2024-08-09",
       "likes": 21,
       "favorites": 6,
-      "comments": 6,
+      "comments": 0,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1670,7 +1670,7 @@
       "created_date": "2024-07-31",
       "likes": 4,
       "favorites": 2,
-      "comments": 2,
+      "comments": 0,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1909,7 +1909,7 @@
       "created_at": 1705834436,
       "created_date": "2024-01-21",
       "likes": 12,
-      "favorites": 44,
+      "favorites": 45,
       "comments": 0,
       "category": {
         "id": "symmetry",
