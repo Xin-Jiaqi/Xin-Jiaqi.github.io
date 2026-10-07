@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-06T16:36:49.417692+00:00",
+  "generated_at": "2026-10-07T17:21:26.752192+00:00",
   "source": "zhihu-cli me contents",
-  "total": 127,
+  "total": 129,
   "summary": {
-    "total": 127,
+    "total": 129,
     "by_type": {
-      "answer": 57,
-      "article": 62,
+      "answer": 58,
+      "article": 63,
       "pin": 8
     },
-    "likes": 1335,
-    "favorites": 3130,
+    "likes": 1341,
+    "favorites": 3145,
     "comments": 109
   },
   "categories": [
@@ -36,7 +36,7 @@
       "id": "twod",
       "label": "二维材料与范德华",
       "label_en": "2D Materials & van der Waals",
-      "count": 5
+      "count": 6
     },
     {
       "id": "computational",
@@ -90,10 +90,42 @@
       "id": "other",
       "label": "其他",
       "label_en": "Others",
-      "count": 8
+      "count": 9
     }
   ],
   "items": [
+    {
+      "title": "2022年了，魔角石墨烯还有前景吗？",
+      "url": "https://www.zhihu.com/answer/2091192267449055022",
+      "content_type": "answer",
+      "created_at": 1791359089,
+      "created_date": "2026-10-07",
+      "likes": 1,
+      "favorites": 0,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "前言Yi Jiang, Urko Petralanda, Hanqi Pi, Grigorii Skorupskii, et al., 2D theoretically twistable material database, Science 393, eadu1550 (2026). DOI: 10.1126/science.adu15502026 年，Yi Jiang 等在 Science 发"
+    },
+    {
+      "title": "从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026",
+      "url": "https://zhuanlan.zhihu.com/p/2091191574411613301",
+      "content_type": "article",
+      "created_at": 1791359088,
+      "created_date": "2026-10-07",
+      "likes": 1,
+      "favorites": 5,
+      "comments": 0,
+      "category": {
+        "id": "twod",
+        "label": "二维材料与范德华",
+        "label_en": "2D Materials & van der Waals"
+      },
+      "summary": "前言Yi Jiang, Urko Petralanda, Hanqi Pi, Grigorii Skorupskii, et al., 2D theoretically twistable material database, Science 393, eadu1550 (2026). DOI: 10.1126/science.adu15502026 年，Yi Jiang 等在 Science 发"
+    },
     {
       "title": "如何构建高质量材料数据库？",
       "url": "https://www.zhihu.com/answer/2089111245370701351",
@@ -117,7 +149,7 @@
       "created_at": 1790862933,
       "created_date": "2026-10-01",
       "likes": 6,
-      "favorites": 25,
+      "favorites": 27,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -309,7 +341,7 @@
       "created_at": 1789305475,
       "created_date": "2026-09-13",
       "likes": 1,
-      "favorites": 7,
+      "favorites": 10,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -325,7 +357,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 20,
-      "favorites": 63,
+      "favorites": 64,
       "comments": 5,
       "category": {
         "id": "other",
@@ -532,7 +564,7 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 31,
+      "likes": 33,
       "favorites": 79,
       "comments": 0,
       "category": {
@@ -820,8 +852,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 28,
-      "favorites": 120,
+      "likes": 29,
+      "favorites": 121,
       "comments": 1,
       "category": {
         "id": "tools",
@@ -1732,8 +1764,8 @@
       "content_type": "article",
       "created_at": 1722067014,
       "created_date": "2024-07-27",
-      "likes": 23,
-      "favorites": 39,
+      "likes": 24,
+      "favorites": 42,
       "comments": 6,
       "category": {
         "id": "tools",
