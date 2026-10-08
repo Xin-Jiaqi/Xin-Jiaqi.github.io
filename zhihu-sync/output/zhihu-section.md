@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1341 赞 / 3147 藏 · 更新于 2026-10-08
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1342 赞 / 3157 藏 · 更新于 2026-10-08
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -28,7 +28,7 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 11 · 藏 19
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 38
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 39
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 35
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
@@ -39,7 +39,7 @@
 
 ### 二维材料与范德华 2D Materials & van der Waals（6 条）
 
-- [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 1 · 藏 5
+- [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 1 · 藏 7
 - [二维材料？](https://www.zhihu.com/answer/2071917522409072113) · 回答 · 2026-08-15 · 赞 12 · 藏 14
 - [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 30 · 藏 45
 - [二维半导体材料的研究前景？](https://www.zhihu.com/answer/3406767338) · 回答 · 2024-02-23 · 赞 8 · 藏 12
@@ -63,11 +63,11 @@
 
 ### 群论与对称性 Group Theory & Symmetry（21 条）
 
-- [二维拓扑材料的系统分类：对称性，拓扑态，材料数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2089110960640471157) · 文章 · 2026-10-01 · 赞 6 · 藏 27
+- [二维拓扑材料的系统分类：对称性，拓扑态，材料数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2089110960640471157) · 文章 · 2026-10-01 · 赞 6 · 藏 30
 - [磁性点群是什么？和晶体学点群的区别是什么？](https://www.zhihu.com/answer/2088358549558772569) · 回答 · 2026-09-29 · 赞 5 · 藏 5
 - [Magnetic group 和 spin group：SOC 如何改变磁性对称性的语言](https://zhuanlan.zhihu.com/p/2088358402917507662) · 文章 · 2026-09-29 · 赞 3 · 藏 22
 - [群论在固体物理中的具体应用有哪些？](https://www.zhihu.com/answer/2085856676784124988) · 回答 · 2026-09-22 · 赞 19 · 藏 21
-- [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 16 · 藏 30
+- [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 16 · 藏 31
 - [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 15 · 藏 32
 - [群论在你的学科有什么应用？](https://www.zhihu.com/answer/2083321902756582634) · 回答 · 2026-09-15 · 赞 26 · 藏 32
 - [对称性指导与 AI 加速：面向反铁磁自旋电子学的插层过渡金属二硫属化合物设计](https://zhuanlan.zhihu.com/p/2082578508681954113) · 文章 · 2026-09-13 · 赞 1 · 藏 10
@@ -116,7 +116,7 @@
 - [针对绘图方面的需求，matlab、python和R哪个更加强大？](https://www.zhihu.com/answer/3356622375) · 回答 · 2024-01-10 · 赞 6 · 藏 12
 - [计算工具 科研绘图之 MatLab 双纵轴曲线图：绘制场景、应用举例、相关代码及技巧](https://zhuanlan.zhihu.com/p/676932485) · 文章 · 2024-01-10 · 赞 21 · 藏 52
 - [Origin、MATLAB、Python 用于科研作图，哪个最好？](https://www.zhihu.com/answer/3312520211) · 回答 · 2023-12-04 · 赞 19 · 藏 68
-- [计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较](https://zhuanlan.zhihu.com/p/670058757) · 文章 · 2023-12-04 · 赞 61 · 藏 108
+- [计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较](https://zhuanlan.zhihu.com/p/670058757) · 文章 · 2023-12-04 · 赞 61 · 藏 109
 
 ### AI 与编程实践 AI & Programming（7 条）
 
@@ -130,7 +130,7 @@
 
 ### 凝聚态基础 Condensed Matter Basics（5 条）
 
-- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 33 · 藏 79
+- [物理学里面的自旋轨道耦合应该怎样理解呢？](https://www.zhihu.com/answer/2070819854018417107) · 回答 · 2026-08-12 · 赞 34 · 藏 81
 - [交错磁性的物理图像：从自旋子晶格到 d-wave 劈裂](https://zhuanlan.zhihu.com/p/2070819340618929436) · 文章 · 2026-08-12 · 赞 8 · 藏 18
 - [如何理解Kagome格子中的flat band？](https://www.zhihu.com/answer/1935806686838367493) · 回答 · 2025-08-04 · 赞 34 · 藏 63
 - [晶体里的自旋轨道耦合强度与哪些因素有关？](https://www.zhihu.com/answer/1934018431184791242) · 回答 · 2025-07-30 · 赞 8 · 藏 12
