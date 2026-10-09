@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:40:16.455950+00:00",
+  "generated_at": "2026-10-09T16:54:07.279014+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1343,
-    "favorites": 3157,
-    "comments": 46
+    "likes": 1347,
+    "favorites": 3163,
+    "comments": 109
   },
   "categories": [
     {
@@ -116,7 +116,7 @@
       "content_type": "article",
       "created_at": 1791359088,
       "created_date": "2026-10-07",
-      "likes": 1,
+      "likes": 4,
       "favorites": 7,
       "comments": 0,
       "category": {
@@ -404,8 +404,8 @@
       "content_type": "article",
       "created_at": 1787139458,
       "created_date": "2026-08-19",
-      "likes": 2,
-      "favorites": 11,
+      "likes": 3,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -645,7 +645,7 @@
       "created_at": 1786328866,
       "created_date": "2026-08-10",
       "likes": 2,
-      "favorites": 4,
+      "favorites": 5,
       "comments": 1,
       "category": {
         "id": "opensource",
@@ -853,7 +853,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 29,
-      "favorites": 121,
+      "favorites": 123,
       "comments": 1,
       "category": {
         "id": "tools",
@@ -901,7 +901,7 @@
       "created_at": 1785556652,
       "created_date": "2026-08-01",
       "likes": 35,
-      "favorites": 66,
+      "favorites": 67,
       "comments": 0,
       "category": {
         "id": "excitons",
@@ -1045,7 +1045,7 @@
       "created_at": 1779697885,
       "created_date": "2026-05-25",
       "likes": 25,
-      "favorites": 31,
+      "favorites": 32,
       "comments": 0,
       "category": {
         "id": "opensource",
@@ -1702,7 +1702,7 @@
       "created_date": "2024-07-31",
       "likes": 4,
       "favorites": 2,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1750,7 +1750,7 @@
       "created_date": "2024-07-27",
       "likes": 151,
       "favorites": 519,
-      "comments": 0,
+      "comments": 15,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1766,7 +1766,7 @@
       "created_date": "2024-07-27",
       "likes": 24,
       "favorites": 42,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1798,7 +1798,7 @@
       "created_date": "2024-03-01",
       "likes": 23,
       "favorites": 87,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1830,7 +1830,7 @@
       "created_date": "2024-02-27",
       "likes": 28,
       "favorites": 54,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1878,7 +1878,7 @@
       "created_date": "2024-02-11",
       "likes": 4,
       "favorites": 8,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -1958,7 +1958,7 @@
       "created_date": "2024-01-21",
       "likes": 36,
       "favorites": 94,
-      "comments": 0,
+      "comments": 10,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -2054,7 +2054,7 @@
       "created_date": "2023-12-06",
       "likes": 25,
       "favorites": 54,
-      "comments": 0,
+      "comments": 10,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -2086,7 +2086,7 @@
       "created_date": "2023-12-04",
       "likes": 61,
       "favorites": 109,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -2118,7 +2118,7 @@
       "created_date": "2023-11-23",
       "likes": 6,
       "favorites": 27,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "theory",
         "label": "数学与理论笔记",
@@ -2134,7 +2134,7 @@
       "created_date": "2023-09-25",
       "likes": 23,
       "favorites": 42,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -2150,7 +2150,7 @@
       "created_date": "2023-09-18",
       "likes": 31,
       "favorites": 36,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
