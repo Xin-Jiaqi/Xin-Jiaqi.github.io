@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:47:47.479423+00:00",
+  "generated_at": "2026-10-11T00:37:57.865457+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1349,
-    "favorites": 3171,
+    "likes": 1350,
+    "favorites": 3172,
     "comments": 109
   },
   "categories": [
@@ -164,7 +164,7 @@
       "content_type": "answer",
       "created_at": 1790683478,
       "created_date": "2026-09-29",
-      "likes": 5,
+      "likes": 6,
       "favorites": 5,
       "comments": 0,
       "category": {
@@ -1109,7 +1109,7 @@
       "created_at": 1779337538,
       "created_date": "2026-05-21",
       "likes": 12,
-      "favorites": 11,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
