@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1352 赞 / 3175 藏 · 更新于 2026-10-12
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1352 赞 / 3177 藏 · 更新于 2026-10-12
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -54,7 +54,7 @@
 - [理论笔记|计算工具 何为energy above convex hull ？以及如何绘制 phase diagrams？](https://zhuanlan.zhihu.com/p/12898835960) · 文章 · 2024-12-17 · 赞 10 · 藏 32
 - [怎么样批量获取Materials Project的数据？](https://www.zhihu.com/answer/53175564036) · 回答 · 2024-12-11 · 赞 5 · 藏 5
 - [计算工具 将 ICSD ID 映射到 Materials Project ID 以获取材料结构](https://zhuanlan.zhihu.com/p/12104818456) · 文章 · 2024-12-11 · 赞 1 · 藏 2
-- [计算工具 cif文件到POSCAR的批量转换（使用Python的ASE库）](https://zhuanlan.zhihu.com/p/11206188677) · 文章 · 2024-12-06 · 赞 9 · 藏 5
+- [计算工具 cif文件到POSCAR的批量转换（使用Python的ASE库）](https://zhuanlan.zhihu.com/p/11206188677) · 文章 · 2024-12-06 · 赞 9 · 藏 6
 - [用MS编辑POSCAR是不是主流？](https://www.zhihu.com/answer/3577247855) · 回答 · 2024-07-29 · 赞 2 · 藏 3
 - [计算工具 VASP POSCAR文件从笛卡尔坐标（Cartesian）转换为分数坐标（Direct）的MatLab脚本](https://zhuanlan.zhihu.com/p/711541234) · 文章 · 2024-07-29 · 赞 2 · 藏 5
 - [文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用](https://zhuanlan.zhihu.com/p/681268408) · 文章 · 2024-02-04 · 赞 7 · 藏 10
@@ -69,7 +69,7 @@
 - [群论在固体物理中的具体应用有哪些？](https://www.zhihu.com/answer/2085856676784124988) · 回答 · 2026-09-22 · 赞 19 · 藏 21
 - [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 16 · 藏 31
 - [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 15 · 藏 32
-- [群论在你的学科有什么应用？](https://www.zhihu.com/answer/2083321902756582634) · 回答 · 2026-09-15 · 赞 26 · 藏 32
+- [群论在你的学科有什么应用？](https://www.zhihu.com/answer/2083321902756582634) · 回答 · 2026-09-15 · 赞 26 · 藏 33
 - [对称性指导与 AI 加速：面向反铁磁自旋电子学的插层过渡金属二硫属化合物设计](https://zhuanlan.zhihu.com/p/2082578508681954113) · 文章 · 2026-09-13 · 赞 1 · 藏 10
 - [为什么晶体具有对称性？](https://www.zhihu.com/answer/2039097566952936422) · 回答 · 2026-05-16 · 赞 3 · 藏 18
 - [群表示论有什么重要定理？](https://www.zhihu.com/answer/1940080082422047177) · 回答 · 2025-08-16 · 赞 7 · 藏 20
