@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1352 赞 / 3177 藏 · 更新于 2026-10-12
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1355 赞 / 3177 藏 · 更新于 2026-10-13
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -22,7 +22,7 @@
 - [理论笔记 晶体极化与极化量子：基本概念，Qvalue.py脚本及文献数据复现](https://zhuanlan.zhihu.com/p/1974849644753331274) · 文章 · 2025-11-20 · 赞 11 · 藏 20
 - [文献精析 双层堆叠铁电理论的两方面扩展](https://zhuanlan.zhihu.com/p/1940904670697615387) · 文章 · 2025-08-18 · 赞 6 · 藏 4
 - [想学习一下铁电、铁磁、超导方面的内容，求推荐？](https://www.zhihu.com/answer/3393364801) · 回答 · 2024-02-11 · 赞 4 · 藏 8
-- [铁电材料体光伏效应的shift current应该怎么理解？](https://www.zhihu.com/answer/3315158231) · 回答 · 2023-12-06 · 赞 25 · 藏 54
+- [铁电材料体光伏效应的shift current应该怎么理解？](https://www.zhihu.com/answer/3315158231) · 回答 · 2023-12-06 · 赞 27 · 藏 54
 - [文献精析 体光伏效应：含五边形链状结构的二维热释电材料CuXX'Y](https://zhuanlan.zhihu.com/p/656334259) · 文章 · 2023-09-18 · 赞 31 · 藏 36
 
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
@@ -41,7 +41,7 @@
 
 - [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 4 · 藏 8
 - [二维材料？](https://www.zhihu.com/answer/2071917522409072113) · 回答 · 2026-08-15 · 赞 12 · 藏 14
-- [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 30 · 藏 45
+- [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 31 · 藏 45
 - [二维半导体材料的研究前景？](https://www.zhihu.com/answer/3406767338) · 回答 · 2024-02-23 · 赞 8 · 藏 12
 - [文献精析 ACS Nano：范德华双层同质结嵌入同种金属原子的高通量计算及能带特性（ic-2D 材料）](https://zhuanlan.zhihu.com/p/682072052) · 文章 · 2024-02-23 · 赞 4 · 藏 2
 - [文献精析 nature communications：范德华双层同质结堆叠的高通量设计、筛选及计算（从C2DB到BiDB）](https://zhuanlan.zhihu.com/p/681969934) · 文章 · 2024-02-11 · 赞 7 · 藏 11
