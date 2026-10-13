@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T02:48:27.868351+00:00",
+  "generated_at": "2026-10-13T17:27:22.730913+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1355,
-    "favorites": 3177,
-    "comments": 109
+    "likes": 1362,
+    "favorites": 3183,
+    "comments": 110
   },
   "categories": [
     {
@@ -148,7 +148,7 @@
       "content_type": "article",
       "created_at": 1790862933,
       "created_date": "2026-10-01",
-      "likes": 6,
+      "likes": 8,
       "favorites": 30,
       "comments": 0,
       "category": {
@@ -181,7 +181,7 @@
       "created_at": 1790683477,
       "created_date": "2026-09-29",
       "likes": 3,
-      "favorites": 22,
+      "favorites": 26,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -228,7 +228,7 @@
       "content_type": "answer",
       "created_at": 1789892379,
       "created_date": "2026-09-20",
-      "likes": 16,
+      "likes": 18,
       "favorites": 31,
       "comments": 1,
       "category": {
@@ -852,9 +852,9 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 29,
-      "favorites": 124,
-      "comments": 1,
+      "likes": 32,
+      "favorites": 125,
+      "comments": 2,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -1253,7 +1253,7 @@
       "created_at": 1755331135,
       "created_date": "2025-08-16",
       "likes": 11,
-      "favorites": 16,
+      "favorites": 17,
       "comments": 1,
       "category": {
         "id": "symmetry",
