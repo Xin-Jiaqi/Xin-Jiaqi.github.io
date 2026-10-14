@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1362 赞 / 3183 藏 · 更新于 2026-10-13
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1362 赞 / 3183 藏 · 更新于 2026-10-14
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
