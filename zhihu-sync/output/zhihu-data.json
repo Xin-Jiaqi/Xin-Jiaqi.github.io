@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:49:06.838155+00:00",
+  "generated_at": "2026-10-14T14:57:28.999811+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -10,8 +10,8 @@
       "pin": 8
     },
     "likes": 1362,
-    "favorites": 3183,
-    "comments": 75
+    "favorites": 3186,
+    "comments": 110
   },
   "categories": [
     {
@@ -181,7 +181,7 @@
       "created_at": 1790683477,
       "created_date": "2026-09-29",
       "likes": 3,
-      "favorites": 26,
+      "favorites": 27,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -357,7 +357,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 23,
-      "favorites": 65,
+      "favorites": 66,
       "comments": 5,
       "category": {
         "id": "other",
@@ -565,7 +565,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 34,
-      "favorites": 84,
+      "favorites": 85,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -934,7 +934,7 @@
       "created_date": "2026-07-31",
       "likes": 0,
       "favorites": 0,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -950,7 +950,7 @@
       "created_date": "2026-07-31",
       "likes": 0,
       "favorites": 0,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1014,7 +1014,7 @@
       "created_date": "2026-05-27",
       "likes": 16,
       "favorites": 50,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1062,7 +1062,7 @@
       "created_date": "2026-05-23",
       "likes": 9,
       "favorites": 11,
-      "comments": 0,
+      "comments": 3,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -1078,7 +1078,7 @@
       "created_date": "2026-05-23",
       "likes": 3,
       "favorites": 6,
-      "comments": 0,
+      "comments": 4,
       "category": {
         "id": "opensource",
         "label": "开源与个人项目",
@@ -1142,7 +1142,7 @@
       "created_date": "2026-05-16",
       "likes": 0,
       "favorites": 4,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1190,7 +1190,7 @@
       "created_date": "2025-08-18",
       "likes": 31,
       "favorites": 45,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "twod",
         "label": "二维材料与范德华",
@@ -1206,7 +1206,7 @@
       "created_date": "2025-08-18",
       "likes": 6,
       "favorites": 4,
-      "comments": 0,
+      "comments": 4,
       "category": {
         "id": "ferroelectrics",
         "label": "铁电与极化",
@@ -1254,7 +1254,7 @@
       "created_date": "2025-08-16",
       "likes": 11,
       "favorites": 17,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -1398,7 +1398,7 @@
       "created_date": "2025-08-05",
       "likes": 9,
       "favorites": 17,
-      "comments": 0,
+      "comments": 5,
       "category": {
         "id": "ai",
         "label": "AI 与编程实践",
@@ -1462,7 +1462,7 @@
       "created_date": "2025-07-30",
       "likes": 4,
       "favorites": 14,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "condensed",
         "label": "凝聚态基础",
@@ -1558,7 +1558,7 @@
       "created_date": "2024-12-17",
       "likes": 10,
       "favorites": 32,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1622,7 +1622,7 @@
       "created_date": "2024-12-16",
       "likes": 5,
       "favorites": 9,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "ai",
         "label": "AI 与编程实践",
@@ -1638,7 +1638,7 @@
       "created_date": "2024-12-11",
       "likes": 5,
       "favorites": 5,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1654,7 +1654,7 @@
       "created_date": "2024-12-11",
       "likes": 1,
       "favorites": 2,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1686,7 +1686,7 @@
       "created_date": "2024-08-09",
       "likes": 21,
       "favorites": 6,
-      "comments": 0,
+      "comments": 6,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
