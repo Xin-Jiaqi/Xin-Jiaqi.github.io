@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T14:47:06.088232+00:00",
+  "generated_at": "2026-10-16T00:00:38.382150+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -10,7 +10,7 @@
       "pin": 8
     },
     "likes": 1363,
-    "favorites": 3188,
+    "favorites": 3190,
     "comments": 110
   },
   "categories": [
@@ -261,7 +261,7 @@
       "created_at": 1789727541,
       "created_date": "2026-09-18",
       "likes": 15,
-      "favorites": 32,
+      "favorites": 33,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -789,7 +789,7 @@
       "created_at": 1785991295,
       "created_date": "2026-08-06",
       "likes": 21,
-      "favorites": 47,
+      "favorites": 48,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
