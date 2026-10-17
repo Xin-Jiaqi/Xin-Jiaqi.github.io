@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1365 赞 / 3192 藏 · 更新于 2026-10-16
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1367 赞 / 3195 藏 · 更新于 2026-10-17
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -28,7 +28,7 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 11 · 藏 19
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 12 · 藏 39
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 14 · 藏 39
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 35
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
@@ -39,7 +39,7 @@
 
 ### 二维材料与范德华 2D Materials & van der Waals（6 条）
 
-- [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 4 · 藏 8
+- [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 4 · 藏 9
 - [二维材料？](https://www.zhihu.com/answer/2071917522409072113) · 回答 · 2026-08-15 · 赞 12 · 藏 14
 - [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 31 · 藏 45
 - [二维半导体材料的研究前景？](https://www.zhihu.com/answer/3406767338) · 回答 · 2024-02-23 · 赞 8 · 藏 12
@@ -67,8 +67,8 @@
 - [磁性点群是什么？和晶体学点群的区别是什么？](https://www.zhihu.com/answer/2088358549558772569) · 回答 · 2026-09-29 · 赞 6 · 藏 5
 - [Magnetic group 和 spin group：SOC 如何改变磁性对称性的语言](https://zhuanlan.zhihu.com/p/2088358402917507662) · 文章 · 2026-09-29 · 赞 3 · 藏 28
 - [群论在固体物理中的具体应用有哪些？](https://www.zhihu.com/answer/2085856676784124988) · 回答 · 2026-09-22 · 赞 19 · 藏 21
-- [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 18 · 藏 31
-- [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 15 · 藏 33
+- [物理生如何系统地学习必要的群论？](https://www.zhihu.com/answer/2085040442207425534) · 回答 · 2026-09-20 · 赞 18 · 藏 32
+- [群论在物理学中的应用有什么？](https://www.zhihu.com/answer/2084349060799113118) · 回答 · 2026-09-18 · 赞 15 · 藏 34
 - [群论在你的学科有什么应用？](https://www.zhihu.com/answer/2083321902756582634) · 回答 · 2026-09-15 · 赞 26 · 藏 33
 - [对称性指导与 AI 加速：面向反铁磁自旋电子学的插层过渡金属二硫属化合物设计](https://zhuanlan.zhihu.com/p/2082578508681954113) · 文章 · 2026-09-13 · 赞 1 · 藏 10
 - [为什么晶体具有对称性？](https://www.zhihu.com/answer/2039097566952936422) · 回答 · 2026-05-16 · 赞 3 · 藏 18

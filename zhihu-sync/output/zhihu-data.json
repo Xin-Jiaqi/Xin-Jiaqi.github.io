@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:41:01.992546+00:00",
+  "generated_at": "2026-10-17T00:06:37.784839+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1365,
-    "favorites": 3192,
+    "likes": 1367,
+    "favorites": 3195,
     "comments": 110
   },
   "categories": [
@@ -117,7 +117,7 @@
       "created_at": 1791359088,
       "created_date": "2026-10-07",
       "likes": 4,
-      "favorites": 8,
+      "favorites": 9,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -229,7 +229,7 @@
       "created_at": 1789892379,
       "created_date": "2026-09-20",
       "likes": 18,
-      "favorites": 31,
+      "favorites": 32,
       "comments": 1,
       "category": {
         "id": "symmetry",
@@ -261,7 +261,7 @@
       "created_at": 1789727541,
       "created_date": "2026-09-18",
       "likes": 15,
-      "favorites": 33,
+      "favorites": 34,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -740,7 +740,7 @@
       "content_type": "answer",
       "created_at": 1786074679,
       "created_date": "2026-08-07",
-      "likes": 12,
+      "likes": 14,
       "favorites": 39,
       "comments": 0,
       "category": {
