@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T13:51:53.287175+00:00",
+  "generated_at": "2026-10-18T23:52:01.960373+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -10,7 +10,7 @@
       "pin": 8
     },
     "likes": 1368,
-    "favorites": 3204,
+    "favorites": 3205,
     "comments": 110
   },
   "categories": [
@@ -741,7 +741,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 14,
-      "favorites": 39,
+      "favorites": 40,
       "comments": 0,
       "category": {
         "id": "skyrmions",
