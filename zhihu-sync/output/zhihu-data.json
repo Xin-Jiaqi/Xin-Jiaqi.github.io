@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T16:52:41.698161+00:00",
+  "generated_at": "2026-10-20T14:51:56.370673+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1370,
-    "favorites": 3207,
+    "likes": 1371,
+    "favorites": 3208,
     "comments": 110
   },
   "categories": [
@@ -117,7 +117,7 @@
       "created_at": 1791359088,
       "created_date": "2026-10-07",
       "likes": 4,
-      "favorites": 9,
+      "favorites": 10,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -852,7 +852,7 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 32,
+      "likes": 33,
       "favorites": 129,
       "comments": 2,
       "category": {
