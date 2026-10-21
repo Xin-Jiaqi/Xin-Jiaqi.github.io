@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T00:20:19.983870+00:00",
+  "generated_at": "2026-10-21T14:59:00.968954+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1373,
-    "favorites": 3210,
+    "likes": 1374,
+    "favorites": 3214,
     "comments": 110
   },
   "categories": [
@@ -116,7 +116,7 @@
       "content_type": "article",
       "created_at": 1791359088,
       "created_date": "2026-10-07",
-      "likes": 4,
+      "likes": 5,
       "favorites": 10,
       "comments": 0,
       "category": {
@@ -165,7 +165,7 @@
       "created_at": 1790683478,
       "created_date": "2026-09-29",
       "likes": 6,
-      "favorites": 5,
+      "favorites": 6,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -357,7 +357,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 25,
-      "favorites": 68,
+      "favorites": 69,
       "comments": 5,
       "category": {
         "id": "other",
@@ -741,7 +741,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 14,
-      "favorites": 40,
+      "favorites": 41,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -853,7 +853,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 33,
-      "favorites": 130,
+      "favorites": 131,
       "comments": 2,
       "category": {
         "id": "tools",
