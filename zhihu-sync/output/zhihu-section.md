@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1376 赞 / 3219 藏 · 更新于 2026-10-22
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1376 赞 / 3220 藏 · 更新于 2026-10-23
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -116,7 +116,7 @@
 - [针对绘图方面的需求，matlab、python和R哪个更加强大？](https://www.zhihu.com/answer/3356622375) · 回答 · 2024-01-10 · 赞 6 · 藏 12
 - [计算工具 科研绘图之 MatLab 双纵轴曲线图：绘制场景、应用举例、相关代码及技巧](https://zhuanlan.zhihu.com/p/676932485) · 文章 · 2024-01-10 · 赞 21 · 藏 52
 - [Origin、MATLAB、Python 用于科研作图，哪个最好？](https://www.zhihu.com/answer/3312520211) · 回答 · 2023-12-04 · 赞 19 · 藏 68
-- [计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较](https://zhuanlan.zhihu.com/p/670058757) · 文章 · 2023-12-04 · 赞 61 · 藏 109
+- [计算工具 科研绘图之热图 heatmap：MatLab、Python、Excel 和 Orgin 绘制方法全总结及横向比较](https://zhuanlan.zhihu.com/p/670058757) · 文章 · 2023-12-04 · 赞 61 · 藏 110
 
 ### AI 与编程实践 AI & Programming（7 条）
 
