@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1378 赞 / 3231 藏 · 更新于 2026-10-24
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1378 赞 / 3233 藏 · 更新于 2026-10-24
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -28,7 +28,7 @@
 ### 磁性斯格明子 Skyrmions & Magnetic Textures（3 条）
 
 - [把磁性 Skyrmion 家族做成一个可交互的纹理图鉴](https://zhuanlan.zhihu.com/p/2069141836590069454) · 文章 · 2026-08-09 · 赞 11 · 藏 19
-- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 14 · 藏 41
+- [什么是 skyrmion？](https://www.zhihu.com/answer/2069027849219184331) · 回答 · 2026-08-07 · 赞 14 · 藏 42
 - [磁性 Skyrmion 家族综述：从 Néel、Bloch 到 Meron、Hopfion](https://zhuanlan.zhihu.com/p/2069027257536999823) · 文章 · 2026-08-07 · 赞 12 · 藏 35
 
 ### 激子与位移电流 Excitons & Shift Current（3 条）
@@ -39,7 +39,7 @@
 
 ### 二维材料与范德华 2D Materials & van der Waals（6 条）
 
-- [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 5 · 藏 13
+- [从二维材料数据库中系统筛选“可扭转”体系：moiré 材料分类与数据库｜Science 2026](https://zhuanlan.zhihu.com/p/2091191574411613301) · 文章 · 2026-10-07 · 赞 5 · 藏 14
 - [二维材料？](https://www.zhihu.com/answer/2071917522409072113) · 回答 · 2026-08-15 · 赞 12 · 藏 14
 - [二维材料的应用前景？](https://www.zhihu.com/answer/1940905944943944747) · 回答 · 2025-08-18 · 赞 31 · 藏 45
 - [二维半导体材料的研究前景？](https://www.zhihu.com/answer/3406767338) · 回答 · 2024-02-23 · 赞 8 · 藏 12
