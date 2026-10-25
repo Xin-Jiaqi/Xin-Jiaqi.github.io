@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:12:28.031244+00:00",
+  "generated_at": "2026-10-25T23:43:28.645445+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -11,7 +11,7 @@
     },
     "likes": 1378,
     "favorites": 3235,
-    "comments": 98
+    "comments": 110
   },
   "categories": [
     {
@@ -230,7 +230,7 @@
       "created_date": "2026-09-20",
       "likes": 19,
       "favorites": 35,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -358,7 +358,7 @@
       "created_date": "2026-08-20",
       "likes": 26,
       "favorites": 71,
-      "comments": 0,
+      "comments": 5,
       "category": {
         "id": "other",
         "label": "其他",
@@ -422,7 +422,7 @@
       "created_date": "2026-08-16",
       "likes": 3,
       "favorites": 0,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -502,7 +502,7 @@
       "created_date": "2026-08-14",
       "likes": 11,
       "favorites": 43,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -646,7 +646,7 @@
       "created_date": "2026-08-10",
       "likes": 2,
       "favorites": 5,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "opensource",
         "label": "开源与个人项目",
@@ -694,7 +694,7 @@
       "created_date": "2026-08-09",
       "likes": 11,
       "favorites": 19,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "skyrmions",
         "label": "磁性斯格明子",
@@ -854,7 +854,7 @@
       "created_date": "2026-08-05",
       "likes": 33,
       "favorites": 133,
-      "comments": 0,
+      "comments": 2,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
