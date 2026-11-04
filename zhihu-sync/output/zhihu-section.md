@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1394 赞 / 3269 藏 · 更新于 2026-11-03
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1394 赞 / 3270 藏 · 更新于 2026-11-04
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -124,7 +124,7 @@
 - [OpenCode 接入 DeepSeek V4 Flash 配置指南](https://zhuanlan.zhihu.com/p/2068368163092291981) · 文章 · 2026-08-05 · 赞 0 · 藏 2
 - [如何看待2026年7月31日发布的deepseek v4-flash更新？](https://www.zhihu.com/answer/2068364475351163843) · 回答 · 2026-08-05 · 赞 11 · 藏 35
 - [初学者怎么入门大语言模型（LLM）？](https://www.zhihu.com/answer/1936110727275459553) · 回答 · 2025-08-05 · 赞 4 · 藏 4
-- [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 9 · 藏 18
+- [借助大语言模型快速了解陌生科研领域的个人体会：以kagome晶格与交错磁性为例](https://zhuanlan.zhihu.com/p/1935816800332915578) · 文章 · 2025-08-05 · 赞 9 · 藏 19
 - [copilot试用两个月到期了，有没有免费的可以替代copilot的ai代码辅助工具？](https://www.zhihu.com/answer/56401636365) · 回答 · 2024-12-16 · 赞 3 · 藏 2
 - [计算工具 GitHub Copilot：学生认证， Visual Studio Code 拓展安装，以及额外资料](https://zhuanlan.zhihu.com/p/711699575) · 文章 · 2024-12-16 · 赞 5 · 藏 9
 
