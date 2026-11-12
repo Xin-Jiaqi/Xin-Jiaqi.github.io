@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:57:06.289276+00:00",
+  "generated_at": "2026-11-12T18:01:24.725321+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 63,
       "pin": 8
     },
-    "likes": 1394,
-    "favorites": 3275,
-    "comments": 111
+    "likes": 1404,
+    "favorites": 3300,
+    "comments": 112
   },
   "categories": [
     {
@@ -260,8 +260,8 @@
       "content_type": "answer",
       "created_at": 1789727541,
       "created_date": "2026-09-18",
-      "likes": 15,
-      "favorites": 35,
+      "likes": 16,
+      "favorites": 36,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -293,7 +293,7 @@
       "created_at": 1789482647,
       "created_date": "2026-09-15",
       "likes": 26,
-      "favorites": 33,
+      "favorites": 34,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -325,7 +325,7 @@
       "created_at": 1789305476,
       "created_date": "2026-09-13",
       "likes": 1,
-      "favorites": 5,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "other",
@@ -501,7 +501,7 @@
       "created_at": 1786683792,
       "created_date": "2026-08-14",
       "likes": 11,
-      "favorites": 43,
+      "favorites": 46,
       "comments": 1,
       "category": {
         "id": "tools",
@@ -517,7 +517,7 @@
       "created_at": 1786683791,
       "created_date": "2026-08-14",
       "likes": 1,
-      "favorites": 7,
+      "favorites": 8,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -564,8 +564,8 @@
       "content_type": "answer",
       "created_at": 1786501927,
       "created_date": "2026-08-12",
-      "likes": 38,
-      "favorites": 103,
+      "likes": 39,
+      "favorites": 109,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -645,7 +645,7 @@
       "created_at": 1786328866,
       "created_date": "2026-08-10",
       "likes": 2,
-      "favorites": 5,
+      "favorites": 6,
       "comments": 1,
       "category": {
         "id": "opensource",
@@ -692,8 +692,8 @@
       "content_type": "article",
       "created_at": 1786233674,
       "created_date": "2026-08-09",
-      "likes": 11,
-      "favorites": 19,
+      "likes": 12,
+      "favorites": 20,
       "comments": 1,
       "category": {
         "id": "skyrmions",
@@ -757,7 +757,7 @@
       "created_at": 1786074679,
       "created_date": "2026-08-07",
       "likes": 12,
-      "favorites": 35,
+      "favorites": 36,
       "comments": 0,
       "category": {
         "id": "skyrmions",
@@ -837,7 +837,7 @@
       "created_at": 1785916519,
       "created_date": "2026-08-05",
       "likes": 11,
-      "favorites": 35,
+      "favorites": 34,
       "comments": 0,
       "category": {
         "id": "ai",
@@ -852,8 +852,8 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 36,
-      "favorites": 142,
+      "likes": 39,
+      "favorites": 146,
       "comments": 3,
       "category": {
         "id": "tools",
@@ -980,8 +980,8 @@
       "content_type": "answer",
       "created_at": 1781769487,
       "created_date": "2026-06-18",
-      "likes": 9,
-      "favorites": 12,
+      "likes": 10,
+      "favorites": 13,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -1013,8 +1013,8 @@
       "created_at": 1779890721,
       "created_date": "2026-05-27",
       "likes": 16,
-      "favorites": 50,
-      "comments": 1,
+      "favorites": 52,
+      "comments": 2,
       "category": {
         "id": "computational",
         "label": "计算方法与软件",
@@ -1060,7 +1060,7 @@
       "content_type": "answer",
       "created_at": 1779514279,
       "created_date": "2026-05-23",
-      "likes": 9,
+      "likes": 10,
       "favorites": 11,
       "comments": 3,
       "category": {
@@ -1173,7 +1173,7 @@
       "created_at": 1763646983,
       "created_date": "2025-11-20",
       "likes": 11,
-      "favorites": 20,
+      "favorites": 21,
       "comments": 0,
       "category": {
         "id": "ferroelectrics",
@@ -1189,7 +1189,7 @@
       "created_at": 1755528037,
       "created_date": "2025-08-18",
       "likes": 31,
-      "favorites": 45,
+      "favorites": 46,
       "comments": 1,
       "category": {
         "id": "twod",
@@ -1300,7 +1300,7 @@
       "content_type": "answer",
       "created_at": 1754896347,
       "created_date": "2025-08-11",
-      "likes": 6,
+      "likes": 7,
       "favorites": 12,
       "comments": 0,
       "category": {
@@ -1589,7 +1589,7 @@
       "created_at": 1734341535,
       "created_date": "2024-12-16",
       "likes": 7,
-      "favorites": 19,
+      "favorites": 18,
       "comments": 0,
       "category": {
         "id": "tools",
@@ -1893,7 +1893,7 @@
       "created_at": 1707633488,
       "created_date": "2024-02-11",
       "likes": 7,
-      "favorites": 11,
+      "favorites": 12,
       "comments": 0,
       "category": {
         "id": "twod",
@@ -1956,7 +1956,7 @@
       "content_type": "article",
       "created_at": 1705834127,
       "created_date": "2024-01-21",
-      "likes": 36,
+      "likes": 37,
       "favorites": 94,
       "comments": 10,
       "category": {
