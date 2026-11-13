@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:19:52.319637+00:00",
+  "generated_at": "2026-11-13T17:35:40.158844+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -10,7 +10,7 @@
       "pin": 8
     },
     "likes": 1404,
-    "favorites": 3301,
+    "favorites": 3305,
     "comments": 112
   },
   "categories": [
@@ -261,7 +261,7 @@
       "created_at": 1789727541,
       "created_date": "2026-09-18",
       "likes": 16,
-      "favorites": 36,
+      "favorites": 37,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -357,7 +357,7 @@
       "created_at": 1787203329,
       "created_date": "2026-08-20",
       "likes": 30,
-      "favorites": 75,
+      "favorites": 76,
       "comments": 5,
       "category": {
         "id": "other",
@@ -565,7 +565,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 39,
-      "favorites": 109,
+      "favorites": 110,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -2117,7 +2117,7 @@
       "created_at": 1700708881,
       "created_date": "2023-11-23",
       "likes": 6,
-      "favorites": 27,
+      "favorites": 28,
       "comments": 1,
       "category": {
         "id": "theory",
