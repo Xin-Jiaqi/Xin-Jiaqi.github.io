@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:35:40.158844+00:00",
+  "generated_at": "2026-11-14T01:56:26.696408+00:00",
   "source": "zhihu-cli me contents",
   "total": 129,
   "summary": {
@@ -10,7 +10,7 @@
       "pin": 8
     },
     "likes": 1404,
-    "favorites": 3305,
+    "favorites": 3306,
     "comments": 112
   },
   "categories": [
@@ -181,7 +181,7 @@
       "created_at": 1790683477,
       "created_date": "2026-09-29",
       "likes": 3,
-      "favorites": 31,
+      "favorites": 32,
       "comments": 0,
       "category": {
         "id": "symmetry",
