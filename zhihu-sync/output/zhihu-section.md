@@ -1,6 +1,6 @@
 ## Zhihu Creations（融合进 Posts & Notes）
 
-> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1407 赞 / 3311 藏 · 更新于 2026-11-15
+> 由知乎开放平台 Zhihu CLI 自动同步 · 共 129 条创作 · 累计 1407 赞 / 3312 藏 · 更新于 2026-11-15
 
 ### 铁电与极化 Ferroelectricity & Polarization（20 条）
 
@@ -59,7 +59,7 @@
 - [计算工具 VASP POSCAR文件从笛卡尔坐标（Cartesian）转换为分数坐标（Direct）的MatLab脚本](https://zhuanlan.zhihu.com/p/711541234) · 文章 · 2024-07-29 · 赞 2 · 藏 5
 - [文献精析 晶体点群的商群理论：Wigner、Zachariasen 两种定义及 BSF 理论对这一概念的应用](https://zhuanlan.zhihu.com/p/681268408) · 文章 · 2024-02-04 · 赞 7 · 藏 10
 - [能带计算有哪些必读的文献或教程？](https://www.zhihu.com/answer/3315160554) · 回答 · 2023-12-06 · 赞 6 · 藏 10
-- [计算工具 engwin.py：能带分析、wannier90解纠缠](https://zhuanlan.zhihu.com/p/657229195) · 文章 · 2023-09-25 · 赞 23 · 藏 43
+- [计算工具 engwin.py：能带分析、wannier90解纠缠](https://zhuanlan.zhihu.com/p/657229195) · 文章 · 2023-09-25 · 赞 23 · 藏 44
 
 ### 群论与对称性 Group Theory & Symmetry（21 条）
 
