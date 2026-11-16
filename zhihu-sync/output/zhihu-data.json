@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-15T16:53:09.286899+00:00",
+  "generated_at": "2026-11-16T20:09:55.920432+00:00",
   "source": "zhihu-cli me contents",
-  "total": 129,
+  "total": 131,
   "summary": {
-    "total": 129,
+    "total": 131,
     "by_type": {
-      "answer": 58,
-      "article": 63,
+      "answer": 59,
+      "article": 64,
       "pin": 8
     },
-    "likes": 1407,
-    "favorites": 3312,
+    "likes": 1409,
+    "favorites": 3319,
     "comments": 112
   },
   "categories": [
@@ -90,10 +90,42 @@
       "id": "other",
       "label": "其他",
       "label_en": "Others",
-      "count": 9
+      "count": 11
     }
   ],
   "items": [
+    {
+      "title": "有没有一个系统化的材料性能的数据库？",
+      "url": "https://www.zhihu.com/answer/2105776404671493854",
+      "content_type": "answer",
+      "created_at": 1794836218,
+      "created_date": "2026-11-16",
+      "likes": 1,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "我按研究问题整理了相关二维材料数据库与专题数据集，列出各自的用途、网址、下载方式和代表论文。 目录单层材料：C2DB、MC2D、2DMatPedia、JARVIS-DFT、V2DB双层与异质结：BiDB、HetDB、Tony Low 组异质结库、JARVIS-Hetero扭转与莫尔体系：理论可扭转材料数据库、SAMBA插层材料：层状插层化合物库、C2DB 自插层子集拓扑与磁性：2D-TQCDB、M"
+    },
+    {
+      "title": "二维及层状材料数据库总览（2026）",
+      "url": "https://zhuanlan.zhihu.com/p/2105775408599786019",
+      "content_type": "article",
+      "created_at": 1794836217,
+      "created_date": "2026-11-16",
+      "likes": 1,
+      "favorites": 2,
+      "comments": 0,
+      "category": {
+        "id": "other",
+        "label": "其他",
+        "label_en": "Others"
+      },
+      "summary": "我按研究问题整理了相关二维材料数据库与专题数据集，列出各自的用途、网址、下载方式和代表论文。 目录单层材料：C2DB、MC2D、2DMatPedia、JARVIS-DFT、V2DB双层与异质结：BiDB、HetDB、Tony Low 组异质结库、JARVIS-Hetero扭转与莫尔体系：理论可扭转材料数据库、SAMBA插层材料：层状插层化合物库、C2DB 自插层子集拓扑与磁性：2D-TQCDB、M"
+    },
     {
       "title": "2022年了，魔角石墨烯还有前景吗？",
       "url": "https://www.zhihu.com/answer/2091192267449055022",
@@ -293,7 +325,7 @@
       "created_at": 1789482647,
       "created_date": "2026-09-15",
       "likes": 26,
-      "favorites": 34,
+      "favorites": 35,
       "comments": 0,
       "category": {
         "id": "symmetry",
@@ -565,7 +597,7 @@
       "created_at": 1786501927,
       "created_date": "2026-08-12",
       "likes": 39,
-      "favorites": 112,
+      "favorites": 113,
       "comments": 0,
       "category": {
         "id": "condensed",
@@ -853,7 +885,7 @@
       "created_at": 1785916518,
       "created_date": "2026-08-05",
       "likes": 39,
-      "favorites": 148,
+      "favorites": 149,
       "comments": 3,
       "category": {
         "id": "tools",
