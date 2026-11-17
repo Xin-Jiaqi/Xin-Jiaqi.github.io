@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:17:17.191421+00:00",
+  "generated_at": "2026-11-17T19:00:21.539913+00:00",
   "source": "zhihu-cli me contents",
   "total": 131,
   "summary": {
@@ -9,8 +9,8 @@
       "article": 64,
       "pin": 8
     },
-    "likes": 1410,
-    "favorites": 3322,
+    "likes": 1412,
+    "favorites": 3326,
     "comments": 112
   },
   "categories": [
@@ -116,8 +116,8 @@
       "content_type": "article",
       "created_at": 1794836217,
       "created_date": "2026-11-16",
-      "likes": 1,
-      "favorites": 3,
+      "likes": 3,
+      "favorites": 7,
       "comments": 0,
       "category": {
         "id": "other",
