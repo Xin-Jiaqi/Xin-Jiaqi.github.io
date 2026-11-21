@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T02:57:09.715783+00:00",
+  "generated_at": "2026-11-21T17:14:26.353950+00:00",
   "source": "zhihu-cli me contents",
   "total": 131,
   "summary": {
@@ -9,9 +9,9 @@
       "article": 64,
       "pin": 8
     },
-    "likes": 1421,
-    "favorites": 3342,
-    "comments": 99
+    "likes": 1422,
+    "favorites": 3344,
+    "comments": 112
   },
   "categories": [
     {
@@ -262,7 +262,7 @@
       "created_date": "2026-09-20",
       "likes": 20,
       "favorites": 40,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "symmetry",
         "label": "群论与对称性",
@@ -390,7 +390,7 @@
       "created_date": "2026-08-20",
       "likes": 31,
       "favorites": 77,
-      "comments": 0,
+      "comments": 5,
       "category": {
         "id": "other",
         "label": "其他",
@@ -454,7 +454,7 @@
       "created_date": "2026-08-16",
       "likes": 3,
       "favorites": 0,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "essays",
         "label": "阅读与随笔",
@@ -534,7 +534,7 @@
       "created_date": "2026-08-14",
       "likes": 11,
       "favorites": 47,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
@@ -678,7 +678,7 @@
       "created_date": "2026-08-10",
       "likes": 2,
       "favorites": 7,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "opensource",
         "label": "开源与个人项目",
@@ -726,7 +726,7 @@
       "created_date": "2026-08-09",
       "likes": 12,
       "favorites": 20,
-      "comments": 0,
+      "comments": 1,
       "category": {
         "id": "skyrmions",
         "label": "磁性斯格明子",
@@ -884,9 +884,9 @@
       "content_type": "article",
       "created_at": 1785916518,
       "created_date": "2026-08-05",
-      "likes": 39,
-      "favorites": 152,
-      "comments": 0,
+      "likes": 40,
+      "favorites": 154,
+      "comments": 3,
       "category": {
         "id": "tools",
         "label": "科研工具与工作流",
